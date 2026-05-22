@@ -1,0 +1,46 @@
+{
+  "companyKey": "capstone-copper",
+  "symbols": [
+    "CS"
+  ],
+  "matchNames": [
+    "capstone"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Capstone Copper Mineral Reserves & Resources (Dec 2024)",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedCuLb": 5200000000
+    },
+    "measuredIndicated": {
+      "containedCuLb": 8900000000
+    },
+    "resourceTonnesMt": 1200,
+    "containedCuEqLb": 5200000000
+  },
+  "rows": [
+    {
+      "deposit": "Pinto Valley / Cozamin / Mantoverde",
+      "category": "reserves",
+      "classification": "P&P Cu",
+      "containedMetal": 5.2,
+      "containedUnit": "Blb Cu"
+    },
+    {
+      "deposit": "Consolidated",
+      "category": "resources",
+      "classification": "M&I Cu",
+      "containedMetal": 8.9,
+      "containedUnit": "Blb Cu"
+    }
+  ],
+  "disclaimers": [
+    "Capstone: Mineral Resources are reported inclusive of Mineral Reserves (company website).",
+    "Inferred resources reported separately."
+  ]
+}

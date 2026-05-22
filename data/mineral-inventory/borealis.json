@@ -1,0 +1,45 @@
+{
+  "companyKey": "borealis",
+  "symbols": [
+    "BOR"
+  ],
+  "matchNames": [
+    "borealis"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Borealis Mining internal / public project disclosures",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 0.8,
+      "attributableMoz": 0.8
+    },
+    "measuredIndicated": {
+      "containedMoz": 1.5,
+      "attributableMoz": 1.5
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Borealis heap leach",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 0.8,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Satellite zones",
+      "category": "resources",
+      "classification": "M&I",
+      "containedMetal": 1.5,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Small producer; figures aligned with tracker DCF assumptions."
+  ]
+}

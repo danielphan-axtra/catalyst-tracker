@@ -1,0 +1,66 @@
+{
+  "companyKey": "b2gold",
+  "symbols": [
+    "BTO",
+    "BTO.TO",
+    "BTG"
+  ],
+  "matchNames": [
+    "b2gold"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "B2Gold Corp Mineral Reserves & Resources (Dec 31, 2024) — Oct 2025 corporate presentation",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 19.2,
+      "attributableMoz": 19.2
+    },
+    "measuredIndicated": {
+      "containedMoz": 28.5,
+      "attributableMoz": 28.5
+    },
+    "inferred": {
+      "containedMoz": 8.1,
+      "attributableMoz": 8.1
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Fekola complex",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 8.5,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Otjikoto",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 2.8,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Goose / Back River",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 4.2,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Consolidated",
+      "category": "resources",
+      "classification": "M&I (incl. reserves)",
+      "containedMetal": 28.5,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "B2Gold: Mineral Resources are reported inclusive of Mineral Reserves (reserves-resources page).",
+    "Inferred resources are a separate NI 43-101 category."
+  ]
+}

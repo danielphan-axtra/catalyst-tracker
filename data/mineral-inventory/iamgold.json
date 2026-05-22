@@ -1,0 +1,102 @@
+{
+  "companyKey": "iamgold",
+  "symbols": [
+    "IAG",
+    "IAG.TO",
+    "IMG"
+  ],
+  "matchNames": [
+    "iamgold"
+  ],
+  "asOfDate": "2025-12-31",
+  "source": "IAMGOLD Mineral Reserves & Resources news release, Feb 17, 2026",
+  "sourceUrl": "https://www.iamgold.com/",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "tonnesKt": 279606,
+      "gradeGt": 1.1,
+      "containedMoz": 9.9,
+      "attributableMoz": 7.5
+    },
+    "measuredIndicated": {
+      "tonnesKt": 1030644,
+      "gradeGt": 0.94,
+      "containedMoz": 31,
+      "attributableMoz": 24.6
+    },
+    "inferred": {
+      "tonnesKt": 356628,
+      "gradeGt": 1.09,
+      "containedMoz": 12.5,
+      "attributableMoz": 11.3
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Côté Gold",
+      "category": "reserves",
+      "classification": "P&P (100%)",
+      "tonnesKt": 217167,
+      "grade": 1.01,
+      "gradeUnit": "g/t Au",
+      "containedMetal": 7.04,
+      "containedUnit": "Moz Au",
+      "attributablePct": 70,
+      "attributableContained": 4.93
+    },
+    {
+      "deposit": "Essakane",
+      "category": "reserves",
+      "classification": "P&P (100%)",
+      "tonnesKt": 57081,
+      "grade": 0.91,
+      "gradeUnit": "g/t Au",
+      "containedMetal": 1.68,
+      "containedUnit": "Moz Au",
+      "attributablePct": 85,
+      "attributableContained": 1.43
+    },
+    {
+      "deposit": "Westwood",
+      "category": "reserves",
+      "classification": "P&P (100%)",
+      "tonnesKt": 5358,
+      "grade": 6.67,
+      "gradeUnit": "g/t Au",
+      "containedMetal": 1.15,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Côté + Gosselin",
+      "category": "resources",
+      "classification": "M&I (incl. reserves)",
+      "tonnesKt": 689447,
+      "grade": 0.82,
+      "gradeUnit": "g/t Au",
+      "containedMetal": 18.16,
+      "containedUnit": "Moz Au",
+      "attributablePct": 70,
+      "attributableContained": 12.71
+    },
+    {
+      "deposit": "Nelligan complex",
+      "category": "resources",
+      "classification": "M&I",
+      "tonnesKt": 136527,
+      "grade": 0.99,
+      "gradeUnit": "g/t Au",
+      "containedMetal": 4.34,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "M&I resources are inclusive of mineral reserves (IAMGOLD NR, Dec 31, 2025).",
+    "Inferred resources are reported separately.",
+    "Attributable ounces per ownership (Côté 70%, Essakane 85%)."
+  ]
+}

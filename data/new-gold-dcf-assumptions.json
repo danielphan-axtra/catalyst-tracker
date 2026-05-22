@@ -1,0 +1,33 @@
+{
+  "source": "New Gold 2025 guidance — Rainy River & New Afton (tracker consolidated profile)",
+  "assets": [
+    {
+      "name": "Rainy River",
+      "type": "production",
+      "jurisdiction": "Ontario, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 280,
+        "Year2": 290,
+        "Year3": 285,
+        "Year4": 275,
+        "Year5": 265
+      },
+      "aiscUsdPerOz": 1450,
+      "capexUsdMByYear": { "Year1": 180, "Year2": 160, "Year3": 150, "Year4": 140, "Year5": 130 }
+    },
+    {
+      "name": "New Afton",
+      "type": "production",
+      "jurisdiction": "British Columbia, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 95,
+        "Year2": 100,
+        "Year3": 98,
+        "Year4": 95,
+        "Year5": 90
+      },
+      "aiscUsdPerOz": 1180,
+      "capexUsdMByYear": { "Year1": 90, "Year2": 85, "Year3": 80, "Year4": 75, "Year5": 70 }
+    }
+  ]
+}

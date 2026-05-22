@@ -1,0 +1,56 @@
+{
+  "companyKey": "alamos-gold",
+  "symbols": [
+    "AGI"
+  ],
+  "matchNames": [
+    "alamos"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Alamos Gold Mineral Reserves & Resources (Dec 31, 2024)",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 9.8,
+      "attributableMoz": 9.8
+    },
+    "measuredIndicated": {
+      "containedMoz": 14.2,
+      "attributableMoz": 14.2
+    },
+    "inferred": {
+      "containedMoz": 4.5,
+      "attributableMoz": 4.5
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Island Gold",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 2.9,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Young-Davidson / Mulatos",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 4.5,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Lynn Lake (dev)",
+      "category": "resources",
+      "classification": "M&I",
+      "containedMetal": 2.1,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Includes producing mines and development assets per 2024 statement."
+  ]
+}

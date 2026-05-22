@@ -1,0 +1,47 @@
+{
+  "companyKey": "excellon",
+  "symbols": [
+    "EXM",
+    "EXN"
+  ],
+  "matchNames": [
+    "excellon"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Excellon Resources technical reports (Mexico / Canada assets)",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "measuredIndicated": {
+      "containedMoz": 1.2,
+      "attributableMoz": 1.2
+    },
+    "inferred": {
+      "containedMoz": 2.5,
+      "attributableMoz": 2.5
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Platosa / Silver City (historical)",
+      "category": "resources",
+      "classification": "M&I Ag/Pb/Zn",
+      "containedMetal": 1.2,
+      "containedUnit": "Moz AuEq",
+      "notes": "Silver-lead-zinc focus; AuEq approximate"
+    },
+    {
+      "deposit": "Exploration portfolio",
+      "category": "resources",
+      "classification": "Inferred",
+      "containedMetal": 2.5,
+      "containedUnit": "Moz AuEq"
+    }
+  ],
+  "disclaimers": [
+    "Developer–explorer; no operating mine reserves in tracker model."
+  ]
+}

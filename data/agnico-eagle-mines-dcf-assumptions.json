@@ -1,0 +1,115 @@
+{
+  "source": "Agnico Eagle Q2 2025 MD&A payable production by mine (six months ended Jun 30, 2025); LaRonde/LZ5 LOM shape from Dec 2022 NI 43-101 (Mar 2023) scaled to 2026 levels; other mines use H1-2025 run-rate with mine-specific guidance trends (Odyssey ramp, Detour grade profile, Macassa records). Cash flow uses your gold price input × mine-level AISC.",
+  "assets": [
+    {
+      "name": "LaRonde mine",
+      "type": "production",
+      "jurisdiction": "Quebec",
+      "payableGoldProductionKozByYear": { "Year1": 278, "Year2": 282, "Year3": 304, "Year4": 299, "Year5": 314 },
+      "aiscUsdPerOz": 677,
+      "aiscUsdPerOzByYear": { "Year1": 722, "Year2": 710, "Year3": 685, "Year4": 670, "Year5": 665 },
+      "capexUsdMByYear": { "Year1": 95, "Year2": 88, "Year3": 82, "Year4": 78, "Year5": 75 },
+      "notes": "LOM production shape from LaRonde Complex TR (2023–2027 koz), scaled to ~278 koz in 2026."
+    },
+    {
+      "name": "LaRonde Zone 5",
+      "type": "production",
+      "jurisdiction": "Quebec",
+      "payableGoldProductionKozByYear": { "Year1": 79, "Year2": 81, "Year3": 90, "Year4": 105, "Year5": 100 },
+      "aiscUsdPerOz": 1124,
+      "aiscUsdPerOzByYear": { "Year1": 1084, "Year2": 1060, "Year3": 1020, "Year4": 995, "Year5": 980 },
+      "capexUsdMByYear": { "Year1": 28, "Year2": 30, "Year3": 26, "Year4": 22, "Year5": 20 },
+      "notes": "LZ5 ramp in TR; scaled to H1 2025 run-rate."
+    },
+    {
+      "name": "Canadian Malartic",
+      "type": "production",
+      "jurisdiction": "Quebec",
+      "payableGoldProductionKozByYear": { "Year1": 620, "Year2": 670, "Year3": 720, "Year4": 760, "Year5": 800 },
+      "aiscUsdPerOz": 900,
+      "aiscUsdPerOzByYear": { "Year1": 876, "Year2": 865, "Year3": 855, "Year4": 848, "Year5": 842 },
+      "capexUsdMByYear": { "Year1": 380, "Year2": 360, "Year3": 320, "Year4": 300, "Year5": 285 },
+      "notes": "Odyssey underground ramp (record quarterly production in Q2 2025); includes Barnat pit."
+    },
+    {
+      "name": "Goldex",
+      "type": "production",
+      "jurisdiction": "Quebec",
+      "payableGoldProductionKozByYear": { "Year1": 123, "Year2": 128, "Year3": 130, "Year4": 132, "Year5": 128 },
+      "aiscUsdPerOz": 961,
+      "aiscUsdPerOzByYear": { "Year1": 962, "Year2": 955, "Year3": 948, "Year4": 945, "Year5": 950 },
+      "capexUsdMByYear": { "Year1": 58, "Year2": 55, "Year3": 52, "Year4": 50, "Year5": 48 },
+      "notes": "Record mill throughput in Q2 2025; Akasaba West contribution."
+    },
+    {
+      "name": "Detour Lake",
+      "type": "production",
+      "jurisdiction": "Ontario",
+      "payableGoldProductionKozByYear": { "Year1": 620, "Year2": 640, "Year3": 700, "Year4": 730, "Year5": 715 },
+      "aiscUsdPerOz": 929,
+      "aiscUsdPerOzByYear": { "Year1": 914, "Year2": 900, "Year3": 885, "Year4": 875, "Year5": 870 },
+      "capexUsdMByYear": { "Year1": 180, "Year2": 165, "Year3": 150, "Year4": 140, "Year5": 135 },
+      "notes": "H1 2025 below plan on grade; MD&A expects improvement in H2 2025 and full-year near low end of 705–735 koz guidance."
+    },
+    {
+      "name": "Macassa",
+      "type": "production",
+      "jurisdiction": "Ontario",
+      "payableGoldProductionKozByYear": { "Year1": 347, "Year2": 360, "Year3": 375, "Year4": 380, "Year5": 385 },
+      "aiscUsdPerOz": 636,
+      "aiscUsdPerOzByYear": { "Year1": 626, "Year2": 620, "Year3": 615, "Year4": 612, "Year5": 610 },
+      "capexUsdMByYear": { "Year1": 55, "Year2": 48, "Year3": 42, "Year4": 38, "Year5": 36 },
+      "notes": "Consecutive record quarters in 2025; positive grade reconciliation."
+    },
+    {
+      "name": "Meliadine",
+      "type": "production",
+      "jurisdiction": "Nunavut",
+      "payableGoldProductionKozByYear": { "Year1": 369, "Year2": 380, "Year3": 395, "Year4": 400, "Year5": 390 },
+      "aiscUsdPerOz": 1012,
+      "aiscUsdPerOzByYear": { "Year1": 1112, "Year2": 1050, "Year3": 980, "Year4": 960, "Year5": 950 },
+      "capexUsdMByYear": { "Year1": 52, "Year2": 48, "Year3": 45, "Year4": 42, "Year5": 40 },
+      "notes": "Caribou migration impacted Q2 2025; guidance unchanged for full year."
+    },
+    {
+      "name": "Meadowbank",
+      "type": "production",
+      "jurisdiction": "Nunavut",
+      "payableGoldProductionKozByYear": { "Year1": 473, "Year2": 460, "Year3": 450, "Year4": 445, "Year5": 440 },
+      "aiscUsdPerOz": 948,
+      "aiscUsdPerOzByYear": { "Year1": 1018, "Year2": 990, "Year3": 965, "Year4": 955, "Year5": 948 },
+      "capexUsdMByYear": { "Year1": 58, "Year2": 55, "Year3": 52, "Year4": 50, "Year5": 48 },
+      "notes": "Amaruq haul; extended caribou migration in Q2 2025 vs plan."
+    },
+    {
+      "name": "Fosterville",
+      "type": "production",
+      "jurisdiction": "Australia",
+      "payableGoldProductionKozByYear": { "Year1": 182, "Year2": 185, "Year3": 188, "Year4": 190, "Year5": 188 },
+      "aiscUsdPerOz": 797,
+      "aiscUsdPerOzByYear": { "Year1": 783, "Year2": 790, "Year3": 795, "Year4": 798, "Year5": 800 },
+      "capexUsdMByYear": { "Year1": 38, "Year2": 36, "Year3": 34, "Year4": 32, "Year5": 30 },
+      "notes": "Higher grades from Phoenix / Robbins Hill sequencing in 2025."
+    },
+    {
+      "name": "Kittila",
+      "type": "production",
+      "jurisdiction": "Finland",
+      "payableGoldProductionKozByYear": { "Year1": 204, "Year2": 208, "Year3": 210, "Year4": 212, "Year5": 210 },
+      "aiscUsdPerOz": 1071,
+      "aiscUsdPerOzByYear": { "Year1": 1134, "Year2": 1100, "Year3": 1080, "Year4": 1070, "Year5": 1065 },
+      "capexUsdMByYear": { "Year1": 26, "Year2": 24, "Year3": 22, "Year4": 20, "Year5": 20 },
+      "notes": "In line with plan; cost initiatives reducing minesite costs per tonne."
+    },
+    {
+      "name": "Pinos Altos",
+      "type": "production",
+      "jurisdiction": "Mexico",
+      "payableGoldProductionKozByYear": { "Year1": 75, "Year2": 76, "Year3": 74, "Year4": 73, "Year5": 72 },
+      "aiscUsdPerOz": 2077,
+      "aiscUsdPerOzByYear": { "Year1": 2002, "Year2": 1980, "Year3": 1965, "Year4": 1955, "Year5": 1950 },
+      "capexUsdMByYear": { "Year1": 18, "Year2": 17, "Year3": 16, "Year4": 15, "Year5": 14 },
+      "notes": "Stable underground performance at Cubiro."
+    }
+  ]
+}

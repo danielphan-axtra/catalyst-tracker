@@ -1,0 +1,26 @@
+{
+  "source": "Kinross Gold 2025 guidance (consolidated producer profile for tracker charts)",
+  "assets": [
+    {
+      "name": "Kinross Consolidated Operations",
+      "type": "production",
+      "jurisdiction": "Americas",
+      "payableGoldProductionKozByYear": {
+        "Year1": 2100,
+        "Year2": 2150,
+        "Year3": 2200,
+        "Year4": 2180,
+        "Year5": 2150
+      },
+      "aiscUsdPerOz": 1270,
+      "capexUsdMByYear": {
+        "Year1": 1200,
+        "Year2": 1150,
+        "Year3": 1100,
+        "Year4": 1050,
+        "Year5": 1000
+      },
+      "notes": "Group production ~2.1 Moz/yr range from 2024–2025 guidance band."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "companyKey": "sovereign-metals",
+  "symbols": [
+    "SVM",
+    "SVML",
+    "SVMLF"
+  ],
+  "matchNames": [
+    "sovereign metals"
+  ],
+  "asOfDate": "2025-04-16",
+  "source": "Sovereign Metals Kasiya DFS (Apr 2026)",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "measuredIndicated": {
+      "resourceTonnesMt": 1800,
+      "containedCuEqLb": 0
+    },
+    "resourceTonnesMt": 1800
+  },
+  "rows": [
+    {
+      "deposit": "Kasiya rutile-graphite",
+      "category": "resources",
+      "classification": "DFS mineral inventory",
+      "tonnesKt": 1800000,
+      "grade": 0.45,
+      "gradeUnit": "% rutile",
+      "notes": "Pre-production critical minerals project"
+    }
+  ],
+  "disclaimers": [
+    "Not yet in commercial production; rutile-graphite not gold CuEq."
+  ]
+}

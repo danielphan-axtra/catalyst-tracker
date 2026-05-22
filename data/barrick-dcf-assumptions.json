@@ -1,0 +1,26 @@
+{
+  "source": "Barrick Gold 2025 guidance summary (consolidated producer profile for tracker charts)",
+  "assets": [
+    {
+      "name": "Barrick Consolidated Operations",
+      "type": "production",
+      "jurisdiction": "Global",
+      "payableGoldProductionKozByYear": {
+        "Year1": 3200,
+        "Year2": 3200,
+        "Year3": 3150,
+        "Year4": 3100,
+        "Year5": 3050
+      },
+      "aiscUsdPerOz": 1380,
+      "capexUsdMByYear": {
+        "Year1": 2800,
+        "Year2": 2600,
+        "Year3": 2500,
+        "Year4": 2400,
+        "Year5": 2300
+      },
+      "notes": "Approximate group production ~3.2 Moz/yr and AISC near peer guidance midpoint."
+    }
+  ]
+}

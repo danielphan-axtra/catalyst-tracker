@@ -1,0 +1,45 @@
+{
+  "companyKey": "pacific-ridge",
+  "symbols": [
+    "PEX",
+    "PEX.V"
+  ],
+  "matchNames": [
+    "pacific ridge"
+  ],
+  "asOfDate": "2025-07-31",
+  "source": "Kliyul NI 43-101 (Sep 2025)",
+  "sourceUrl": "https://pacificridgeexploration.com/projects/british-columbia/kliyul/",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "resourceTonnesMt": 334.1,
+    "resourceCuEqPct": 0.33,
+    "resourceCuPct": 0.15,
+    "resourceAuGt": 0.26,
+    "resourceAgGt": 0.95,
+    "containedCuEqLb": 2420000000,
+    "containedCuLb": 1110000000,
+    "containedAuOz": 2740000,
+    "containedAgOz": 10220000
+  },
+  "rows": [
+    {
+      "deposit": "Kliyul Main Zone",
+      "category": "resources",
+      "classification": "Inferred",
+      "tonnesKt": 334100,
+      "grade": 0.33,
+      "gradeUnit": "% CuEq",
+      "containedMetal": 2.42,
+      "containedUnit": "Blb CuEq"
+    }
+  ],
+  "disclaimers": [
+    "Inferred mineral resources only (Kliyul Main Zone); no reserves declared.",
+    "Inferred is reported separately from any M&I category."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "source": "Kasiya Definitive Feasibility Study (Apr 16, 2026): pre-tax NPV8 US$2,204M; Phase 1 capex US$727M; steady-state 222 ktpa rutile + 275 ktpa graphite; DFS prices US$1,670/t rutile and US$1,288/t graphite (LOM avg FOB); operating cost US$450/t product (FOB Nacala, ex royalties). Practara DCF; 25-year mine life.",
+  "dfsPreTaxNpv8UsdM": 2204,
+  "assets": [
+    {
+      "name": "Natural rutile",
+      "type": "development",
+      "jurisdiction": "Malawi",
+      "revenueUsdPerUnit": 1670,
+      "payableGoldProductionKozByYear": {
+        "Year1": 0,
+        "Year2": 0,
+        "Year3": 98,
+        "Year4": 169,
+        "Year5": 222,
+        "Year6": 222,
+        "Year7": 222,
+        "Year8": 222,
+        "Year9": 222,
+        "Year10": 222
+      },
+      "aiscUsdPerOz": 450,
+      "capexUsdMByYear": {
+        "Year1": 420,
+        "Year2": 307,
+        "Year3": 40,
+        "Year4": 40,
+        "Year5": 40
+      },
+      "mineLifeEndYear": 25,
+      "notes": "South plant construction Years 1–2; ore feed from Year 3 per DFS mine plan. Phase 1 capex US$727M cash-flowed Years 1–2."
+    },
+    {
+      "name": "Natural flake graphite",
+      "type": "development",
+      "jurisdiction": "Malawi",
+      "revenueUsdPerUnit": 1288,
+      "payableGoldProductionKozByYear": {
+        "Year1": 0,
+        "Year2": 0,
+        "Year3": 122,
+        "Year4": 211,
+        "Year5": 275,
+        "Year6": 275,
+        "Year7": 275,
+        "Year8": 275,
+        "Year9": 275,
+        "Year10": 275
+      },
+      "aiscUsdPerOz": 450,
+      "capexUsdMByYear": {
+        "Year5": 511,
+        "Year6": 25,
+        "Year7": 25,
+        "Year8": 25,
+        "Year9": 25,
+        "Year10": 25
+      },
+      "mineLifeEndYear": 25,
+      "notes": "North plant expansion (Phase 2) capex US$511M in Year 5 per DFS; steady-state graphite 275 ktpa."
+    }
+  ],
+  "financingNotes": "DFS economics are unlevered pre-tax; debt/funding mix not yet finalized per company disclosure."
+}

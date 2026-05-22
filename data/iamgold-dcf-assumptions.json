@@ -1,0 +1,79 @@
+{
+  "source": "IAMGOLD Corporate Presentation, February 2026 (https://s202.q4cdn.com/468687163/files/doc_presentations/2026/02/IAG-Corporate-Presentation-Feb-2026_v1.pdf)",
+  "financingNotes": "Corporate financing bar reflects estimated debt principal amortization (~7-year) plus cash interest on ~US$4.3B net debt (Q4 2025 balance sheet), shown as cash outflows. Override via balanceDebt on company page when market data is loaded.",
+  "corporateFinancingUsdMByYear": null,
+  "assets": [
+    {
+      "name": "Côté Gold",
+      "type": "production",
+      "jurisdiction": "Ontario, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 270,
+        "Year2": 285,
+        "Year3": 300,
+        "Year4": 315,
+        "Year5": 325
+      },
+      "aiscUsdPerOz": 1850,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 245,
+        "Year2": 220,
+        "Year3": 205,
+        "Year4": 195,
+        "Year5": 190
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2041,
+      "notes": "2026 guidance: 270,000-310,000 oz (70% attributable); 390,000-440,000 oz (100% basis). AISC midpoint $1,850/oz. Production profile ramps through Years 2-5 (non-flat) to reflect Cote commissioning/ramp-up trajectory in corporate presentations. Capex is front-loaded and tapers after Year1 as major ramp-related spend declines. Currency: USD for AISC; capex based on disclosed guidance context."
+    },
+    {
+      "name": "Essakane",
+      "type": "production",
+      "jurisdiction": "Burkina Faso, West Africa",
+      "payableGoldProductionKozByYear": {
+        "Year1": 360,
+        "Year2": 372,
+        "Year3": 368,
+        "Year4": 352,
+        "Year5": 335
+      },
+      "aiscUsdPerOz": 2075,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 170,
+        "Year2": 165,
+        "Year3": 160,
+        "Year4": 150,
+        "Year5": 145
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2028,
+      "notes": "2026 guidance midpoint 360 koz (85% attributable) and AISC midpoint $2,075/oz. Years 2-5 modeled with non-flat profile and gradual decline consistent with mature mine sequencing and extension uncertainty. Capex tapered after Year1 as expansion component moderates. 85% attributable interest. Currency: USD."
+    },
+    {
+      "name": "Westwood",
+      "type": "production",
+      "jurisdiction": "Quebec, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 120,
+        "Year2": 124,
+        "Year3": 121,
+        "Year4": 118,
+        "Year5": 115
+      },
+      "aiscUsdPerOz": 2025,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 85,
+        "Year2": 80,
+        "Year3": 78,
+        "Year4": 75,
+        "Year5": 72
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2032,
+      "notes": "2026 guidance midpoint 120 koz and AISC midpoint $2,025/oz. Years 2-5 modeled as non-flat around guidance midpoint to reflect underground sequencing variability. Capex moderates after Year1 from elevated development spend. 100% interest. Currency: USD."
+    }
+  ]
+}

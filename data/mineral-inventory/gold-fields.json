@@ -1,0 +1,56 @@
+{
+  "companyKey": "gold-fields",
+  "symbols": [
+    "GFI"
+  ],
+  "matchNames": [
+    "gold fields"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Gold Fields Mineral Resources & Mineral Reserves 2024",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 27,
+      "attributableMoz": 27
+    },
+    "measuredIndicated": {
+      "containedMoz": 52,
+      "attributableMoz": 52
+    },
+    "inferred": {
+      "containedMoz": 12,
+      "attributableMoz": 12
+    }
+  },
+  "rows": [
+    {
+      "deposit": "South Deep",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 9.2,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Salares Norte",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 4.8,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Consolidated",
+      "category": "resources",
+      "classification": "M&I",
+      "containedMetal": 52,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Consolidated group totals rounded from 2024 annual report."
+  ]
+}

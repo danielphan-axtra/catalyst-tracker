@@ -1,0 +1,83 @@
+{
+  "source": "B2Gold Corp Corporate Presentation, October 2025 (https://www.b2gold.com/files/doc_presentations/2025/Oct/01/B2Gold-Corp-Pres-October-2025-FINAL.pdf)",
+  "assets": [
+    {
+      "name": "Fekola Complex",
+      "type": "production",
+      "jurisdiction": "Mali",
+      "payableGoldProductionKozByYear": {
+        "Year1": 532.5,
+        "Year2": 660,
+        "Year3": 690,
+        "Year4": 705,
+        "Year5": 680
+      },
+      "aiscUsdPerOz": 1625,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": null,
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "2025 guidance midpoint: 515-550 koz (532.5 koz). Fekola Underground expected 30-40 koz in 2025; Fekola Regional expected meaningful contribution from 2026 onward. Years 2-5 modeled with non-flat ramp/plateau profile instead of a constant value. 2025 AISC midpoint: $1,625/oz. Currency: USD. Ownership: 80% Fekola Mine, 65% Fekola Regional."
+    },
+    {
+      "name": "Otjikoto Mine",
+      "type": "production",
+      "jurisdiction": "Namibia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 195,
+        "Year2": 192,
+        "Year3": 198,
+        "Year4": 190,
+        "Year5": 186
+      },
+      "aiscUsdPerOz": 995,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": null,
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "2025 guidance midpoint: 185-205 koz = 195 koz. Years 2-5 use a non-flat profile around guidance midpoint to reflect normal sequencing. 2025 AISC midpoint: $995/oz. Currency: USD. Ownership: 90%. Antelope contribution potential exists for outer years."
+    },
+    {
+      "name": "Masbate Gold Project",
+      "type": "production",
+      "jurisdiction": "Philippines",
+      "payableGoldProductionKozByYear": {
+        "Year1": 200,
+        "Year2": 205,
+        "Year3": 198,
+        "Year4": 192,
+        "Year5": 188
+      },
+      "aiscUsdPerOz": 1275,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": null,
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "2025 guidance midpoint: 190-210 koz = 200 koz. Years 2-5 modeled as non-flat around guidance midpoint. 2025 AISC midpoint: $1,275/oz. Currency: USD. Ownership: 100% project basis."
+    },
+    {
+      "name": "Goose Mine",
+      "type": "production",
+      "jurisdiction": "Canada (Nunavut)",
+      "payableGoldProductionKozByYear": {
+        "Year1": 95,
+        "Year2": 250,
+        "Year3": 330,
+        "Year4": 300,
+        "Year5": 300
+      },
+      "aiscUsdPerOz": 1970,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 220,
+        "Year2": 140,
+        "Year3": 120,
+        "Year4": 100,
+        "Year5": 95
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2031,
+      "notes": "2025 guidance midpoint: 80-110 koz = 95 koz (post-commercial). 2026 guidance 250 koz and 2027 guidance 330 koz disclosed; Years 4-5 modeled at high but non-flat steady-state levels. 2025 AISC midpoint: $1,970/oz. Capex is front-loaded during ramp-up and then declines. Currency: USD. Ownership: 100%."
+    }
+  ]
+}

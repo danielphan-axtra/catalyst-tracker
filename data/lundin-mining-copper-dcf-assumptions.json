@@ -1,0 +1,89 @@
+{
+  "source": "Lundin Mining modeled assumptions (internal tracker model).",
+  "assets": [
+    {
+      "name": "Candelaria",
+      "type": "production",
+      "jurisdiction": "Chile",
+      "payableGoldProductionKozByYear": {
+        "Year1": 360000,
+        "Year2": 370000,
+        "Year3": 380000,
+        "Year4": 390000,
+        "Year5": 400000
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 2.15,
+        "Year2": 2.12,
+        "Year3": 2.09,
+        "Year4": 2.06,
+        "Year5": 2.03
+      },
+      "capexUsdMByYear": {
+        "Year1": 210,
+        "Year2": 190,
+        "Year3": 175,
+        "Year4": 160,
+        "Year5": 150
+      },
+      "mineLifeEndYear": null,
+      "notes": "Modeled as core copper production base with ongoing sustaining and expansion capex."
+    },
+    {
+      "name": "Chapada",
+      "type": "production",
+      "jurisdiction": "Brazil",
+      "payableGoldProductionKozByYear": {
+        "Year1": 185000,
+        "Year2": 190000,
+        "Year3": 195000,
+        "Year4": 200000,
+        "Year5": 205000
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 2.35,
+        "Year2": 2.31,
+        "Year3": 2.28,
+        "Year4": 2.25,
+        "Year5": 2.22
+      },
+      "capexUsdMByYear": {
+        "Year1": 130,
+        "Year2": 115,
+        "Year3": 100,
+        "Year4": 95,
+        "Year5": 90
+      },
+      "mineLifeEndYear": null,
+      "notes": "Modeled with moderate production growth and gradual cost improvements."
+    },
+    {
+      "name": "Caserones",
+      "type": "production",
+      "jurisdiction": "Chile",
+      "payableGoldProductionKozByYear": {
+        "Year1": 290000,
+        "Year2": 300000,
+        "Year3": 310000,
+        "Year4": 320000,
+        "Year5": 330000
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 2.5,
+        "Year2": 2.46,
+        "Year3": 2.42,
+        "Year4": 2.38,
+        "Year5": 2.35
+      },
+      "capexUsdMByYear": {
+        "Year1": 170,
+        "Year2": 155,
+        "Year3": 140,
+        "Year4": 125,
+        "Year5": 120
+      },
+      "mineLifeEndYear": null,
+      "notes": "Modeled large-scale operation with debottlenecking-led productivity gains."
+    }
+  ]
+}

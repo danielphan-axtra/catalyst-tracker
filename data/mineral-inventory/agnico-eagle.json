@@ -1,0 +1,69 @@
+{
+  "companyKey": "agnico-eagle",
+  "symbols": [
+    "AEM"
+  ],
+  "matchNames": [
+    "agnico"
+  ],
+  "asOfDate": "2025-12-31",
+  "source": "Agnico Eagle exploration news release, Feb 12, 2026",
+  "sourceUrl": "https://www.agnicoeagle.com/English/investor-relations/news-and-events/news-releases/default.aspx",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": true,
+    "disclosureNote": "Mineral reserves are not included in mineral resources (company disclosure)."
+  },
+  "summary": {
+    "reserves": {
+      "tonnesKt": 1330000,
+      "gradeGt": 1.3,
+      "containedMoz": 55.4,
+      "attributableMoz": 55.4
+    },
+    "measuredIndicated": {
+      "tonnesKt": 1200000,
+      "gradeGt": 1.22,
+      "containedMoz": 47.1,
+      "attributableMoz": 47.1
+    },
+    "inferred": {
+      "tonnesKt": 522000,
+      "gradeGt": 2.49,
+      "containedMoz": 41.8,
+      "attributableMoz": 41.8
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Global consolidated",
+      "category": "reserves",
+      "classification": "Proven & probable",
+      "containedMetal": 55.4,
+      "containedUnit": "Moz Au",
+      "notes": "Record P&P; +2.1% YoY"
+    },
+    {
+      "deposit": "Global consolidated",
+      "category": "resources",
+      "classification": "M&I (excl. reserves)",
+      "containedMetal": 47.1,
+      "containedUnit": "Moz Au",
+      "notes": "+9.6% YoY; not included in reserves"
+    },
+    {
+      "deposit": "Global consolidated",
+      "category": "resources",
+      "classification": "Inferred (separate)",
+      "containedMetal": 41.8,
+      "containedUnit": "Moz Au",
+      "notes": "+15.5% YoY; separate from M&I"
+    }
+  ],
+  "disclaimers": [
+    "Agnico Eagle states: Mineral reserves reported are not included in mineral resources.",
+    "Inferred mineral resources are a separate category and are not part of M&I.",
+    "Reserves (55.4 Moz) plus M&I resources (47.1 Moz) total 102.5 Moz of gold inventory without double-counting."
+  ]
+}

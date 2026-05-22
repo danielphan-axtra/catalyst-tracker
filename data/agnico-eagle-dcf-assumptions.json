@@ -1,0 +1,30 @@
+{
+  "source": "SEDAR+ (document.html?id=1d807db7135875338993ce126042ed0dffe296267f03daa317fc69f1f51b9c29), Q2 2025 results press release – 2025 guidance summary table",
+  "assets": [
+    {
+      "name": "Agnico Eagle Consolidated (approx.)",
+      "type": "production",
+      "jurisdiction": null,
+      "payableGoldProductionKozByYear": {
+        "Year1": 3400,
+        "Year2": 3400,
+        "Year3": 3400,
+        "Year4": 3400,
+        "Year5": 3400
+      },
+      "aiscUsdPerOz": 1275,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 2150,
+        "Year2": 2150,
+        "Year3": 2150,
+        "Year4": 2150,
+        "Year5": 2150
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 5,
+      "notes": "MVP assumptions for charting using consolidated 2025 guidance midpoint. Gold production 3.3-3.5 Moz => Year1-5 = 3.4 Moz = 3,400 koz. AISC 1250-1300 => midpoint 1275 USD/oz. Total capex excluding capitalized exploration 1,750-1,950 + capitalized exploration 290-310 => midpoint 2,150 USDm per year. For now, we repeat 2025 guidance across next 5 years because mine-level forward schedules are not extracted yet."
+    }
+  ]
+}
+

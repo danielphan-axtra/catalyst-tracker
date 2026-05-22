@@ -1,0 +1,48 @@
+{
+  "source": "Curaleaf Holdings FY2024 10-K and Q1 2025 results (simplified annual model; OCF/capex/financing rounded from consolidated cash flow statement).",
+  "currency": "USD",
+  "startYear": 2024,
+  "chartYears": 5,
+  "years": [
+    {
+      "calendarYear": 2024,
+      "label": "FY2024A",
+      "revenueUsdM": 1423,
+      "ocfUsdM": 89,
+      "capexUsdM": -52,
+      "financingUsdM": -118
+    },
+    {
+      "calendarYear": 2025,
+      "label": "FY2025E",
+      "revenueUsdM": 1380,
+      "ocfUsdM": 145,
+      "capexUsdM": -45,
+      "financingUsdM": -95
+    },
+    {
+      "calendarYear": 2026,
+      "label": "FY2026E",
+      "revenueUsdM": 1410,
+      "ocfUsdM": 175,
+      "capexUsdM": -40,
+      "financingUsdM": -60
+    },
+    {
+      "calendarYear": 2027,
+      "label": "FY2027E",
+      "revenueUsdM": 1465,
+      "ocfUsdM": 195,
+      "capexUsdM": -38,
+      "financingUsdM": -45
+    },
+    {
+      "calendarYear": 2028,
+      "label": "FY2028E",
+      "revenueUsdM": 1520,
+      "ocfUsdM": 210,
+      "capexUsdM": -35,
+      "financingUsdM": -40
+    }
+  ]
+}

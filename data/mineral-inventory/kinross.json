@@ -1,0 +1,50 @@
+{
+  "companyKey": "kinross",
+  "symbols": [
+    "K",
+    "KGC"
+  ],
+  "matchNames": [
+    "kinross"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Kinross Gold Corporation 2024 Mineral Reserves & Resources",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 30.8,
+      "attributableMoz": 30.8
+    },
+    "measuredIndicated": {
+      "containedMoz": 42.5,
+      "attributableMoz": 42.5
+    },
+    "inferred": {
+      "containedMoz": 7.2,
+      "attributableMoz": 7.2
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Great Bear / Fort Knox / Paracatu",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 30.8,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Global",
+      "category": "resources",
+      "classification": "M&I",
+      "containedMetal": 42.5,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "2024 year-end Kinross disclosure (rounded)."
+  ]
+}

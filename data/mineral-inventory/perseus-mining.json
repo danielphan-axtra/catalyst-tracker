@@ -1,0 +1,56 @@
+{
+  "companyKey": "perseus-mining",
+  "symbols": [
+    "PRU"
+  ],
+  "matchNames": [
+    "perseus"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Perseus Mining FY2024 Reserves & Resources statement",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 4.2,
+      "attributableMoz": 4.2
+    },
+    "measuredIndicated": {
+      "containedMoz": 6.8,
+      "attributableMoz": 6.8
+    },
+    "inferred": {
+      "containedMoz": 2.1,
+      "attributableMoz": 2.1
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Edikan",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 1.2,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "SSB / Bagoé",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 2.4,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Yaouré",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 0.6,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "West African operations; figures rounded."
+  ]
+}

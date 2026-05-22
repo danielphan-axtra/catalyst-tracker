@@ -1,0 +1,48 @@
+{
+  "source": "Ondo InsurTech FY2025 annual report (year ended 31 Mar 2025): consolidated cash flow statement (£000 → £M); forward years are management-style estimates for LeakBot scale-up.",
+  "currency": "GBP",
+  "startYear": 2024,
+  "chartYears": 5,
+  "years": [
+    {
+      "calendarYear": 2024,
+      "label": "FY2024A",
+      "revenueUsdM": 2.69,
+      "ocfUsdM": -2.37,
+      "capexUsdM": -0.47,
+      "financingUsdM": 2.86
+    },
+    {
+      "calendarYear": 2025,
+      "label": "FY2025A",
+      "revenueUsdM": 3.87,
+      "ocfUsdM": -3.26,
+      "capexUsdM": -0.56,
+      "financingUsdM": 7.4
+    },
+    {
+      "calendarYear": 2026,
+      "label": "FY2026E",
+      "revenueUsdM": 5.5,
+      "ocfUsdM": -1.8,
+      "capexUsdM": -0.65,
+      "financingUsdM": 0.5
+    },
+    {
+      "calendarYear": 2027,
+      "label": "FY2027E",
+      "revenueUsdM": 8.2,
+      "ocfUsdM": -0.4,
+      "capexUsdM": -0.55,
+      "financingUsdM": 0
+    },
+    {
+      "calendarYear": 2028,
+      "label": "FY2028E",
+      "revenueUsdM": 11.5,
+      "ocfUsdM": 1.2,
+      "capexUsdM": -0.5,
+      "financingUsdM": 0
+    }
+  ]
+}

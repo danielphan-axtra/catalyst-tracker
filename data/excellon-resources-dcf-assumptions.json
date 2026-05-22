@@ -1,0 +1,35 @@
+{
+  "source": "Initial internal model for Excellon Resources to power production, cash flow, and NAV charts in the tracker. Replace with latest technical report / guidance as needed.",
+  "assets": [
+    {
+      "name": "Excellon Core Asset Portfolio",
+      "type": "development",
+      "jurisdiction": "Mexico / Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 45,
+        "Year2": 62,
+        "Year3": 78,
+        "Year4": 86,
+        "Year5": 90
+      },
+      "aiscUsdPerOz": 1580,
+      "aiscUsdPerOzByYear": {
+        "Year1": 1680,
+        "Year2": 1620,
+        "Year3": 1570,
+        "Year4": 1530,
+        "Year5": 1500
+      },
+      "capexUsdMByYear": {
+        "Year1": 80,
+        "Year2": 55,
+        "Year3": 35,
+        "Year4": 22,
+        "Year5": 18
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "Modeled as a staged ramp from early production into steadier-state output. Cash flow and NAV are intended for scenario comparison in-app; update assumptions as company guidance evolves."
+    }
+  ]
+}

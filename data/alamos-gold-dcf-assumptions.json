@@ -1,0 +1,77 @@
+{
+  "source": "Alamos Gold investor disclosures (2025-2026 guidance profile, modeled for 5-year scenario view)",
+  "assets": [
+    {
+      "name": "Island Gold District",
+      "type": "production",
+      "jurisdiction": "Ontario, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 170,
+        "Year2": 185,
+        "Year3": 200,
+        "Year4": 210,
+        "Year5": 220
+      },
+      "aiscUsdPerOz": 1125,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 185,
+        "Year2": 175,
+        "Year3": 160,
+        "Year4": 145,
+        "Year5": 135
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2038,
+      "notes": "Modeled as a growth district profile with production ramping through the 5-year period."
+    },
+    {
+      "name": "Young-Davidson",
+      "type": "production",
+      "jurisdiction": "Ontario, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 180,
+        "Year2": 182,
+        "Year3": 185,
+        "Year4": 183,
+        "Year5": 180
+      },
+      "aiscUsdPerOz": 1310,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 120,
+        "Year2": 115,
+        "Year3": 110,
+        "Year4": 105,
+        "Year5": 100
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2042,
+      "notes": "Modeled as a stable core operation with modest year-to-year production variability."
+    },
+    {
+      "name": "Mulatos District",
+      "type": "production",
+      "jurisdiction": "Sonora, Mexico",
+      "payableGoldProductionKozByYear": {
+        "Year1": 200,
+        "Year2": 190,
+        "Year3": 185,
+        "Year4": 180,
+        "Year5": 175
+      },
+      "aiscUsdPerOz": 1475,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 130,
+        "Year2": 120,
+        "Year3": 115,
+        "Year4": 110,
+        "Year5": 105
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2033,
+      "notes": "Modeled with gradual production normalization and steady sustaining capital intensity."
+    }
+  ]
+}

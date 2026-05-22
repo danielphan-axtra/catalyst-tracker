@@ -1,0 +1,83 @@
+{
+  "source": "Perseus Mining Limited BMO Presentation, February 26, 2026 (https://perseusmining.com/wp-content/uploads/2026/02/BMO-Presentation-Feb-26.pdf)",
+  "assets": [
+    {
+      "name": "Yaouré Gold Mine",
+      "type": "production",
+      "jurisdiction": "Côte d'Ivoire",
+      "payableGoldProductionKozByYear": {
+        "Year1": 176,
+        "Year2": 179,
+        "Year3": 182,
+        "Year4": 178,
+        "Year5": 174
+      },
+      "aiscUsdPerOz": 1705,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": null,
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "FY2026 guidance midpoint: 168,000-184,000 oz = 176,000 oz. AISC midpoint: $1,620-$1,790 = $1,705/oz. Years 2-5 are estimated with mild profile variation (not flat) to reflect normal mine sequencing around a steady-state base. Currency: USD. Company holds 90% of Yaoure; figures shown on 100% basis per reserve table. Mine life 16+ years from reserve statement."
+    },
+    {
+      "name": "Edikan Gold Mine",
+      "type": "production",
+      "jurisdiction": "Ghana",
+      "payableGoldProductionKozByYear": {
+        "Year1": 161.5,
+        "Year2": 164,
+        "Year3": 162,
+        "Year4": 158,
+        "Year5": 154
+      },
+      "aiscUsdPerOz": 1545,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": null,
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "FY2026 guidance midpoint: 154,000-169,000 oz = 161,500 oz. AISC midpoint: $1,470-$1,620 = $1,545/oz. Years 2-5 are estimated with slight variation and gentle decline toward late mine-life profile (not flat). Currency: USD. Company holds 90% of Edikan; figures shown on 100% basis per reserve table. Mine life ~5 years from reserve statement."
+    },
+    {
+      "name": "Sissingué Gold Complex",
+      "type": "production",
+      "jurisdiction": "Côte d'Ivoire",
+      "payableGoldProductionKozByYear": {
+        "Year1": 82.5,
+        "Year2": 86,
+        "Year3": 84,
+        "Year4": 80,
+        "Year5": 77
+      },
+      "aiscUsdPerOz": 1905,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": null,
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": null,
+      "notes": "FY2026 guidance midpoint: 78,000-87,000 oz = 82,500 oz. AISC midpoint: $1,810-$2,000 = $1,905/oz. Years 2-5 are estimated with non-flat profile to reflect normal grade/sequence variation across Sissingue-Bagoe feed. Currency: USD. Company holds 86% of Sissingue (90% of Bagoe component); figures shown on 100% basis per reserve table. Includes Fimbiasso and Bagoe projects. Mine life 12+ years from reserve statement."
+    },
+    {
+      "name": "Nyanzaga Gold Project",
+      "type": "production",
+      "jurisdiction": "Tanzania",
+      "payableGoldProductionKozByYear": {
+        "Year1": 0,
+        "Year2": 0,
+        "Year3": 200,
+        "Year4": 200,
+        "Year5": 200
+      },
+      "aiscUsdPerOz": 1621,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 121,
+        "Year2": 0,
+        "Year3": 0,
+        "Year4": 0,
+        "Year5": 0
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 2041,
+      "notes": "Development project: first gold pour Q1 CY2027 (calendar year, approximately Q4 FY2027). Estimated production ramp to >200k oz/year FY28-FY41 per reserve statement (14 years @ >200k pa). Year1=FY2026 (pre-production), Year2=FY2027 (ramp-up, conservatively estimated at 0), Year3-5=FY2028-2030 (steady-state at 200k oz/year midpoint). AISC: $1,621/oz average based on US$3,000/oz gold price assumption per reserve statement. Capex Year1 (FY2026): US$121M incurred through Dec 2025 plus remaining development. Company holds 80% of Nyanzaga; figures shown on 100% basis. Ore Reserve 4.0 Moz, mine life 16 years from Feb 2026 announcement. Currency: USD."
+    }
+  ]
+}

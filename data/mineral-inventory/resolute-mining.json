@@ -1,0 +1,50 @@
+{
+  "companyKey": "resolute-mining",
+  "symbols": [
+    "RSG",
+    "RMGGF"
+  ],
+  "matchNames": [
+    "resolute"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Resolute Mining 2024 Mineral Resources & Ore Reserves",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 2.8,
+      "attributableMoz": 2.8
+    },
+    "measuredIndicated": {
+      "containedMoz": 4.5,
+      "attributableMoz": 4.5
+    },
+    "inferred": {
+      "containedMoz": 1.2,
+      "attributableMoz": 1.2
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Syama",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 1.6,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Mako",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 1.2,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Group totals rounded from 2024 OR & MR statement."
+  ]
+}

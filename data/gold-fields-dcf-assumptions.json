@@ -1,0 +1,181 @@
+{
+  "source": "Gold Fields investor presentation archive (Q4 2025 results and 2026 conference materials) used for company-level guidance, then disaggregated into mine-level non-flat yearly estimates.",
+  "assets": [
+    {
+      "name": "South Deep",
+      "type": "production",
+      "jurisdiction": "South Africa",
+      "payableGoldProductionKozByYear": {
+        "Year1": 360,
+        "Year2": 370,
+        "Year3": 380,
+        "Year4": 390,
+        "Year5": 395
+      },
+      "aiscUsdPerOz": 1450,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 150,
+        "Year2": 148,
+        "Year3": 145,
+        "Year4": 142,
+        "Year5": 140
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "Tarkwa",
+      "type": "production",
+      "jurisdiction": "Ghana",
+      "payableGoldProductionKozByYear": {
+        "Year1": 520,
+        "Year2": 525,
+        "Year3": 515,
+        "Year4": 505,
+        "Year5": 495
+      },
+      "aiscUsdPerOz": 1350,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 160,
+        "Year2": 158,
+        "Year3": 155,
+        "Year4": 152,
+        "Year5": 150
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "Damang",
+      "type": "production",
+      "jurisdiction": "Ghana",
+      "payableGoldProductionKozByYear": {
+        "Year1": 220,
+        "Year2": 215,
+        "Year3": 205,
+        "Year4": 195,
+        "Year5": 185
+      },
+      "aiscUsdPerOz": 1550,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 85,
+        "Year2": 82,
+        "Year3": 80,
+        "Year4": 78,
+        "Year5": 75
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "St Ives",
+      "type": "production",
+      "jurisdiction": "Australia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 350,
+        "Year2": 345,
+        "Year3": 355,
+        "Year4": 340,
+        "Year5": 335
+      },
+      "aiscUsdPerOz": 1650,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 120,
+        "Year2": 118,
+        "Year3": 115,
+        "Year4": 112,
+        "Year5": 110
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "Agnew",
+      "type": "production",
+      "jurisdiction": "Australia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 250,
+        "Year2": 255,
+        "Year3": 245,
+        "Year4": 240,
+        "Year5": 235
+      },
+      "aiscUsdPerOz": 1500,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 95,
+        "Year2": 92,
+        "Year3": 90,
+        "Year4": 88,
+        "Year5": 85
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "Gruyere (attributable)",
+      "type": "production",
+      "jurisdiction": "Australia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 140,
+        "Year2": 145,
+        "Year3": 150,
+        "Year4": 148,
+        "Year5": 142
+      },
+      "aiscUsdPerOz": 1450,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 70,
+        "Year2": 68,
+        "Year3": 66,
+        "Year4": 64,
+        "Year5": 62
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "Salares Norte",
+      "type": "production",
+      "jurisdiction": "Chile",
+      "payableGoldProductionKozByYear": {
+        "Year1": 220,
+        "Year2": 280,
+        "Year3": 300,
+        "Year4": 270,
+        "Year5": 230
+      },
+      "aiscUsdPerOz": 1700,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 140,
+        "Year2": 125,
+        "Year3": 110,
+        "Year4": 95,
+        "Year5": 90
+      },
+      "sustainingCapexUsdMByYear": null
+    },
+    {
+      "name": "Cerro Corona",
+      "type": "production",
+      "jurisdiction": "Peru",
+      "payableGoldProductionKozByYear": {
+        "Year1": 120,
+        "Year2": 115,
+        "Year3": 110,
+        "Year4": 105,
+        "Year5": 100
+      },
+      "aiscUsdPerOz": 1300,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 55,
+        "Year2": 52,
+        "Year3": 50,
+        "Year4": 48,
+        "Year5": 45
+      },
+      "sustainingCapexUsdMByYear": null
+    }
+  ]
+}

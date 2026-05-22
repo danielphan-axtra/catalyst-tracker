@@ -1,0 +1,60 @@
+{
+  "companyKey": "barrick",
+  "symbols": [
+    "ABX",
+    "GOLD"
+  ],
+  "matchNames": [
+    "barrick"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Barrick Gold Corporation 2024 Year-End Mineral Reserves & Resources",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 89,
+      "attributableMoz": 89
+    },
+    "measuredIndicated": {
+      "containedMoz": 180,
+      "attributableMoz": 180
+    },
+    "inferred": {
+      "containedMoz": 41,
+      "attributableMoz": 41
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Global consolidated (attributable)",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 89,
+      "containedUnit": "Moz Au",
+      "notes": "2024 year-end; +23% YoY before depletion"
+    },
+    {
+      "deposit": "Global consolidated (attributable)",
+      "category": "resources",
+      "classification": "M&I (incl. reserves)",
+      "containedMetal": 180,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Global consolidated (attributable)",
+      "category": "resources",
+      "classification": "Inferred (separate)",
+      "containedMetal": 41,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Barrick: Mineral resources reported inclusive of reserves (2024 results NR).",
+    "Inferred mineral resources are reported separately.",
+    "Attributable basis per Barrick disclosure."
+  ]
+}

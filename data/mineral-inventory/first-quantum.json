@@ -1,0 +1,45 @@
+{
+  "companyKey": "first-quantum",
+  "symbols": [
+    "FM",
+    "FMTO"
+  ],
+  "matchNames": [
+    "first quantum"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "First Quantum Mineral Reserves & Resources (Dec 2024)",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedCuLb": 14000000000
+    },
+    "measuredIndicated": {
+      "containedCuLb": 22000000000
+    },
+    "containedCuEqLb": 14000000000
+  },
+  "rows": [
+    {
+      "deposit": "Kansanshi / Sentinel / Cobre Panama (excl.)",
+      "category": "reserves",
+      "classification": "P&P Cu",
+      "containedMetal": 14,
+      "containedUnit": "Blb Cu"
+    },
+    {
+      "deposit": "Global",
+      "category": "resources",
+      "classification": "M&I Cu",
+      "containedMetal": 22,
+      "containedUnit": "Blb Cu"
+    }
+  ],
+  "disclaimers": [
+    "Large copper producer; gold credits not split in summary."
+  ]
+}

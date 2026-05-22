@@ -1,0 +1,317 @@
+[
+  {
+    "symbol": "AEM",
+    "name": "Agnico Eagle Mines Limited",
+    "industry": "Gold",
+    "balanceCash": 2866000000,
+    "balanceDebt": 196000000,
+    "marketCap": 142577729536,
+    "enterpriseValue": 139108385459
+  },
+  {
+    "symbol": "AGI",
+    "name": "Alamos Gold Inc",
+    "industry": "Gold",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 26431496192,
+    "enterpriseValue": 25805686850
+  },
+  {
+    "symbol": "AU",
+    "name": "AngloGold Ashanti plc",
+    "industry": "Gold",
+    "balanceCash": 2928000000,
+    "balanceDebt": 2436000000,
+    "marketCap": 45224075264,
+    "enterpriseValue": 39772133852
+  },
+  {
+    "symbol": "BTO.TO",
+    "name": "B2Gold Corp.",
+    "industry": "Gold",
+    "balanceCash": 380424000,
+    "balanceDebt": 1193745668,
+    "marketCap": 7804242432,
+    "enterpriseValue": 7532719817
+  },
+  {
+    "symbol": "ABX",
+    "name": "Barrick Gold Corp",
+    "industry": "Gold",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 97321680896,
+    "enterpriseValue": 95283373940
+  },
+  {
+    "symbol": "BOR",
+    "name": "Borealis Mining",
+    "industry": "Gold Mining",
+    "balanceCash": 21000000,
+    "balanceDebt": 0,
+    "marketCap": 197000000,
+    "enterpriseValue": 176000000
+  },
+  {
+    "symbol": "CNQ",
+    "name": "Canadian Natural Resources Ltd",
+    "industry": "Oil & Gas E&P",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 138738008064,
+    "enterpriseValue": 154681997720
+  },
+  {
+    "symbol": "CS",
+    "name": "Capstone Copper Corp.",
+    "industry": "Copper Mining",
+    "balanceCash": 640000000,
+    "balanceDebt": 1450000000,
+    "marketCap": 7600000000,
+    "enterpriseValue": 8410000000
+  },
+  {
+    "symbol": "EDV",
+    "name": "Endeavour Mining Corp",
+    "industry": "Gold",
+    "balanceCash": 453300000,
+    "balanceDebt": 610800000,
+    "marketCap": 18991976448,
+    "enterpriseValue": 19612370644
+  },
+  {
+    "symbol": "EXM",
+    "name": "Excellon Resources Inc.",
+    "industry": "Silver Mining",
+    "balanceCash": 3500000,
+    "balanceDebt": 0,
+    "marketCap": 28000000,
+    "enterpriseValue": 24500000
+  },
+  {
+    "symbol": "FPX",
+    "name": "FPX Nickel Corp.",
+    "industry": "Nickel Mining",
+    "balanceCash": 18000000,
+    "balanceDebt": 0,
+    "marketCap": 120000000,
+    "enterpriseValue": 102000000
+  },
+  {
+    "symbol": "FM",
+    "name": "First Quantum Minerals Ltd.",
+    "industry": "Copper Mining",
+    "balanceCash": 1330000000,
+    "balanceDebt": 6200000000,
+    "marketCap": 15500000000,
+    "enterpriseValue": 20370000000
+  },
+  {
+    "symbol": "GILD",
+    "name": "Gilead Sciences CDR (CAD Hedged)",
+    "industry": "Drug Manufacturers - General",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 155916200000,
+    "enterpriseValue": 265693416734
+  },
+  {
+    "symbol": "GFI",
+    "name": "Gold Fields Limited",
+    "industry": "Gold",
+    "balanceCash": 1779199110,
+    "balanceDebt": 6159798198,
+    "marketCap": 37404684288,
+    "enterpriseValue": 39905073271
+  },
+  {
+    "symbol": "HBM",
+    "name": "Hudbay Minerals Inc.",
+    "industry": "Copper Mining",
+    "balanceCash": 568900000,
+    "balanceDebt": 1008600000,
+    "marketCap": null,
+    "enterpriseValue": null
+  },
+  {
+    "symbol": "IAG.TO",
+    "name": "IAMGOLD Corporation",
+    "industry": "Gold",
+    "balanceCash": 1953000000,
+    "balanceDebt": 4266000000,
+    "marketCap": 14092436480,
+    "enterpriseValue": 15024515592
+  },
+  {
+    "symbol": "IDEX.V",
+    "name": "IDEX Metals Corp.",
+    "industry": "Precious & Base Metals Exploration",
+    "balanceCash": 5000000,
+    "balanceDebt": 0,
+    "marketCap": 24000000,
+    "enterpriseValue": 19000000
+  },
+  {
+    "symbol": "IVN",
+    "name": "Ivanhoe Mines Ltd.",
+    "industry": "Other Industrial Metals & Mining",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 17738977280,
+    "enterpriseValue": 18285472290
+  },
+  {
+    "symbol": "K",
+    "name": "Kinross Gold Corp",
+    "industry": "Gold",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 50661990400,
+    "enterpriseValue": 48991512942
+  },
+  {
+    "symbol": "LUG",
+    "name": "Lundin Gold Inc",
+    "industry": "Gold",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 25198254080,
+    "enterpriseValue": 25162742868
+  },
+  {
+    "symbol": "LUN",
+    "name": "Lundin Mining Corporation",
+    "industry": "Copper",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 29417641984,
+    "enterpriseValue": 29615748599
+  },
+  {
+    "symbol": "NCU",
+    "name": "Nevada Copper Corp.",
+    "industry": "Copper Mining",
+    "balanceCash": 12000000,
+    "balanceDebt": 180000000,
+    "marketCap": 85000000,
+    "enterpriseValue": 253000000
+  },
+  {
+    "symbol": "NGD",
+    "name": "New Gold Inc.",
+    "industry": "Gold Mining",
+    "balanceCash": 180000000,
+    "balanceDebt": 450000000,
+    "marketCap": 1450000000,
+    "enterpriseValue": 1720000000
+  },
+  {
+    "symbol": "PEX.V",
+    "name": "Pacific Ridge Exploration Ltd.",
+    "industry": "Copper-Gold Exploration",
+    "balanceCash": 2194173,
+    "balanceDebt": 0,
+    "marketCap": 15400000,
+    "enterpriseValue": 13200000
+  },
+  {
+    "symbol": "PAAS",
+    "name": "Pan American Silver Corp",
+    "industry": "Gold",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 32495970304,
+    "enterpriseValue": 31860699612
+  },
+  {
+    "symbol": "PRU",
+    "name": "Perseus Mining Limited",
+    "industry": "Gold",
+    "balanceCash": 755000000,
+    "balanceDebt": 0,
+    "marketCap": 6768270848,
+    "enterpriseValue": 5516827897
+  },
+  {
+    "symbol": "RSG",
+    "name": "Resolute Mining Limited",
+    "industry": "Gold",
+    "balanceCash": 266000000,
+    "balanceDebt": 57000000,
+    "marketCap": 2703833344,
+    "enterpriseValue": 2671987206
+  },
+  {
+    "symbol": "ROG",
+    "name": "Roxgold Inc",
+    "industry": "Other",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 299282300000,
+    "enterpriseValue": 476360168992
+  },
+  {
+    "symbol": "SVM.AX",
+    "name": "Sovereign Metals Limited",
+    "industry": "Critical Minerals",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": null,
+    "enterpriseValue": null
+  },
+  {
+    "symbol": "PHYS",
+    "name": "Sprott Physical Gold Trust",
+    "industry": "Asset Management",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 25133031424,
+    "enterpriseValue": null
+  },
+  {
+    "symbol": "PSLV",
+    "name": "Sprott Physical Silver",
+    "industry": "Asset Management",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 22864136192,
+    "enterpriseValue": null
+  },
+  {
+    "symbol": "TECK-A",
+    "name": "Teck Resources Limited",
+    "industry": "Other Industrial Metals & Mining",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 33469079552,
+    "enterpriseValue": 37885925974
+  },
+  {
+    "symbol": "TECK-B",
+    "name": "Teck Resources Limited",
+    "industry": "Other Industrial Metals & Mining",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 33288112128,
+    "enterpriseValue": 37885925974
+  },
+  {
+    "symbol": "WPM",
+    "name": "Wheaton Precious Metals Corp",
+    "industry": "Gold",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 87230455808,
+    "enterpriseValue": 85666477910
+  },
+  {
+    "symbol": "WCP",
+    "name": "Whitecap Resources Inc.",
+    "industry": "Oil & Gas E&P",
+    "balanceCash": null,
+    "balanceDebt": null,
+    "marketCap": 17381615616,
+    "enterpriseValue": 21089416000
+  }
+]

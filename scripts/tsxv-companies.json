@@ -1,0 +1,7919 @@
+[
+  {
+    "name": "A.I.S. Resources Ltd",
+    "symbol": "AIS",
+    "marketCap": 403000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abacus Mining & Exploration",
+    "symbol": "AME",
+    "marketCap": 37363000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abbastar Resources Corp",
+    "symbol": "ABA",
+    "marketCap": 431000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abcourt Mines Inc -cl B",
+    "symbol": "ABI",
+    "marketCap": 9244000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aben Resources Ltd",
+    "symbol": "ABN",
+    "marketCap": 10203000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abenteuer Resources Corp",
+    "symbol": "ABU",
+    "marketCap": 1837000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abington Resources Ltd",
+    "symbol": "ABL",
+    "marketCap": 4571000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abitex Resources Inc",
+    "symbol": "ABE",
+    "marketCap": 4405000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abitibi Mining Corp",
+    "symbol": "ABB",
+    "marketCap": 308000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Abzu Gold Ltd",
+    "symbol": "ABS",
+    "marketCap": 11668000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Acadia Resources Corp",
+    "symbol": "AIC",
+    "marketCap": 3322000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Acme Resources Inc",
+    "symbol": "ARI",
+    "marketCap": 1611000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Actus Minerals Corp",
+    "symbol": "AAC",
+    "marketCap": 1450000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Adanac Molybdenum Corp",
+    "symbol": "AUA",
+    "marketCap": 10040000,
+    "subsector": "molybdenum",
+    "primaryMetal": "molybdenum"
+  },
+  {
+    "name": "Adex Mining Inc",
+    "symbol": "ADE",
+    "marketCap": 13701000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Admiral Bay Resources Inc",
+    "symbol": "ADB",
+    "marketCap": 318000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Adriana Resources Inc",
+    "symbol": "ADI",
+    "marketCap": 129248000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Adroit Resources Inc",
+    "symbol": "ADT",
+    "marketCap": 5453000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Advance Gold Corp",
+    "symbol": "AAX",
+    "marketCap": 968000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Advanced Primary Minerals",
+    "symbol": "APD",
+    "marketCap": 1731000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Adventure Gold Inc",
+    "symbol": "AGE",
+    "marketCap": 18185000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Afferro Mining Inc",
+    "symbol": "AFF",
+    "marketCap": 75587000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Afri-can Marine Minerals Crp",
+    "symbol": "AFA",
+    "marketCap": 8299000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "African Gold Group Inc",
+    "symbol": "AGG",
+    "marketCap": 37974000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "African Metals Corp",
+    "symbol": "AFR",
+    "marketCap": 10761000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "African Queen Mines Ltd",
+    "symbol": "AQ",
+    "marketCap": 7308000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aguila American Gold Ltd",
+    "symbol": "AGL",
+    "marketCap": 8499000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Alder Resources Ltd",
+    "symbol": "ALR",
+    "marketCap": 4088000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aldershot Resources Ltd",
+    "symbol": "ALZ",
+    "marketCap": 4235000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aldridge Minerals Inc",
+    "symbol": "AGM",
+    "marketCap": 17208000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aldrin Resources Corp",
+    "symbol": "ALN",
+    "marketCap": 3924000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Alexander Mining Plc *",
+    "symbol": "AXD",
+    "marketCap": 7918000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Alexandria Minerals Corp",
+    "symbol": "AZX",
+    "marketCap": 11528000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Alhambra Resources Ltd",
+    "symbol": "ALH",
+    "marketCap": 34620000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Alix Resources Corp",
+    "symbol": "AIX",
+    "marketCap": 1838000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Alpha Gold Corp",
+    "symbol": "ALQ",
+    "marketCap": 913000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Alphamin Resources Corp",
+    "symbol": "AFM",
+    "marketCap": 15979000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Altai Resources Inc",
+    "symbol": "ATI",
+    "marketCap": 5753000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Altan Nevada Minerals Ltd",
+    "symbol": "ANE",
+    "marketCap": 1186000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Altan Rio Minerals Ltd *",
+    "symbol": "AMO",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Altima Resources Ltd",
+    "symbol": "ARH",
+    "marketCap": 3770000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Altiplano Minerals Ltd",
+    "symbol": "APN",
+    "marketCap": 1403000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Alturas Minerals Corp",
+    "symbol": "ALT",
+    "marketCap": 5566000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Am Gold Inc",
+    "symbol": "AMG",
+    "marketCap": 6393000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Amador Gold Corp",
+    "symbol": "AGX",
+    "marketCap": 936000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Amanta Resources Ltd",
+    "symbol": "AMH",
+    "marketCap": 1794000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Amarc Resources Ltd",
+    "symbol": "AHR",
+    "marketCap": 34164000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Amarillo Gold Corp",
+    "symbol": "AGC",
+    "marketCap": 56003000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Amato Exploration Ltd",
+    "symbol": "AMT",
+    "marketCap": 3130000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "American Creek Resources Ltd",
+    "symbol": "AMK",
+    "marketCap": 5036000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "American Vanadium Corp",
+    "symbol": "AVC",
+    "marketCap": 14853000,
+    "subsector": "vanadium",
+    "primaryMetal": "vanadium"
+  },
+  {
+    "name": "Amerix Precious Metals Corp",
+    "symbol": "APM",
+    "marketCap": 5171000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Amex Exploration Inc",
+    "symbol": "AMX",
+    "marketCap": 5292000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ami Resources Inc",
+    "symbol": "AMU",
+    "marketCap": 2146000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Amseco Exploration Ltd",
+    "symbol": "AEL",
+    "marketCap": 2050000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Anconia Resources Corp",
+    "symbol": "ARA",
+    "marketCap": 5810000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Andean American Gold Corp",
+    "symbol": "AAG",
+    "marketCap": 30910000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Andina Minerals Inc",
+    "symbol": "ADM",
+    "marketCap": 76906000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Andover Mining Corp",
+    "symbol": "AOX",
+    "marketCap": 36163000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Anfield Nickel Corp",
+    "symbol": "ANF",
+    "marketCap": 150942000,
+    "subsector": "nickel",
+    "primaryMetal": "nickel"
+  },
+  {
+    "name": "Angkor Gold Corp",
+    "symbol": "ANK",
+    "marketCap": 18210000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Anglo Swiss Resources Inc",
+    "symbol": "ASW",
+    "marketCap": 9637000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Anglo-bomarc Mines Ltd",
+    "symbol": "ANB",
+    "marketCap": 1641000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Anglo-canadian Mining Corp",
+    "symbol": "URA",
+    "marketCap": 4088000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Angus Mining Namibia Ltd",
+    "symbol": "ANA",
+    "marketCap": 4153000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Animas Resources",
+    "symbol": "ANI",
+    "marketCap": 8686000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Anooraq Resources Corp",
+    "symbol": "ARQ",
+    "marketCap": 81168000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Antioquia Gold Inc",
+    "symbol": "AGD",
+    "marketCap": 11687000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Apella Resources Inc",
+    "symbol": "APA",
+    "marketCap": 9817000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Apogee Silver Ltd",
+    "symbol": "APE",
+    "marketCap": 35361000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Appalaches Resources Inc",
+    "symbol": "APP",
+    "marketCap": 5284000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Appleton Exploration Inc",
+    "symbol": "AEX",
+    "marketCap": 1509000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aqm Copper Inc",
+    "symbol": "AQM",
+    "marketCap": 33873000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Arcan Resources Ltd",
+    "symbol": "ARN",
+    "marketCap": 378681000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Archean Star Resources Inc",
+    "symbol": "ASP",
+    "marketCap": 3107000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Archon Minerals Ltd",
+    "symbol": "ACS",
+    "marketCap": 58145000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Arco Resources Corp",
+    "symbol": "ARR",
+    "marketCap": 872000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Arctic Star Exploration Corp",
+    "symbol": "ADD",
+    "marketCap": 3441000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Arehada Mining Ltd *",
+    "symbol": "AHD/H",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Argent Resources Ltd-uts *",
+    "symbol": "AOU-U",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Argentex Mining Corp",
+    "symbol": "ATX",
+    "marketCap": 22645000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Argentum Silver Corp",
+    "symbol": "ASL",
+    "marketCap": 3293000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Argex Mining Inc",
+    "symbol": "RGX",
+    "marketCap": 32161000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Argonaut Exploration Inc",
+    "symbol": "AGA",
+    "marketCap": 1884000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Argus Metals Corp",
+    "symbol": "AML",
+    "marketCap": 4475000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Arian Silver Corp",
+    "symbol": "AGQ",
+    "marketCap": 59381000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Arrowhead Gold Corp",
+    "symbol": "AWH",
+    "marketCap": 6918000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Artha Resources Corp",
+    "symbol": "AHC",
+    "marketCap": 5122000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ascot Resources Ltd",
+    "symbol": "AOT",
+    "marketCap": 60843000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Asia Now Resources Corp",
+    "symbol": "NOW",
+    "marketCap": 25062000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Asian Mineral Resources Ltd",
+    "symbol": "ASN",
+    "marketCap": 9414000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Astral Mining Corp",
+    "symbol": "AA",
+    "marketCap": 2104000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Astur Gold Corp",
+    "symbol": "AST",
+    "marketCap": 45353000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Atac Resources Ltd",
+    "symbol": "ATC",
+    "marketCap": 202255000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Atacama Minerals Corp",
+    "symbol": "AAM",
+    "marketCap": 142245000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Atacama Pacific Gold Corp",
+    "symbol": "ATM",
+    "marketCap": 117596000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Athabasca Minerals Inc",
+    "symbol": "ABM",
+    "marketCap": 9208000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Athabasca Uranium Inc",
+    "symbol": "UAX",
+    "marketCap": 6468000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Atikwa Resources Inc",
+    "symbol": "ATK",
+    "marketCap": 12195000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Atlanta Gold Inc",
+    "symbol": "ATG",
+    "marketCap": 8995000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Atlantic Indus Minerals Inc *",
+    "symbol": "ANL/H",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Atocha Resources Inc",
+    "symbol": "ATT",
+    "marketCap": 1221000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Augyva Mining Resources Inc",
+    "symbol": "AUV",
+    "marketCap": 11228000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aura Silver Resources Inc",
+    "symbol": "AUU",
+    "marketCap": 5287000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Auracle Resources Ltd",
+    "symbol": "AAL",
+    "marketCap": 11461000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aurcrest Gold Inc",
+    "symbol": "AGO",
+    "marketCap": 4328000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Auriga Gold Corp",
+    "symbol": "AIA",
+    "marketCap": 11916000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Aurion Resources Ltd",
+    "symbol": "AU",
+    "marketCap": 7146000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Auro Resources Corp",
+    "symbol": "ARU",
+    "marketCap": 4293000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Aurvista Gold Corp",
+    "symbol": "AVA",
+    "marketCap": 7880000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Avala Resources Ltd",
+    "symbol": "AVZ",
+    "marketCap": 182421000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Avanti Mining Inc",
+    "symbol": "AVT",
+    "marketCap": 37768000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Avino Silver & Gold Mines",
+    "symbol": "ASM",
+    "marketCap": 36410000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Avrupa Minerals Ltd",
+    "symbol": "AVU",
+    "marketCap": 2926000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Azimut Exploration Inc",
+    "symbol": "AZM",
+    "marketCap": 25378000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Azteca Gold Corp",
+    "symbol": "AZG",
+    "marketCap": 5538000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Azure Resources Corp",
+    "symbol": "AZU",
+    "marketCap": 2266000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bacanora Minerals Ltd",
+    "symbol": "BCN",
+    "marketCap": 14713000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Balmoral Resources Ltd",
+    "symbol": "BAR",
+    "marketCap": 48358000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bama Gold Corp",
+    "symbol": "BMA",
+    "marketCap": 4865000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bandera Gold Ltd",
+    "symbol": "BGL",
+    "marketCap": 2805000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Banks Island Gold Ltd",
+    "symbol": "BOZ",
+    "marketCap": 6986000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Barisan Gold Corp",
+    "symbol": "BG",
+    "marketCap": 11056000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Barisan Gold Corp *",
+    "symbol": "BG/S",
+    "marketCap": null,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Barker Minerals Ltd",
+    "symbol": "BML",
+    "marketCap": 5797000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Barkerville Gold Mines Ltd",
+    "symbol": "BGM",
+    "marketCap": 60072000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Baroyeca Gold & Silver Inc",
+    "symbol": "BGS",
+    "marketCap": 3539000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Barranco Resources Corp",
+    "symbol": "BCC/P",
+    "marketCap": 285000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Batero Gold Corp",
+    "symbol": "BAT",
+    "marketCap": 87570000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bayswater Uranium Corp",
+    "symbol": "BYU",
+    "marketCap": 3882000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Be Resources Inc",
+    "symbol": "BER",
+    "marketCap": 2115000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bear Creek Mining Corp",
+    "symbol": "BCM",
+    "marketCap": 242983000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bear Lake Gold Ltd",
+    "symbol": "BLG",
+    "marketCap": 7381000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bearing Resources Ltd",
+    "symbol": "BRZ",
+    "marketCap": 2776000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Beaufield Resources Inc",
+    "symbol": "BFD",
+    "marketCap": 19727000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bell Copper Corp",
+    "symbol": "BCU",
+    "marketCap": 7708000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Bellamont Exploration Ltd-a",
+    "symbol": "BMX/A",
+    "marketCap": 50707000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bellhaven Copper & Gold Inc",
+    "symbol": "BHV",
+    "marketCap": 33743000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Belmont Resources Inc",
+    "symbol": "BEA",
+    "marketCap": 563000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Belo Sun Mining Corp",
+    "symbol": "BSX",
+    "marketCap": 160512000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Belvedere Resources Ltd",
+    "symbol": "BEL",
+    "marketCap": 15259000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Benton Resources Corp",
+    "symbol": "BTC",
+    "marketCap": 20640000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Berkwood Resources Ltd",
+    "symbol": "BKR",
+    "marketCap": 2371000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bison Gold Resources Inc",
+    "symbol": "BGE",
+    "marketCap": 10623000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bitterroot Resources Ltd",
+    "symbol": "BTT",
+    "marketCap": 3972000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Black Bull Resources Inc",
+    "symbol": "BBS",
+    "marketCap": 702000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Black Isle Resources Corp",
+    "symbol": "BIT",
+    "marketCap": 477000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Black Panther Mining Corp",
+    "symbol": "BPC",
+    "marketCap": 1036000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Blackdog Resources Ltd",
+    "symbol": "DOG",
+    "marketCap": 8837000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Blackhawk Resources Corp",
+    "symbol": "BLR",
+    "marketCap": 4410000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Blind Creek Resources Ltd",
+    "symbol": "BCK",
+    "marketCap": 4710000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Blue Gold Mining Inc",
+    "symbol": "BGX",
+    "marketCap": 39790000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Blue Note Mining Inc",
+    "symbol": "BNT",
+    "marketCap": 7720000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Blue River Resources Ltd",
+    "symbol": "BXR",
+    "marketCap": 3059000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Blue Sky Uranium Corp",
+    "symbol": "BSK",
+    "marketCap": 5046000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Bluestone Resources Inc",
+    "symbol": "BSR",
+    "marketCap": 1794000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bnp Resources Inc-a",
+    "symbol": "BNX/A",
+    "marketCap": 3874000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bolero Resources Corp",
+    "symbol": "BRU",
+    "marketCap": 3875000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bonanza Resources Ltd",
+    "symbol": "BRS",
+    "marketCap": 12828000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bonaparte Resources Inc",
+    "symbol": "BON",
+    "marketCap": 2138000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bonterra Resources Inc",
+    "symbol": "BTR",
+    "marketCap": 9535000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Bowmore Exploration Ltd",
+    "symbol": "BOW",
+    "marketCap": 15249000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Boxxer Gold Corp",
+    "symbol": "BXX",
+    "marketCap": 23029000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bralorne Gold Mines Ltd",
+    "symbol": "BPM",
+    "marketCap": 17720000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bravada Gold Corp",
+    "symbol": "BVA",
+    "marketCap": 5742000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bravo Gold Corp",
+    "symbol": "BVG",
+    "marketCap": 13213000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Brazil Resources Inc",
+    "symbol": "BRI",
+    "marketCap": 42135000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Brazilian Gold Corp",
+    "symbol": "BGC",
+    "marketCap": 34034000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Bridge Resources Corp",
+    "symbol": "BUK",
+    "marketCap": 1916000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Brigadier Gold Ltd",
+    "symbol": "BRG",
+    "marketCap": 1527000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Brilliant Resources Inc",
+    "symbol": "BLT",
+    "marketCap": 13289000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Brionor Resources Inc",
+    "symbol": "BNR",
+    "marketCap": 1938000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Britannica Resources Corp",
+    "symbol": "BRR",
+    "marketCap": 4808000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Brixton Metals Corp",
+    "symbol": "BBB",
+    "marketCap": 5873000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Buccaneer Gold Corp",
+    "symbol": "BGG",
+    "marketCap": 5440000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Buchans Minerals Corp",
+    "symbol": "BMC",
+    "marketCap": 8167000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cache Exploration Inc",
+    "symbol": "CAY",
+    "marketCap": 1438000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cadan Resources Corp",
+    "symbol": "CXD",
+    "marketCap": 10604000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cadillac Mining Corp",
+    "symbol": "CQX",
+    "marketCap": 1366000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Caldera Resources Inc",
+    "symbol": "CDR",
+    "marketCap": 2752000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Calibre Mining Corp",
+    "symbol": "CXB",
+    "marketCap": 23237000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Calico Resources Corp",
+    "symbol": "CKB",
+    "marketCap": 7920000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Callinex Mines Inc",
+    "symbol": "CNX",
+    "marketCap": 5390000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Calypso Uranium Corp",
+    "symbol": "CLP",
+    "marketCap": 5285000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Camino Minerals Corp",
+    "symbol": "COR",
+    "marketCap": 5217000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canaco Resources Inc",
+    "symbol": "CAN",
+    "marketCap": 214363000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canada Gold Corp",
+    "symbol": "CI",
+    "marketCap": 1815000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Canada Rare Earths Inc",
+    "symbol": "CJC",
+    "marketCap": 6012000,
+    "subsector": "rare earth",
+    "primaryMetal": "rare earth"
+  },
+  {
+    "name": "Canada Zinc Metals Corp",
+    "symbol": "CZX",
+    "marketCap": 54780000,
+    "subsector": "zinc",
+    "primaryMetal": "zinc"
+  },
+  {
+    "name": "Canadian Arrow Mines Ltd",
+    "symbol": "CRO",
+    "marketCap": 5132000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canadian Energy Exploration",
+    "symbol": "XPL",
+    "marketCap": 3660000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canadian Mining Co Inc",
+    "symbol": "CNG",
+    "marketCap": 1920000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canadian Phoenix Resources C",
+    "symbol": "CXP",
+    "marketCap": 54932000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canadian Silver Hunter",
+    "symbol": "AGH",
+    "marketCap": 3516000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Canadian Spirit Resources",
+    "symbol": "SPI",
+    "marketCap": 32623000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canam Coal Corp",
+    "symbol": "COE",
+    "marketCap": 14263000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "Canamex Resources Corp",
+    "symbol": "CSQ",
+    "marketCap": 5410000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canasil Resources",
+    "symbol": "CLZ",
+    "marketCap": 8792000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cancana Resources Corp",
+    "symbol": "CNY",
+    "marketCap": 5963000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cannon Point Resources Ltd",
+    "symbol": "CNP",
+    "marketCap": 6622000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canoro Resources Ltd *",
+    "symbol": "CNS/H",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canstar Resources Inc",
+    "symbol": "ROX",
+    "marketCap": 11991000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canterra Minerals Corp",
+    "symbol": "CTM",
+    "marketCap": 4625000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canuc Resources Corp",
+    "symbol": "CDA",
+    "marketCap": 6214000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Canyon Copper Corp",
+    "symbol": "CNC",
+    "marketCap": 6346000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Capella Resources Ltd",
+    "symbol": "KPS",
+    "marketCap": 3169000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Caracara Silver Inc",
+    "symbol": "CSV",
+    "marketCap": 5906000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Cariboo Rose Resources Ltd",
+    "symbol": "CRB",
+    "marketCap": 1654000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Caribou King Resources Ltd",
+    "symbol": "CKR",
+    "marketCap": 2882000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Carlin Gold Corporation",
+    "symbol": "CGD",
+    "marketCap": 4671000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Carmax Mining Corp",
+    "symbol": "CXM",
+    "marketCap": 1276000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Carrie Arran Resources Inc *",
+    "symbol": "SCO",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cartier Resources Inc",
+    "symbol": "ECR",
+    "marketCap": 10408000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cascade Resources Ltd",
+    "symbol": "CC",
+    "marketCap": 1707000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cascadero Copper Corp",
+    "symbol": "CCD",
+    "marketCap": 11328000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Cascadia Resources Inc",
+    "symbol": "CCR",
+    "marketCap": 2286000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cassidy Gold Corp",
+    "symbol": "CDX",
+    "marketCap": 8470000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Castillian Resources Corp",
+    "symbol": "CT",
+    "marketCap": 24383000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Castle Peak Mining Ltd",
+    "symbol": "CAP",
+    "marketCap": 9865000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Castle Resources Inc",
+    "symbol": "CRI",
+    "marketCap": 49212000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Catalina Metals Corp",
+    "symbol": "CTX/H",
+    "marketCap": 601000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Catalyst Copper Corp",
+    "symbol": "CCY",
+    "marketCap": 18632000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Cayden Resources Inc",
+    "symbol": "CYD",
+    "marketCap": 61880000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Caza Gold Corp",
+    "symbol": "CZY",
+    "marketCap": 11480000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Cb Gold Inc",
+    "symbol": "CBJ",
+    "marketCap": 132281000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Cedar Mountain Exploration I",
+    "symbol": "CED",
+    "marketCap": 7210000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Central Iron Ore Ltd",
+    "symbol": "CIO",
+    "marketCap": 3373000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Central Resources Corp",
+    "symbol": "CBC",
+    "marketCap": 1528000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Centurion Minerals Ltd",
+    "symbol": "CTN",
+    "marketCap": 7807000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cerro Resources Nl *",
+    "symbol": "CJO",
+    "marketCap": 70196000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Challenger Deep Resources Co",
+    "symbol": "CDE",
+    "marketCap": 12111000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Champion Bear Resources Ltd",
+    "symbol": "CBA",
+    "marketCap": 4271000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Channel Resources Ltd",
+    "symbol": "CHU",
+    "marketCap": 15624000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Chesapeake Gold Corp",
+    "symbol": "CKG",
+    "marketCap": 306013000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Chimata Gold Corp",
+    "symbol": "CAT",
+    "marketCap": 2081000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "China Coal Corp",
+    "symbol": "CKO",
+    "marketCap": 2577000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "China Minerals Mining Corp",
+    "symbol": "CMV",
+    "marketCap": 8808000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Citation Resources Inc",
+    "symbol": "CTT",
+    "marketCap": 4876000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Claim Post Resources Inc",
+    "symbol": "CPS",
+    "marketCap": 858000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Clemson Resources Corp",
+    "symbol": "CRZ",
+    "marketCap": 1376000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cliffmont Resources Ltd",
+    "symbol": "CMO",
+    "marketCap": 9031000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Clydesdale Resources Inc",
+    "symbol": "CEO/H",
+    "marketCap": 11626000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cmc Metals Ltd",
+    "symbol": "CMB",
+    "marketCap": 7151000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cmq Resources Inc",
+    "symbol": "NV",
+    "marketCap": 3075000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cobalt Coal Ltd",
+    "symbol": "CCF",
+    "marketCap": 5689000,
+    "subsector": "cobalt",
+    "primaryMetal": "cobalt"
+  },
+  {
+    "name": "Cogitore Resources Inc",
+    "symbol": "WOO",
+    "marketCap": 16087000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Colibri Resources Corp",
+    "symbol": "CBI",
+    "marketCap": 5049000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Colombia Crest Gold Corp",
+    "symbol": "CLB",
+    "marketCap": 19837000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Colombian Mines Corp",
+    "symbol": "CMJ",
+    "marketCap": 8694000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Colonial Coal International",
+    "symbol": "CAD",
+    "marketCap": 76986000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "Colorado Resources Ltd",
+    "symbol": "CXO",
+    "marketCap": 11402000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Colossal Resources Corp",
+    "symbol": "CIA/H",
+    "marketCap": 204000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Colt Resources Inc",
+    "symbol": "GTP",
+    "marketCap": 42288000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Columbus Gold Corp",
+    "symbol": "CGT",
+    "marketCap": 53707000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Columbus Silver Corp",
+    "symbol": "CSC",
+    "marketCap": 5268000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Commander Resources Ltd",
+    "symbol": "CMD",
+    "marketCap": 10040000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Commerce Resources Corp",
+    "symbol": "CCE",
+    "marketCap": 30290000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Compass Gold Corp",
+    "symbol": "CVB",
+    "marketCap": 5989000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Comstock Metals Ltd",
+    "symbol": "CSL",
+    "marketCap": 4938000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Condor Resources Inc",
+    "symbol": "CN",
+    "marketCap": 12647000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Confederation Minerals Ltd",
+    "symbol": "CFM",
+    "marketCap": 16427000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Conquest Resources Ltd",
+    "symbol": "CQR",
+    "marketCap": 4798000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Consolidated Woodjam Copper",
+    "symbol": "WCC",
+    "marketCap": 9858000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Constantine Metal Resources",
+    "symbol": "CEM",
+    "marketCap": 9371000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Contact Exploration Inc",
+    "symbol": "CEX",
+    "marketCap": 12444000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Continental Nickel Ltd",
+    "symbol": "CNI",
+    "marketCap": 28087000,
+    "subsector": "nickel",
+    "primaryMetal": "nickel"
+  },
+  {
+    "name": "Conway Resources Inc",
+    "symbol": "CWY",
+    "marketCap": 3062000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cooper Minerals Inc",
+    "symbol": "CQ",
+    "marketCap": 6509000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Copper Creek Gold Corp",
+    "symbol": "CPV",
+    "marketCap": 4768000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Copper Fox Metals Inc",
+    "symbol": "CUU",
+    "marketCap": 320541000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Copper North Mining Corp",
+    "symbol": "COL",
+    "marketCap": 9326000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Copper One Inc",
+    "symbol": "CUO",
+    "marketCap": 11198000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Coral Gold Resources Ltd",
+    "symbol": "CLH",
+    "marketCap": 10899000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Corazon Gold Corp",
+    "symbol": "CGW",
+    "marketCap": 14032000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Corex Gold Corp",
+    "symbol": "CGE",
+    "marketCap": 7311000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Coronado Resources Ltd",
+    "symbol": "CRD",
+    "marketCap": 2824000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Coronet Metals Inc",
+    "symbol": "CRF",
+    "marketCap": 13659000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Corsa Coal Corp",
+    "symbol": "CSO",
+    "marketCap": 93673000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "Cortez Gold Corp",
+    "symbol": "CUT",
+    "marketCap": 2473000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Cosigo Resources Ltd",
+    "symbol": "CSG",
+    "marketCap": 11220000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cougar Minerals Corp",
+    "symbol": "COU",
+    "marketCap": 1149000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Crazy Horse Resources Inc",
+    "symbol": "CZH",
+    "marketCap": 13308000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cream Minerals Ltd",
+    "symbol": "CMA",
+    "marketCap": 27073000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Crescent Resources Corp",
+    "symbol": "CRC",
+    "marketCap": 1707000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Creso Exploration Inc",
+    "symbol": "CXT",
+    "marketCap": 8403000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cricket Resources Inc *",
+    "symbol": "CKC",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Crown Gold Corp",
+    "symbol": "CWM",
+    "marketCap": 2613000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Cue Resources Ltd",
+    "symbol": "CUE",
+    "marketCap": 2647000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Cuoro Resources Corp",
+    "symbol": "CUA",
+    "marketCap": 33037000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Curlew Lake Resources Inc",
+    "symbol": "CWQ",
+    "marketCap": 1923000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Currie Rose Resources",
+    "symbol": "CUI",
+    "marketCap": 2760000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "D'arianne Resources Inc",
+    "symbol": "DAN",
+    "marketCap": 52818000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dacha Strategic Metals Inc",
+    "symbol": "DSM",
+    "marketCap": 30352000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dajin Resources Corp",
+    "symbol": "DJI",
+    "marketCap": 2532000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Darnley Bay Resources Ltd",
+    "symbol": "DBL",
+    "marketCap": 5286000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dawson Gold Corp",
+    "symbol": "DYU",
+    "marketCap": 909000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Decade Resources Ltd",
+    "symbol": "DEC",
+    "marketCap": 4400000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Deer Horn Metals Inc",
+    "symbol": "DHM",
+    "marketCap": 9979000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Defiance Silver Corp",
+    "symbol": "DEF",
+    "marketCap": 5241000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Deloro Resources Ltd",
+    "symbol": "DLL",
+    "marketCap": 1422000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Delta Uranium Inc",
+    "symbol": "DUR/H",
+    "marketCap": 187000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Dentonia Resources Ltd",
+    "symbol": "DTA",
+    "marketCap": 1052000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Desert Eagle Resources Ltd",
+    "symbol": "DER",
+    "marketCap": 2010000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Desert Gold Ventures Inc",
+    "symbol": "DAU",
+    "marketCap": 17377000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Detector Exploration Ltd",
+    "symbol": "DEX",
+    "marketCap": 369000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dia Bras Exploration Inc",
+    "symbol": "DIB",
+    "marketCap": 314235000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Diadem Resources Ltd",
+    "symbol": "DRL",
+    "marketCap": 918000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Diamcor Mining Inc",
+    "symbol": "DMI",
+    "marketCap": 9904000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Diamond Frank Exploration In",
+    "symbol": "DOD",
+    "marketCap": 2193000,
+    "subsector": "diamond",
+    "primaryMetal": "diamond"
+  },
+  {
+    "name": "Diamonds North Resources Ltd",
+    "symbol": "DDN",
+    "marketCap": 5124000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dianor Resources Inc",
+    "symbol": "DOR",
+    "marketCap": 8282000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Diaz Resources Ltd",
+    "symbol": "DZR",
+    "marketCap": 4917000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Digger Resources Inc",
+    "symbol": "DIG/H",
+    "marketCap": 2896000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dios Exploration Inc",
+    "symbol": "DOS",
+    "marketCap": 7557000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dni Metals Inc",
+    "symbol": "DNI",
+    "marketCap": 20243000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dolly Varden Resources Inc",
+    "symbol": "DLV",
+    "marketCap": 7422000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Donner Metals Ltd",
+    "symbol": "DON",
+    "marketCap": 26821000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dorato Resources Inc",
+    "symbol": "DRI",
+    "marketCap": 4134000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dorex Minerals Inc",
+    "symbol": "DOX",
+    "marketCap": 3707000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dot Resources Ltd",
+    "symbol": "DOT",
+    "marketCap": 1293000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dunav Resources Ltd",
+    "symbol": "DNV",
+    "marketCap": 33685000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Duncastle Gold Corp",
+    "symbol": "DUN",
+    "marketCap": 1610000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Dundarave Resources Inc",
+    "symbol": "DDX",
+    "marketCap": 2293000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Dynasty Gold Corp",
+    "symbol": "DYG",
+    "marketCap": 4546000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Eagle Plains Resources Ltd",
+    "symbol": "EPL",
+    "marketCap": 15124000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Eagle Star Minerals Corp",
+    "symbol": "EGE",
+    "marketCap": 6104000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "East Asia Minerals Corp",
+    "symbol": "EAS",
+    "marketCap": 44314000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Eastfield Resources Ltd",
+    "symbol": "ETF",
+    "marketCap": 3983000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Edge Resources Inc",
+    "symbol": "EDE",
+    "marketCap": 6944000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Edgewater Exploration Ltd",
+    "symbol": "EDW",
+    "marketCap": 27571000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "El Condor Minerals Inc",
+    "symbol": "LCO",
+    "marketCap": 10091000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "El Tigre Silver Corp",
+    "symbol": "ELS",
+    "marketCap": 6676000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Electra Gold Ltd",
+    "symbol": "ELT",
+    "marketCap": 1072000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Electric Metals Inc",
+    "symbol": "EMI",
+    "marketCap": 1876000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Elgin Mining Inc",
+    "symbol": "ELG",
+    "marketCap": 42954000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Elissa Resources Ltd",
+    "symbol": "ELI",
+    "marketCap": 5410000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Elkwater Resources Ltd",
+    "symbol": "ELW",
+    "marketCap": 1257000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Eloro Resources Ltd",
+    "symbol": "ELO",
+    "marketCap": 4670000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ely Gold & Minerals Inc",
+    "symbol": "ELY",
+    "marketCap": 9171000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Emerick Resources Corp",
+    "symbol": "ERC",
+    "marketCap": 3584000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Emgold Mining Corp",
+    "symbol": "EMR",
+    "marketCap": 4540000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Emperor Minerals Ltd",
+    "symbol": "EM/H",
+    "marketCap": 10740000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Empire Mining Corp",
+    "symbol": "EPC",
+    "marketCap": 9763000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Encanto Potash Corp",
+    "symbol": "EPO",
+    "marketCap": 56320000,
+    "subsector": "potash",
+    "primaryMetal": "potash"
+  },
+  {
+    "name": "Encore Renaissance Resources",
+    "symbol": "EZ",
+    "marketCap": 8210000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Endurance Gold Corp",
+    "symbol": "EDG",
+    "marketCap": 3323000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Energulf Resources Inc",
+    "symbol": "ENG",
+    "marketCap": 30243000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Enhanced Oil Resources Inc",
+    "symbol": "EOR",
+    "marketCap": 14862000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Enterprise Energy Resources",
+    "symbol": "EER",
+    "marketCap": 8672000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Entourage Metals Ltd",
+    "symbol": "EMT",
+    "marketCap": 8133000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Epm Mining Ventures Inc",
+    "symbol": "EPK",
+    "marketCap": 58855000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Equinox Exploration Corp",
+    "symbol": "EQX",
+    "marketCap": 2935000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Equitas Resources Corp",
+    "symbol": "EQT",
+    "marketCap": 3175000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Eskay Mining Corp",
+    "symbol": "ESK",
+    "marketCap": 6952000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Eso Uranium Corp",
+    "symbol": "ESO",
+    "marketCap": 8946000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Esperanza Resources Corp",
+    "symbol": "EPZ",
+    "marketCap": 56028000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Estrella Gold Corp",
+    "symbol": "EST",
+    "marketCap": 6893000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Ethiopian Potash Corp",
+    "symbol": "FED",
+    "marketCap": 42837000,
+    "subsector": "potash",
+    "primaryMetal": "potash"
+  },
+  {
+    "name": "Eurasian Minerals Inc",
+    "symbol": "EMX",
+    "marketCap": 88237000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Eureka Resources Inc",
+    "symbol": "EUK",
+    "marketCap": 954000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Euromax Resources Ltd",
+    "symbol": "EOX",
+    "marketCap": 28588000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Everett Resources Ltd",
+    "symbol": "EAR",
+    "marketCap": 972000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Everton Resources Inc",
+    "symbol": "EVR",
+    "marketCap": 9931000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Evrim Resources Corp",
+    "symbol": "EVM",
+    "marketCap": 7112000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Excel Gold Mining Inc *",
+    "symbol": "EGM/H",
+    "marketCap": null,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Excelsior Mining Corp",
+    "symbol": "MIN",
+    "marketCap": 23541000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Exile Resources Inc *",
+    "symbol": "ERI",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Expedition Mining Inc",
+    "symbol": "EXU",
+    "marketCap": 5700000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Explor Resources Inc",
+    "symbol": "EXS",
+    "marketCap": 39137000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Exploration Aurtois Inc",
+    "symbol": "EXA",
+    "marketCap": 1750000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fairmont Resources Inc",
+    "symbol": "FMR",
+    "marketCap": 1566000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Falcon Gold Corp",
+    "symbol": "FG",
+    "marketCap": 1346000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Falkirk Resources Corp",
+    "symbol": "FLK",
+    "marketCap": 1519000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fancamp Exploration Ltd",
+    "symbol": "FNC",
+    "marketCap": 20560000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fdg Mining Inc",
+    "symbol": "FDG",
+    "marketCap": 7654000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ferrum Americas Mining Inc",
+    "symbol": "FEM",
+    "marketCap": 8859000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fieldex Exploration Inc",
+    "symbol": "FLX",
+    "marketCap": 4213000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Finlay Minerals Ltd",
+    "symbol": "FYL",
+    "marketCap": 2735000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fire River Gold Corp",
+    "symbol": "FAU",
+    "marketCap": 18613000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Firebird Resources Inc",
+    "symbol": "FIX",
+    "marketCap": 22749000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Firesteel Resources Inc",
+    "symbol": "FTR",
+    "marketCap": 2752000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "First Idaho Resources *",
+    "symbol": "FI",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "First Lithium Resources Inc",
+    "symbol": "MCI",
+    "marketCap": 2734000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "First Mexican Gold Corp",
+    "symbol": "FMG",
+    "marketCap": 3943000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "First Mountain Exploration L",
+    "symbol": "FMX",
+    "marketCap": 1206000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "First Point Minerals Corp",
+    "symbol": "FPX",
+    "marketCap": 43429000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "First Star Resources Inc",
+    "symbol": "FS",
+    "marketCap": 717000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fjordland Exploration Inc",
+    "symbol": "FEX",
+    "marketCap": 4596000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Focus Metals Inc",
+    "symbol": "FMS",
+    "marketCap": 51796000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Foran Mining Corporation",
+    "symbol": "FOM",
+    "marketCap": 39997000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fort St. James Nickel Corp",
+    "symbol": "FTJ",
+    "marketCap": 8468000,
+    "subsector": "nickel",
+    "primaryMetal": "nickel"
+  },
+  {
+    "name": "Forte Resources Inc *",
+    "symbol": "FJX/P",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fortress Minerals Corp",
+    "symbol": "FST",
+    "marketCap": 43117000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Fortunate Sun Mining Co Ltd *",
+    "symbol": "FSM",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Forum Uranium Corp",
+    "symbol": "FDC",
+    "marketCap": 11736000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Foundation Resources Inc",
+    "symbol": "FDN",
+    "marketCap": 4712000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Freeport Resources",
+    "symbol": "FRI",
+    "marketCap": 1650000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Frontline Gold Corp",
+    "symbol": "FGC",
+    "marketCap": 4374000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Full Metal Minerals Ltd",
+    "symbol": "FMM",
+    "marketCap": 8826000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Full Metal Zinc Ltd",
+    "symbol": "FZ",
+    "marketCap": 5458000,
+    "subsector": "zinc",
+    "primaryMetal": "zinc"
+  },
+  {
+    "name": "G4g Resources Ltd",
+    "symbol": "GXG",
+    "marketCap": 1001000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Galahad Metals Inc",
+    "symbol": "GAX",
+    "marketCap": 1786000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Galane Gold Ltd",
+    "symbol": "GG",
+    "marketCap": 34527000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Galantas Gold Corp",
+    "symbol": "GAL",
+    "marketCap": 13665000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Galore Resources Inc",
+    "symbol": "GRI",
+    "marketCap": 7064000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Galway Resources Ltd",
+    "symbol": "GWY",
+    "marketCap": 147856000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Garibaldi Resources Corp",
+    "symbol": "GGI",
+    "marketCap": 6964000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gdv Resources Inc",
+    "symbol": "GDV/H",
+    "marketCap": 469000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gem International Resources",
+    "symbol": "GI",
+    "marketCap": 2317000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gentor Resources Inc",
+    "symbol": "GNT",
+    "marketCap": 48519000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Geodex Minerals Ltd",
+    "symbol": "GXM",
+    "marketCap": 8791000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Geomark Exploration Ltd",
+    "symbol": "GME",
+    "marketCap": 32993000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Geomega Resources Inc",
+    "symbol": "GMA",
+    "marketCap": 19019000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Geonovus Minerals Corp",
+    "symbol": "GNM",
+    "marketCap": 1564000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Georox Resources Inc",
+    "symbol": "GXR",
+    "marketCap": 3253000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Getty Copper Inc",
+    "symbol": "GTC",
+    "marketCap": 3413000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Gfm Resources Ltd",
+    "symbol": "GFM/H",
+    "marketCap": 1274000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ggl Resources Corp",
+    "symbol": "GGL",
+    "marketCap": 3596000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ginguro Exploration Inc",
+    "symbol": "GEG",
+    "marketCap": 6482000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gitennes Exploration Inc",
+    "symbol": "GIT",
+    "marketCap": 2427000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Giyani Gold Corp",
+    "symbol": "WDG",
+    "marketCap": 43804000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Glass Earth Gold Ltd",
+    "symbol": "GEL",
+    "marketCap": 13812000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Glen Eagle Resources Inc",
+    "symbol": "GER",
+    "marketCap": 9466000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Global Met Coal Corp",
+    "symbol": "GMZ",
+    "marketCap": 3043000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "Global Minerals Ltd",
+    "symbol": "CTG",
+    "marketCap": 36298000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gmv Minerals Inc",
+    "symbol": "GMV",
+    "marketCap": 10493000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gogold Resources Inc",
+    "symbol": "GGD",
+    "marketCap": 68349000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golconda Resources",
+    "symbol": "GA",
+    "marketCap": 3532000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gold Bullion Development Cor",
+    "symbol": "GBB",
+    "marketCap": 26580000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Canyon Resources Inc",
+    "symbol": "GCU",
+    "marketCap": 150225000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Finder Explorations Ltd",
+    "symbol": "GFN",
+    "marketCap": 2728000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Jubilee Capital Corp",
+    "symbol": "GJB",
+    "marketCap": 1331000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Mountain Mining Corp",
+    "symbol": "GUM",
+    "marketCap": 25880000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Port Resources Ltd",
+    "symbol": "GPO",
+    "marketCap": 8121000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Reach Resources Ltd",
+    "symbol": "GRV",
+    "marketCap": 16241000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold Standard Ventures Corp",
+    "symbol": "GV",
+    "marketCap": 45975000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gold World Resources Inc",
+    "symbol": "GDW",
+    "marketCap": 2984000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Goldbank Mining Corp",
+    "symbol": "GLB",
+    "marketCap": 2085000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldcliff Resources Corp",
+    "symbol": "GCN",
+    "marketCap": 2720000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Alliance Resources Co",
+    "symbol": "GLL",
+    "marketCap": 2272000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Arrow Resources Corp",
+    "symbol": "GRG",
+    "marketCap": 11537000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Band Resources",
+    "symbol": "GBN",
+    "marketCap": 60537000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Cariboo Resources Ltd",
+    "symbol": "GCC/H",
+    "marketCap": 794000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Dawn Minerals Inc",
+    "symbol": "GOM",
+    "marketCap": 3893000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Dory Resources Corp",
+    "symbol": "GDR",
+    "marketCap": 3872000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Goliath Resources Ltd",
+    "symbol": "GNG",
+    "marketCap": 14260000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Harp Resources Inc",
+    "symbol": "GHR",
+    "marketCap": 1145000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Hope Mines Ltd",
+    "symbol": "GNH",
+    "marketCap": 15673000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Reign Resources Ltd",
+    "symbol": "GRR",
+    "marketCap": 28310000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Share Mining Corp",
+    "symbol": "GSH",
+    "marketCap": 6734000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Tag Resources",
+    "symbol": "GOG",
+    "marketCap": 13383000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Touch Resources Corp",
+    "symbol": "GOT",
+    "marketCap": 2838000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Golden Valley Mines Ltd",
+    "symbol": "GZZ",
+    "marketCap": 14192000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldex Resources Corp",
+    "symbol": "GDX",
+    "marketCap": 5276000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldnev Resources Inc *",
+    "symbol": "GNZ",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldquest Mining Corp",
+    "symbol": "GQC",
+    "marketCap": 8003000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldrea Resources Corp",
+    "symbol": "GOR",
+    "marketCap": 1902000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldrush Resources Ltd",
+    "symbol": "GOD",
+    "marketCap": 17414000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldsource Mines Inc",
+    "symbol": "GXS",
+    "marketCap": 5016000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldspike Exploration Inc",
+    "symbol": "GSE",
+    "marketCap": 7049000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Goldstar Minerals Inc *",
+    "symbol": "GDM",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gondwana Gold Inc",
+    "symbol": "GON",
+    "marketCap": 10607000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gonzaga Resources Ltd",
+    "symbol": "GN",
+    "marketCap": 2076000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gossan Resources",
+    "symbol": "GSS",
+    "marketCap": 3955000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gowest Gold Ltd",
+    "symbol": "GWA",
+    "marketCap": 19052000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Granite Creek Gold Ltd",
+    "symbol": "GCX",
+    "marketCap": 2137000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Great Bear Resources Ltd",
+    "symbol": "GBR",
+    "marketCap": 3649000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Great Quest Metals Ltd",
+    "symbol": "GQ",
+    "marketCap": 50099000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Great Western Minerals Group",
+    "symbol": "GWG",
+    "marketCap": 158746000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Greencastle Resources Ltd",
+    "symbol": "VGN",
+    "marketCap": 4421000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Greenlight Resources Inc",
+    "symbol": "GR",
+    "marketCap": 1903000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Greenock Resources Inc",
+    "symbol": "GKR",
+    "marketCap": 872000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Grenville Gold Corp",
+    "symbol": "GVG",
+    "marketCap": 1346000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Gta Resources And Mining Inc",
+    "symbol": "GTA",
+    "marketCap": 3046000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Guardian Exploration Inc",
+    "symbol": "GX",
+    "marketCap": 2591000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Guerrero Exploration Inc",
+    "symbol": "GEX",
+    "marketCap": 3312000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gulf Shores Resources Ltd",
+    "symbol": "GUL",
+    "marketCap": 2275000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gulfside Minerals Ltd",
+    "symbol": "GMG",
+    "marketCap": 3984000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gunpoint Exploration Ltd",
+    "symbol": "GUN",
+    "marketCap": 22962000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Guyana Frontier Mining Corp",
+    "symbol": "GYG",
+    "marketCap": 7246000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Guyana Precious Metals Inc",
+    "symbol": "GPM",
+    "marketCap": 15497000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Gwr Resources Inc",
+    "symbol": "GWQ",
+    "marketCap": 23427000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Habanero Resources Inc",
+    "symbol": "HAO",
+    "marketCap": 6735000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Halo Resources Ltd",
+    "symbol": "HLO",
+    "marketCap": 1794000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hana Mining Ltd",
+    "symbol": "HMG",
+    "marketCap": 88191000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hansa Resources Ltd",
+    "symbol": "HRL",
+    "marketCap": 4755000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Happy Creek Minerals Ltd",
+    "symbol": "HPY",
+    "marketCap": 9633000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Harvest Gold Corp",
+    "symbol": "HVG",
+    "marketCap": 1349000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Hawk Exploration Ltd-a",
+    "symbol": "HWK/A",
+    "marketCap": 12085000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hawk Exploration Ltd-b",
+    "symbol": "HWK/B",
+    "marketCap": 12085000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hawkeye Gold & Diamond Inc",
+    "symbol": "HGO",
+    "marketCap": 888000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Heatherdale Resources Ltd",
+    "symbol": "HTR",
+    "marketCap": 22976000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "High Desert Gold Corp",
+    "symbol": "HDG",
+    "marketCap": 7531000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Highbank Resources Ltd",
+    "symbol": "HBK",
+    "marketCap": 3634000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Highland Resources Inc/canad",
+    "symbol": "HI",
+    "marketCap": 2745000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Highpointe Exploration Inc",
+    "symbol": "HIP",
+    "marketCap": 1831000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Highvista Gold Inc",
+    "symbol": "HVV",
+    "marketCap": 14012000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Highway 50 Gold Corp",
+    "symbol": "HWY",
+    "marketCap": 6456000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Hillcrest Resources Ltd",
+    "symbol": "HRH",
+    "marketCap": 3896000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hinterland Metals Inc",
+    "symbol": "HMI",
+    "marketCap": 1878000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Honey Badger Exploration Inc",
+    "symbol": "TUF",
+    "marketCap": 2517000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Houston Lake Mining Inc",
+    "symbol": "HLM",
+    "marketCap": 3766000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Huakan International Mining",
+    "symbol": "HK",
+    "marketCap": 16411000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hudson Resources Inc",
+    "symbol": "HUD",
+    "marketCap": 28829000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hudson River Minerals Ltd",
+    "symbol": "HRM",
+    "marketCap": 1373000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Huldra Silver",
+    "symbol": "HDA",
+    "marketCap": 25603000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Hunt Mining Corp",
+    "symbol": "HMX",
+    "marketCap": 20226000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hunter Bay Minerals Plc",
+    "symbol": "HBY",
+    "marketCap": 7176000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Huntington Exploration Inc",
+    "symbol": "HEI",
+    "marketCap": 1203000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Hyperion Exploration Corp",
+    "symbol": "HYX",
+    "marketCap": 36870000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "I-minerals Inc",
+    "symbol": "IMA",
+    "marketCap": 9384000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Iberian Minerals Corp",
+    "symbol": "IZN",
+    "marketCap": 422869000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Icn Resources Ltd",
+    "symbol": "ICN",
+    "marketCap": 7654000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Iconic Minerals Ltd",
+    "symbol": "ICM",
+    "marketCap": 666000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Iemr Resources Inc",
+    "symbol": "IRI",
+    "marketCap": 2178000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Igc Resources Inc",
+    "symbol": "IGC",
+    "marketCap": 1113000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Impact Silver Corp",
+    "symbol": "IPT",
+    "marketCap": 77316000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Inca One Resources Corp",
+    "symbol": "IO",
+    "marketCap": 5224000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Independence Gold Corp",
+    "symbol": "IGO",
+    "marketCap": 9689000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Indico Resources Ltd",
+    "symbol": "IDI",
+    "marketCap": 3998000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Indigo Exploration Inc",
+    "symbol": "IXI",
+    "marketCap": 4306000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Infinite Resources Inc *",
+    "symbol": "INF/H",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Infinito Gold Ltd",
+    "symbol": "IG",
+    "marketCap": 4320000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Inform Exploration Corp",
+    "symbol": "IX",
+    "marketCap": 1666000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Inlet Resources Ltd",
+    "symbol": "INL",
+    "marketCap": 2296000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Integra Gold Corp",
+    "symbol": "ICG",
+    "marketCap": 16665000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Inter-rock Minerals Inc",
+    "symbol": "IRO",
+    "marketCap": 787000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "International Lithium Corp",
+    "symbol": "ILC",
+    "marketCap": 5952000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Intigold Mines Ltd",
+    "symbol": "IGD",
+    "marketCap": 4205000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Intl Alliance Resources Inc",
+    "symbol": "ALL/H",
+    "marketCap": 1946000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Intl Northair Mines Ltd",
+    "symbol": "INM",
+    "marketCap": 12362000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Intl Samuel Exploration Corp",
+    "symbol": "ISS",
+    "marketCap": 1142000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Invenio Resources Corp",
+    "symbol": "IVO",
+    "marketCap": 2151000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "J.A.G. Mines Ltd",
+    "symbol": "JML",
+    "marketCap": 3971000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "James Bay Resources Ltd",
+    "symbol": "JBR",
+    "marketCap": 10840000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jasper Mining Corporation",
+    "symbol": "JSP",
+    "marketCap": 11521000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jaxon Minerals Inc",
+    "symbol": "JAX",
+    "marketCap": 4053000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jazz Resources Inc",
+    "symbol": "JZR",
+    "marketCap": 1877000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jet Gold Corp",
+    "symbol": "JAU",
+    "marketCap": 1525000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Jiulian Resources Inc",
+    "symbol": "JLR",
+    "marketCap": 1278000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jnr Resources Inc",
+    "symbol": "JNN",
+    "marketCap": 7387000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Josephine Mining Corp",
+    "symbol": "JMC",
+    "marketCap": 5903000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jourdan Resources Inc",
+    "symbol": "JOR",
+    "marketCap": 2217000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Jubilee Gold Inc",
+    "symbol": "JUB",
+    "marketCap": 2271000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Kalimantan Gold Corp Ltd *",
+    "symbol": "KLG",
+    "marketCap": 10866000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Kaminak Gold Corp-a",
+    "symbol": "KAM",
+    "marketCap": 118586000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Karmin Exploration Inc *",
+    "symbol": "KAR",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kenai Resources Ltd",
+    "symbol": "KAI",
+    "marketCap": 4343000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kent Exploration Inc",
+    "symbol": "KEX",
+    "marketCap": 3068000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kermode Resources Ltd",
+    "symbol": "KLM",
+    "marketCap": 1901000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kestrel Gold Inc",
+    "symbol": "KGC",
+    "marketCap": 11152000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Kettle River Resources Ltd",
+    "symbol": "KRR",
+    "marketCap": 750000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Key Gold Holding Inc",
+    "symbol": "KGH",
+    "marketCap": 1303000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Kfg Resources Ltd",
+    "symbol": "KFG",
+    "marketCap": 2738000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Killdeer Minerals Inc",
+    "symbol": "KMI",
+    "marketCap": 607000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kincora Copper Ltd",
+    "symbol": "KCC",
+    "marketCap": 31016000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "King's Bay Gold Corp",
+    "symbol": "KBG",
+    "marketCap": 4129000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Kingsman Resources Inc",
+    "symbol": "KSM",
+    "marketCap": 876000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kirrin Resources Inc",
+    "symbol": "KYM",
+    "marketCap": 1438000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kiska Metals Corp",
+    "symbol": "KSK",
+    "marketCap": 26859000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Klondike Gold Corp",
+    "symbol": "KG",
+    "marketCap": 2440000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Klondike Silver Corp",
+    "symbol": "KS",
+    "marketCap": 2626000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Knick Exploration Inc",
+    "symbol": "KNX",
+    "marketCap": 3165000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Knight Metals Ltd",
+    "symbol": "KNP",
+    "marketCap": 2224000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kobex Minerals Inc",
+    "symbol": "KXM",
+    "marketCap": 22791000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kokanee Minerals Inc",
+    "symbol": "KOK",
+    "marketCap": 11428000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kola Mining Corp",
+    "symbol": "KM",
+    "marketCap": 851000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Kootenay Gold Inc",
+    "symbol": "KTN",
+    "marketCap": 39327000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Kwg Resources Inc",
+    "symbol": "KWG",
+    "marketCap": 36696000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "La Quinta Resources Corp",
+    "symbol": "LAQ",
+    "marketCap": 3989000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "La Ronge Gold Corp",
+    "symbol": "LAR",
+    "marketCap": 4839000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Lago Dourado Minerals Ltd",
+    "symbol": "LDM",
+    "marketCap": 22085000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lakeland Resources Inc",
+    "symbol": "LK",
+    "marketCap": 1506000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lakeside Minerals Inc",
+    "symbol": "LAK",
+    "marketCap": 276000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lakewood Mining",
+    "symbol": "LKW",
+    "marketCap": 570000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lara Exploration Ltd",
+    "symbol": "LRA",
+    "marketCap": 23905000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Largo Resources Ltd",
+    "symbol": "LGO",
+    "marketCap": 93763000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Latin American Minerals Inc",
+    "symbol": "LAT",
+    "marketCap": 18361000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Laurion Mineral Exploration",
+    "symbol": "LME",
+    "marketCap": 3190000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Leeta Gold Corp",
+    "symbol": "LTA/H",
+    "marketCap": 232000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Legend Gold Corp",
+    "symbol": "LGN",
+    "marketCap": 10118000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Levon Resources Ltd",
+    "symbol": "LVN",
+    "marketCap": 176779000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lincoln Mining Corp/canada",
+    "symbol": "LMG",
+    "marketCap": 5012000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lion One Metals Ltd",
+    "symbol": "LIO",
+    "marketCap": 41483000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lions Gate Metals Inc",
+    "symbol": "LGM",
+    "marketCap": 7135000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lithic Resources Ltd",
+    "symbol": "LTH",
+    "marketCap": 3493000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lithium One Inc",
+    "symbol": "LI",
+    "marketCap": 45119000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Logan Copper Inc",
+    "symbol": "LC",
+    "marketCap": 638000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Logan Resources Ltd",
+    "symbol": "LGR",
+    "marketCap": 1397000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lomiko Metals Inc",
+    "symbol": "LMR",
+    "marketCap": 3005000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Loncor Resources Inc",
+    "symbol": "LN",
+    "marketCap": 76461000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Long Harbour Exploration Cor",
+    "symbol": "LHC",
+    "marketCap": 1273000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lorraine Copper Corp",
+    "symbol": "LLC",
+    "marketCap": 1688000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Los Andes Copper Ltd",
+    "symbol": "LA",
+    "marketCap": 37744000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Lounor Exploration Inc",
+    "symbol": "LO",
+    "marketCap": 3173000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lovitt Resources Inc",
+    "symbol": "LRC",
+    "marketCap": 2900000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lucky Minerals Inc",
+    "symbol": "LJ",
+    "marketCap": 14230000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Lucky Strike Resources Ltd",
+    "symbol": "LKY",
+    "marketCap": 5280000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Luiri Gold Ltd",
+    "symbol": "LGL",
+    "marketCap": 6404000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Lumina Copper Corp",
+    "symbol": "LCC",
+    "marketCap": 412022000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Luna Gold Corp",
+    "symbol": "LGC",
+    "marketCap": 234330000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Lund Gold Ltd",
+    "symbol": "LGD",
+    "marketCap": 1495000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Macdonald Mines Exploration",
+    "symbol": "BMK",
+    "marketCap": 13149000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Madison Minerals Inc",
+    "symbol": "MMR",
+    "marketCap": 2530000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Magellan Minerals Ltd",
+    "symbol": "MNM",
+    "marketCap": 44015000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mainstream Minerals Corp",
+    "symbol": "MJO",
+    "marketCap": 1677000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Majescor Resources Inc",
+    "symbol": "MJX",
+    "marketCap": 10907000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Majestic Gold Corp",
+    "symbol": "MJS",
+    "marketCap": 78473000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Malbex Resources Inc",
+    "symbol": "MBG",
+    "marketCap": 46017000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Manicouagan Minerals Inc",
+    "symbol": "MAM",
+    "marketCap": 1224000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Manitou Gold Inc",
+    "symbol": "MTU",
+    "marketCap": 20421000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mansfield Minerals Inc",
+    "symbol": "MDR",
+    "marketCap": 44481000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Manson Creek Resources Ltd",
+    "symbol": "MCK",
+    "marketCap": 3787000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Marauder Resources East Coas",
+    "symbol": "MES",
+    "marketCap": 11841000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Marifil Mines Ltd",
+    "symbol": "MFM",
+    "marketCap": 10052000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Maritime Resources Corp",
+    "symbol": "MAE",
+    "marketCap": 4156000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mart Resources Inc",
+    "symbol": "MMT",
+    "marketCap": 239509000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Martina Minerals Corp",
+    "symbol": "MTN",
+    "marketCap": 1088000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Masuparia Gold Corp",
+    "symbol": "MAS",
+    "marketCap": 2281000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Matachewan Cons Mines Ltd-a",
+    "symbol": "MCM/A",
+    "marketCap": 2213000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Match Capital Resources Corp",
+    "symbol": "MHC",
+    "marketCap": 366000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Maudore Minerals Ltd",
+    "symbol": "MAO",
+    "marketCap": 115054000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Maxim Resources Inc",
+    "symbol": "MXM",
+    "marketCap": 1876000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Maya Gold & Silver Inc",
+    "symbol": "MYA",
+    "marketCap": 13108000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mayen Minerals Ltd",
+    "symbol": "MYM",
+    "marketCap": 2402000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mazorro Resources Inc",
+    "symbol": "MZO",
+    "marketCap": 4256000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mbmi Resources Inc",
+    "symbol": "MBR",
+    "marketCap": 3511000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mcchip Resources",
+    "symbol": "MCS",
+    "marketCap": 9921000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Medallion Resources Ltd",
+    "symbol": "MDL",
+    "marketCap": 5192000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mega Copper Ltd",
+    "symbol": "MCU",
+    "marketCap": 991000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "Mega Precious Metals Inc",
+    "symbol": "MGP",
+    "marketCap": 36419000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Melior Resources Inc",
+    "symbol": "MLR",
+    "marketCap": 16756000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Melkior Resources Inc",
+    "symbol": "MKR",
+    "marketCap": 12625000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Menika Mining Ltd",
+    "symbol": "MML",
+    "marketCap": 447000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Merc International Minerals",
+    "symbol": "MRK",
+    "marketCap": 20599000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mercer Gold Corp *",
+    "symbol": "07481Z",
+    "marketCap": null,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Meritus Minerals Ltd",
+    "symbol": "MER",
+    "marketCap": 2930000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Merrex Gold Inc",
+    "symbol": "MXI",
+    "marketCap": 27579000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mesa Exploration Corp",
+    "symbol": "MSA",
+    "marketCap": 3114000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Messina Minerals Inc",
+    "symbol": "MMI",
+    "marketCap": 3407000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Metallum Resources Inc",
+    "symbol": "MRV",
+    "marketCap": 9927000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Metals Creek Resources Corp",
+    "symbol": "MEK",
+    "marketCap": 5965000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Metanor Resources Inc",
+    "symbol": "MTO",
+    "marketCap": 53051000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Metropolitan Mining Inc",
+    "symbol": "MNZ",
+    "marketCap": 2086000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mexivada Mining Corp",
+    "symbol": "MNV",
+    "marketCap": 2671000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mgold Resources Inc",
+    "symbol": "MNI",
+    "marketCap": 2375000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Midland Exploration Inc",
+    "symbol": "MD",
+    "marketCap": 27051000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Midlands Minerals Corp",
+    "symbol": "MEX",
+    "marketCap": 7509000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Midnight Sun Mining Corp *",
+    "symbol": "MMA",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Midway Gold Corp",
+    "symbol": "MDW",
+    "marketCap": 183971000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mill City Gold Corp",
+    "symbol": "MC",
+    "marketCap": 4858000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Millrock Resources Inc",
+    "symbol": "MRO",
+    "marketCap": 19918000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Millstream Mining Ltd",
+    "symbol": "MLM",
+    "marketCap": 2637000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Milner Cons Silver Mines Ltd",
+    "symbol": "MCA",
+    "marketCap": 1179000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Minaurum Gold Inc",
+    "symbol": "MGG",
+    "marketCap": 13599000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mindoro Resources Ltd",
+    "symbol": "MIO",
+    "marketCap": 22324000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mineral Mountain Resources L",
+    "symbol": "MMV",
+    "marketCap": 20285000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Minsud Resources Corp",
+    "symbol": "MSR",
+    "marketCap": 4284000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Miocene Metals Ltd",
+    "symbol": "MII",
+    "marketCap": 6211000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mira Resources Corp",
+    "symbol": "MRP",
+    "marketCap": 25172000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Miranda Gold Corp",
+    "symbol": "MAD",
+    "marketCap": 13085000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mirasol Resources Ltd",
+    "symbol": "MRZ",
+    "marketCap": 110947000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mkango Resources Ltd",
+    "symbol": "MKA",
+    "marketCap": 9843000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Molycor Gold Corporation",
+    "symbol": "MOR",
+    "marketCap": 3440000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Monarques Resources Inc",
+    "symbol": "MQR",
+    "marketCap": 4440000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Monster Mining Corp",
+    "symbol": "MAN",
+    "marketCap": 6933000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Monster Uranium Corp",
+    "symbol": "MU",
+    "marketCap": 1173000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Montana Exploration Corp",
+    "symbol": "MTZ",
+    "marketCap": 3245000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Montero Mining And Explorati",
+    "symbol": "MON",
+    "marketCap": 12262000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Monument Mining Ltd",
+    "symbol": "MMY",
+    "marketCap": 59039000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mosquito Consolidated Gold",
+    "symbol": "MSQ",
+    "marketCap": 32260000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Moss Lake Gold Mines Ltd",
+    "symbol": "MOK",
+    "marketCap": 6728000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Mountain Boy Minerals Ltd",
+    "symbol": "MTB",
+    "marketCap": 4854000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mountain Lake Resources",
+    "symbol": "MOA",
+    "marketCap": 17540000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mukuba Resources Ltd",
+    "symbol": "MKU",
+    "marketCap": 6278000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Murgor Resources Inc",
+    "symbol": "MGR",
+    "marketCap": 7486000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Musgrove Minerals Corp",
+    "symbol": "MGS",
+    "marketCap": 2667000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Mustang Minerals Corp",
+    "symbol": "MUM",
+    "marketCap": 11569000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nanika Resources Inc",
+    "symbol": "NKA",
+    "marketCap": 1828000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nebu Resources Inc",
+    "symbol": "NBU",
+    "marketCap": 6818000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nemaska Lithium Inc",
+    "symbol": "NMX",
+    "marketCap": 28361000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Netco Silver Inc",
+    "symbol": "NEI",
+    "marketCap": 3274000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Network Exploration Ltd",
+    "symbol": "NET",
+    "marketCap": 5404000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nevada Exploration Inc",
+    "symbol": "NGE",
+    "marketCap": 7898000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nevada Sunrise Gold Corp",
+    "symbol": "NEV",
+    "marketCap": 3668000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Nevado Resources Corp",
+    "symbol": "VDO",
+    "marketCap": 10207000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "New Carolin Gold Corp",
+    "symbol": "LAD",
+    "marketCap": 4347000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "New Destiny Mining Corp",
+    "symbol": "NED",
+    "marketCap": 1791000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "New Dimension Resources Ltd",
+    "symbol": "NDR",
+    "marketCap": 2689000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "New Guinea Gold Corp",
+    "symbol": "NGG",
+    "marketCap": 9047000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "New Hana Copper Mining Ltd",
+    "symbol": "HML",
+    "marketCap": 8617000,
+    "subsector": "copper",
+    "primaryMetal": "copper"
+  },
+  {
+    "name": "New Island Resources Inc",
+    "symbol": "NIS/A",
+    "marketCap": 194000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "New Oroperu Resources Inc",
+    "symbol": "ORO",
+    "marketCap": 5579000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "New Pacific Metals Corp",
+    "symbol": "NUX",
+    "marketCap": 57277000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Newcastle Minerals Ltd",
+    "symbol": "NCM",
+    "marketCap": 3193000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Newmac Resources Inc",
+    "symbol": "NER",
+    "marketCap": 2679000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Newport Exploration Ltd",
+    "symbol": "NWX",
+    "marketCap": 4246000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Newstrike Resources Ltd",
+    "symbol": "NR",
+    "marketCap": 3164000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Newton Gold Corp",
+    "symbol": "NWG",
+    "marketCap": 2999000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Niogold Mining Corp",
+    "symbol": "NOX",
+    "marketCap": 25956000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Noront Resources Ltd",
+    "symbol": "NOT",
+    "marketCap": 135986000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nortec Minerals Corp",
+    "symbol": "NVT",
+    "marketCap": 9508000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "North American Nickel Inc",
+    "symbol": "NAN",
+    "marketCap": 3777000,
+    "subsector": "nickel",
+    "primaryMetal": "nickel"
+  },
+  {
+    "name": "North American Potash Develo",
+    "symbol": "NPD",
+    "marketCap": 3797000,
+    "subsector": "potash",
+    "primaryMetal": "potash"
+  },
+  {
+    "name": "North Arrow Minerals Inc",
+    "symbol": "NAR",
+    "marketCap": 5303000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "North Country Gold Corp",
+    "symbol": "NCG",
+    "marketCap": 48860000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Northaven Resources Corp",
+    "symbol": "NTV",
+    "marketCap": 2584000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northcliff Resources Ltd",
+    "symbol": "NCF",
+    "marketCap": 23733000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northcore Resources Inc",
+    "symbol": "NCR",
+    "marketCap": 648000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northern Abitibi Mining Corp",
+    "symbol": "NAI",
+    "marketCap": 2921000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northern Freegold Resources",
+    "symbol": "NFR",
+    "marketCap": 17171000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northern Gold Mining Inc",
+    "symbol": "NGM",
+    "marketCap": 21876000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Northern Lion Gold Corp",
+    "symbol": "NL",
+    "marketCap": 4250000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Northern Shield Resources In",
+    "symbol": "NRN",
+    "marketCap": 15947000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northern Spirit Resources In",
+    "symbol": "NS",
+    "marketCap": 989000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northern Superior Resources",
+    "symbol": "SUP",
+    "marketCap": 55798000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northern Tiger Resources Inc",
+    "symbol": "NTR",
+    "marketCap": 13000000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Northisle Copper & Gold Inc",
+    "symbol": "NCX",
+    "marketCap": 9348000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Novus Gold Corp",
+    "symbol": "NOV",
+    "marketCap": 2071000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Nq Exploration Inc",
+    "symbol": "NQE",
+    "marketCap": 2532000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nubian Resources Ltd",
+    "symbol": "NBR",
+    "marketCap": 777000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nulegacy Gold Corp",
+    "symbol": "NUG",
+    "marketCap": 7939000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Nunavik Nickel Mines Ltd",
+    "symbol": "KZZ",
+    "marketCap": 2295000,
+    "subsector": "nickel",
+    "primaryMetal": "nickel"
+  },
+  {
+    "name": "Nv Gold Corp",
+    "symbol": "NVX",
+    "marketCap": 4951000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Nwm Mining Corp",
+    "symbol": "NWM",
+    "marketCap": 31541000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Nwt Uranium Corp",
+    "symbol": "NWT",
+    "marketCap": 11749000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Oceanus Resources Corp",
+    "symbol": "OCN",
+    "marketCap": 3334000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Odin Mining & Exploration",
+    "symbol": "ODN",
+    "marketCap": 12992000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Odyssey Resources Ltd",
+    "symbol": "ODX",
+    "marketCap": 4482000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Olivut Resources Ltd",
+    "symbol": "OLV",
+    "marketCap": 36005000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Olympic Resources Ltd",
+    "symbol": "OLA",
+    "marketCap": 1568000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Omineca Mining & Metals Ltd",
+    "symbol": "OMM",
+    "marketCap": 2215000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Open Gold Corp",
+    "symbol": "OPG",
+    "marketCap": 1225000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Orca Exploration Group-a *",
+    "symbol": "ORC/A",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Orca Exploration Group-b",
+    "symbol": "ORC/B",
+    "marketCap": 82155000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Oremex Gold Inc",
+    "symbol": "OAU",
+    "marketCap": 4472000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Oremex Silver Inc",
+    "symbol": "OAG",
+    "marketCap": 18468000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Orestone Mining Corp",
+    "symbol": "ORS",
+    "marketCap": 4564000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Orex Exploration Inc",
+    "symbol": "OX",
+    "marketCap": 4450000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Orex Minerals Inc",
+    "symbol": "REX",
+    "marketCap": 17190000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Orko Silver Corp",
+    "symbol": "OK",
+    "marketCap": 165361000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Oro Mining Ltd",
+    "symbol": "OGR",
+    "marketCap": 13515000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Orofino Minerals Inc",
+    "symbol": "ORR",
+    "marketCap": 1295000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Orosur Mining Inc",
+    "symbol": "OMI",
+    "marketCap": 53056000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Otis Gold Corp",
+    "symbol": "OOO",
+    "marketCap": 6805000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Otterburn Resources Corp",
+    "symbol": "OBN",
+    "marketCap": 4106000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pachamama Resources Ltd",
+    "symbol": "PMA",
+    "marketCap": 31921000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Arc Resources Ltd",
+    "symbol": "PAV",
+    "marketCap": 1345000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Bay Minerals Ltd",
+    "symbol": "PBM",
+    "marketCap": 2799000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Booker Minerals Inc",
+    "symbol": "BKM",
+    "marketCap": 84902000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Cascade Minerals Inc",
+    "symbol": "PCV",
+    "marketCap": 3651000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Coal Resources Ltd",
+    "symbol": "PAK",
+    "marketCap": 98078000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "Pacific Comox Resources Ltd",
+    "symbol": "PCM",
+    "marketCap": 1417000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Imperial Mines Inc *",
+    "symbol": "PPM/H",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Ridge Exploration Lt",
+    "symbol": "PEX",
+    "marketCap": 8132000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Topaz Resources Ltd",
+    "symbol": "PPZ/H",
+    "marketCap": 4404000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pacific Wildcat Resources",
+    "symbol": "PAW",
+    "marketCap": 50864000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Paget Minerals Corp",
+    "symbol": "PGS",
+    "marketCap": 9585000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Paloma Resources Inc *",
+    "symbol": "PLO/H",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pan American Lithium Corp",
+    "symbol": "PL",
+    "marketCap": 4146000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Pan Global Resources Inc",
+    "symbol": "PGZ",
+    "marketCap": 12178000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pancontinental Uranium Corp",
+    "symbol": "PUC",
+    "marketCap": 3629000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Panoro Minerals Ltd",
+    "symbol": "PML",
+    "marketCap": 58655000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Panthera Exploration Inc",
+    "symbol": "PNX",
+    "marketCap": 2995000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Papuan Precious Metals Corp",
+    "symbol": "PAU",
+    "marketCap": 8058000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Paragon Minerals Corp",
+    "symbol": "PGR",
+    "marketCap": 3893000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Parallel Mining Corp",
+    "symbol": "PAL",
+    "marketCap": 472000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Paramax Resources Ltd",
+    "symbol": "PXM",
+    "marketCap": 5042000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Passport Potash Inc",
+    "symbol": "PPI",
+    "marketCap": 31584000,
+    "subsector": "potash",
+    "primaryMetal": "potash"
+  },
+  {
+    "name": "Pebble Creek Mining Ltd",
+    "symbol": "PEB",
+    "marketCap": 2548000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pelangio Exploration Inc",
+    "symbol": "PX",
+    "marketCap": 53795000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pele Mountain Resources Inc",
+    "symbol": "GEM",
+    "marketCap": 13820000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pershimco Resources Inc",
+    "symbol": "PRO",
+    "marketCap": 88320000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Petro-reef Resources Ltd",
+    "symbol": "PER",
+    "marketCap": 15399000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Petromin Resources Ltd",
+    "symbol": "PTR",
+    "marketCap": 2254000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Philippine Metals Inc",
+    "symbol": "PHI",
+    "marketCap": 1542000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pinestar Gold Inc",
+    "symbol": "PNS",
+    "marketCap": 2184000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Pitchblack Resources Ltd",
+    "symbol": "PIT",
+    "marketCap": 2053000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pitchstone Exploration Ltd",
+    "symbol": "PXP",
+    "marketCap": 4020000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pjx Resources Inc",
+    "symbol": "PJX",
+    "marketCap": 2849000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Planet Exploration Inc",
+    "symbol": "PXI",
+    "marketCap": 5426000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Plato Gold Corp",
+    "symbol": "PGC",
+    "marketCap": 2775000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Playfair Mining Ltd",
+    "symbol": "PLY",
+    "marketCap": 3000000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Plexmar Resources Inc",
+    "symbol": "PLE",
+    "marketCap": 5294000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pmi Gold Corp",
+    "symbol": "PMV",
+    "marketCap": 172308000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Png Gold Corp",
+    "symbol": "PGK",
+    "marketCap": 44566000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Polar Resources Corp",
+    "symbol": "RSN/H",
+    "marketCap": 567000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Poplar Creek Resources Inc",
+    "symbol": "PCK",
+    "marketCap": 1949000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Portal Resources Ltd",
+    "symbol": "PDO",
+    "marketCap": 3957000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Premium Exploration Inc",
+    "symbol": "PEM",
+    "marketCap": 15712000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Prescient Mining Corp",
+    "symbol": "PMC",
+    "marketCap": 860000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Prime Meridian Resources Cor",
+    "symbol": "PMR",
+    "marketCap": 1157000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Primera Energy Resources Ltd",
+    "symbol": "PTT",
+    "marketCap": 7507000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Prize Mining Corp",
+    "symbol": "PRZ",
+    "marketCap": 1388000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pro Minerals Inc",
+    "symbol": "PRM",
+    "marketCap": 1708000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Pro-or Mining Resources Inc",
+    "symbol": "POI",
+    "marketCap": 10100000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Probe Mines Ltd",
+    "symbol": "PRB",
+    "marketCap": 128748000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Prodigy Gold Inc",
+    "symbol": "PDG",
+    "marketCap": 159889000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Prospector Resources Corp",
+    "symbol": "PRR",
+    "marketCap": 279000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Prospero Silver Corp",
+    "symbol": "PSL",
+    "marketCap": 4104000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Providence Resources Corp",
+    "symbol": "PV",
+    "marketCap": 4255000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Puma Exploration Inc",
+    "symbol": "PUM",
+    "marketCap": 15605000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Purepoint Uranium Group Inc",
+    "symbol": "PTU",
+    "marketCap": 6898000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Q-gold Resources Ltd",
+    "symbol": "QGR",
+    "marketCap": 817000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Qmc Quantum Minerals Corp",
+    "symbol": "QMC",
+    "marketCap": 2250000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Qmc Quantum Minerals Corp-ut *",
+    "symbol": "88185Z",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quadro Resources Ltd",
+    "symbol": "QRO",
+    "marketCap": 769000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quanta Resources Inc",
+    "symbol": "QR",
+    "marketCap": 3184000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quantum Rare Earth Developme",
+    "symbol": "QRE",
+    "marketCap": 12947000,
+    "subsector": "rare earth",
+    "primaryMetal": "rare earth"
+  },
+  {
+    "name": "Quartz Mountain Resources Lt",
+    "symbol": "QZM",
+    "marketCap": 4662000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quaterra Resources Inc",
+    "symbol": "QTA",
+    "marketCap": 75387000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quattro Exploration And Prod",
+    "symbol": "QXP",
+    "marketCap": 2870000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quest Rare Minerals Ltd",
+    "symbol": "QRM",
+    "marketCap": 145568000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Quia Resources Inc",
+    "symbol": "QIA",
+    "marketCap": 8416000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rackla Metals Inc *",
+    "symbol": "RAK",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Radisson Mining Resources",
+    "symbol": "RDS",
+    "marketCap": 4231000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Radius Gold Inc",
+    "symbol": "RDU",
+    "marketCap": 18429000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Rainbow Resources Inc",
+    "symbol": "RBW",
+    "marketCap": 3476000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rainmaker Mining Corp",
+    "symbol": "RMG",
+    "marketCap": 1031000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rambler Metals And Mining Pl *",
+    "symbol": "RAB",
+    "marketCap": 49157000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Randsburg Intl Gold Corp",
+    "symbol": "RGZ",
+    "marketCap": 679000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Rara Terra Minerals Corp",
+    "symbol": "RTX",
+    "marketCap": 1380000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rare Earth Industries Ltd",
+    "symbol": "RND",
+    "marketCap": 3273000,
+    "subsector": "rare earth",
+    "primaryMetal": "rare earth"
+  },
+  {
+    "name": "Rare Earth Metals Inc",
+    "symbol": "RA",
+    "marketCap": 10212000,
+    "subsector": "rare earth",
+    "primaryMetal": "rare earth"
+  },
+  {
+    "name": "Rathdowney Resources Ltd",
+    "symbol": "RTH",
+    "marketCap": 25244000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Red Eagle Mining Corp",
+    "symbol": "RD",
+    "marketCap": 19417000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Red Mile Minerals Corp",
+    "symbol": "RDM",
+    "marketCap": 1322000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Red Pine Exploration Inc",
+    "symbol": "RPX",
+    "marketCap": 3058000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Red Tiger Mining Inc",
+    "symbol": "RMN",
+    "marketCap": 45896000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Redhill Resources Corp",
+    "symbol": "RHR",
+    "marketCap": 14278000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Redstar Gold Corp",
+    "symbol": "RGC",
+    "marketCap": 26007000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Redtail Metals Corp",
+    "symbol": "RTZ",
+    "marketCap": 2253000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Reef Resources Ltd",
+    "symbol": "REE",
+    "marketCap": 4719000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Regulus Resources Inc",
+    "symbol": "REG",
+    "marketCap": 34126000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Relentless Resources Ltd",
+    "symbol": "RRL",
+    "marketCap": 6739000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Reliant Gold Corp",
+    "symbol": "REC",
+    "marketCap": 1148000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Remington Resources Inc",
+    "symbol": "RGM",
+    "marketCap": 536000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Remstar Resources Ltd",
+    "symbol": "REM",
+    "marketCap": 1220000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Reservoir Minerals Inc",
+    "symbol": "RMC",
+    "marketCap": 11101000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Reunion Gold Corp",
+    "symbol": "RGD",
+    "marketCap": 115100000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Reva Resources Corp",
+    "symbol": "RVA",
+    "marketCap": 6228000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Revolver Resources Inc",
+    "symbol": "RZ",
+    "marketCap": 969000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rhyolite Resources Ltd",
+    "symbol": "RYE",
+    "marketCap": 5526000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ria Resources Corp",
+    "symbol": "RIA",
+    "marketCap": 1282000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Richmond Minerals Inc",
+    "symbol": "RMD",
+    "marketCap": 917000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ridgemont Iron Ore Corp",
+    "symbol": "RDG",
+    "marketCap": 12402000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ring Of Fire Resources Inc",
+    "symbol": "ROF",
+    "marketCap": 9266000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rio Alto Mining Ltd",
+    "symbol": "RIO",
+    "marketCap": 498718000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rio Cristal Resources Corp",
+    "symbol": "RCZ",
+    "marketCap": 12482000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rio Grande Mining Corp *",
+    "symbol": "RGV",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rio Silver Inc",
+    "symbol": "RYO",
+    "marketCap": 4809000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Riva Gold Corp",
+    "symbol": "RIV",
+    "marketCap": 12643000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Riverside Resources Inc",
+    "symbol": "RRI",
+    "marketCap": 22433000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Riverstone Resources Inc",
+    "symbol": "RVS",
+    "marketCap": 54393000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Robex Resources Inc",
+    "symbol": "RBX",
+    "marketCap": 33944000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Roca Mines Inc",
+    "symbol": "ROK",
+    "marketCap": 5267000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rochester Resources Ltd",
+    "symbol": "RCT",
+    "marketCap": 4220000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rock Tech Lithium Inc",
+    "symbol": "RCK",
+    "marketCap": 10723000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Rockbridge Resources Inc",
+    "symbol": "RBE",
+    "marketCap": 1137000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rockcliff Resources Inc",
+    "symbol": "RCR",
+    "marketCap": 5954000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rockland Minerals Corp",
+    "symbol": "RL",
+    "marketCap": 1850000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rocmec Mining Inc",
+    "symbol": "RMI",
+    "marketCap": 2539000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rodinia Lithium Inc",
+    "symbol": "RM",
+    "marketCap": 14146000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Rogue Resources Inc",
+    "symbol": "RRS",
+    "marketCap": 5139000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rokmaster Resources Corp",
+    "symbol": "RKR",
+    "marketCap": 3266000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rome Resources Ltd",
+    "symbol": "RMR",
+    "marketCap": 4019000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Romios Gold Resources Inc",
+    "symbol": "RG",
+    "marketCap": 27859000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Romulus Resources Ltd",
+    "symbol": "ROM",
+    "marketCap": 8540000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Roscan Minerals Corp",
+    "symbol": "ROS",
+    "marketCap": 1422000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ross River Minerals Inc",
+    "symbol": "RRM",
+    "marketCap": 3760000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rotation Minerals Ltd",
+    "symbol": "ROT",
+    "marketCap": 6817000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Royal Coal Corp",
+    "symbol": "RDA",
+    "marketCap": 9345000,
+    "subsector": "coal",
+    "primaryMetal": "coal"
+  },
+  {
+    "name": "Rt Minerals Corp",
+    "symbol": "RTM",
+    "marketCap": 5398000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rugby Mining Ltd",
+    "symbol": "RUG",
+    "marketCap": 17707000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rupert Resources Ltd",
+    "symbol": "RUP",
+    "marketCap": 3785000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rusoro Mining Ltd",
+    "symbol": "RML",
+    "marketCap": 47135000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Rx Exploration Inc",
+    "symbol": "RXE",
+    "marketCap": 50020000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ryan Gold Corp",
+    "symbol": "RYG",
+    "marketCap": 53207000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Rye Patch Gold Corp",
+    "symbol": "RPM",
+    "marketCap": 63830000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sable Resources Ltd",
+    "symbol": "SAE",
+    "marketCap": 4181000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sacre-coeur Minerals Ltd",
+    "symbol": "SCM",
+    "marketCap": 6553000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sage Gold Inc",
+    "symbol": "SGX",
+    "marketCap": 5628000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Salazar Resources Ltd",
+    "symbol": "SRL",
+    "marketCap": 18535000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Salmon River Resources Ltd",
+    "symbol": "SAL",
+    "marketCap": 13016000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sama Resources Inc",
+    "symbol": "SME",
+    "marketCap": 21436000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Samaranta Mining Corp",
+    "symbol": "SAX",
+    "marketCap": 3136000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Samco Gold Ltd",
+    "symbol": "SGA",
+    "marketCap": 57862000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Samex Mining Corp",
+    "symbol": "SXG",
+    "marketCap": 71516000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "San Marco Resources Inc",
+    "symbol": "SMN",
+    "marketCap": 2172000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sanatana Resources Inc",
+    "symbol": "STA",
+    "marketCap": 18250000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sandspring Resources Ltd",
+    "symbol": "SSP",
+    "marketCap": 121077000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sandstorm Gold Ltd",
+    "symbol": "SSL",
+    "marketCap": 328266000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Santa Barbara Resources Ltd",
+    "symbol": "SBL",
+    "marketCap": 3393000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Santa Fe Metals Corp",
+    "symbol": "SFM",
+    "marketCap": 1553000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sarama Resources Ltd",
+    "symbol": "SWA",
+    "marketCap": 23804000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Saturn Minerals Inc",
+    "symbol": "SMI",
+    "marketCap": 11380000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Saville Resources Inc",
+    "symbol": "SRE",
+    "marketCap": 833000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Scorpio Gold Corp",
+    "symbol": "SGN",
+    "marketCap": 78845000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Seafield Resources Ltd",
+    "symbol": "SFF",
+    "marketCap": 20243000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Search Minerals Inc",
+    "symbol": "SMY",
+    "marketCap": 9746000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Searchgold Resources Inc",
+    "symbol": "RSG",
+    "marketCap": 934000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Secova Metals Corp",
+    "symbol": "SEK",
+    "marketCap": 1657000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sedex Mining Corp",
+    "symbol": "SDN",
+    "marketCap": 566000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sego Resources Inc",
+    "symbol": "SGZ",
+    "marketCap": 11610000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Selwyn Resources Ltd",
+    "symbol": "SWN",
+    "marketCap": 62996000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Senator Minerals Inc",
+    "symbol": "SNR",
+    "marketCap": 1073000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sennen Resources Ltd",
+    "symbol": "SN",
+    "marketCap": 6618000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Serengeti Resources Inc",
+    "symbol": "SIR",
+    "marketCap": 8297000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sg Spirit Gold Inc",
+    "symbol": "SG",
+    "marketCap": 4593000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sgx Resources Inc",
+    "symbol": "SXR",
+    "marketCap": 30403000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Shane Resources Ltd-cl A",
+    "symbol": "SEI",
+    "marketCap": 913000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sheltered Oak Resources Corp",
+    "symbol": "OAK",
+    "marketCap": 2572000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sidon Intl Resources Corp *",
+    "symbol": "SD",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sienna Gold Inc",
+    "symbol": "SGP",
+    "marketCap": 17072000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sierra Iron Ore Corp",
+    "symbol": "NAA",
+    "marketCap": 6557000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Signal Exploration Inc *",
+    "symbol": "SNL",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Silver Fields Resources Inc",
+    "symbol": "SF",
+    "marketCap": 1042000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silver Grail Resources Ltd",
+    "symbol": "SVG",
+    "marketCap": 1924000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silver Pursuit Resources Ltd",
+    "symbol": "SPF",
+    "marketCap": 1865000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silver Range Resources Ltd",
+    "symbol": "SNG",
+    "marketCap": 36108000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silver Shield Resources Corp",
+    "symbol": "SSR",
+    "marketCap": 1657000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silver Spruce Resources Inc",
+    "symbol": "SSE",
+    "marketCap": 7415000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silver Sun Resource Corp",
+    "symbol": "SSU",
+    "marketCap": 12654000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Silvercrest Mines Inc",
+    "symbol": "SVL",
+    "marketCap": 150906000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Silvore Fox Minerals Corp",
+    "symbol": "SFX",
+    "marketCap": 14519000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sinchao Metals Corp",
+    "symbol": "SMZ",
+    "marketCap": 8118000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sirios Resources Inc",
+    "symbol": "SOI",
+    "marketCap": 3294000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Skeena Resources Ltd",
+    "symbol": "SKE",
+    "marketCap": 2421000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sky Ridge Resources Ltd",
+    "symbol": "SYR/H",
+    "marketCap": 6831000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Skyharbour Resources Ltd",
+    "symbol": "SYH",
+    "marketCap": 1065000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Skyline Gold Corporation",
+    "symbol": "SK",
+    "marketCap": 21676000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Slam Exploration Ltd",
+    "symbol": "SXL",
+    "marketCap": 10107000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Slater Mining Corp",
+    "symbol": "SLM",
+    "marketCap": 5246000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Smash Minerals Corp",
+    "symbol": "SSH",
+    "marketCap": 7132000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sniper Resources Ltd",
+    "symbol": "SIP",
+    "marketCap": 3331000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Softrock Minerals Ltd",
+    "symbol": "SFT",
+    "marketCap": 1178000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Soho Resources Corp",
+    "symbol": "SOH",
+    "marketCap": 7698000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Solace Resources Corp",
+    "symbol": "SOR",
+    "marketCap": 1169000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Solara Exploration Ltd-cl A",
+    "symbol": "SAA/A",
+    "marketCap": 10748000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Solid Gold Resources Corp",
+    "symbol": "SLD",
+    "marketCap": 1337000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Solid Resources Ltd",
+    "symbol": "SRW",
+    "marketCap": 7261000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Solitaire Minerals Corp",
+    "symbol": "SLT",
+    "marketCap": 2304000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Solomon Resources Ltd",
+    "symbol": "SRB",
+    "marketCap": 1650000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Solvista Gold Corp",
+    "symbol": "SVV",
+    "marketCap": 19831000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sona Resources Corp",
+    "symbol": "SYS",
+    "marketCap": 10450000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sonora Gold & Silver Corp",
+    "symbol": "SOC",
+    "marketCap": 2917000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sonoro Metals Corp",
+    "symbol": "SMO",
+    "marketCap": 726000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Source Exploration Corp",
+    "symbol": "SOP",
+    "marketCap": 10282000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Southern Arc Minerals Inc",
+    "symbol": "SA",
+    "marketCap": 51275000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Southern Hemisphere Mining L",
+    "symbol": "SH",
+    "marketCap": 22480000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Southern Silver Exploration",
+    "symbol": "SSV",
+    "marketCap": 11712000,
+    "subsector": "silver",
+    "primaryMetal": "silver"
+  },
+  {
+    "name": "Spanish Mountain Gold Ltd",
+    "symbol": "SPA",
+    "marketCap": 84751000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sparton Resources Inc",
+    "symbol": "SRI",
+    "marketCap": 5345000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sphere Resources Inc",
+    "symbol": "SPH/H",
+    "marketCap": 4258000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "St Eugene Mining Corp Ltd",
+    "symbol": "SEM",
+    "marketCap": 11786000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "St. Elias Mines Ltd",
+    "symbol": "SLI",
+    "marketCap": 100416000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stakeholder Gold Corp",
+    "symbol": "SRC",
+    "marketCap": 3002000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Standard Exploration Ltd",
+    "symbol": "SDE",
+    "marketCap": 2846000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Star Uranium Corp",
+    "symbol": "SUV",
+    "marketCap": 1565000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Starcore Resources Ltd-uts *",
+    "symbol": "SOE-U",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Starfire Minerals Inc",
+    "symbol": "SFR",
+    "marketCap": 1326000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Starrex Mining Corp Ltd",
+    "symbol": "STX/H",
+    "marketCap": 1127000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Statesman Resources Ltd",
+    "symbol": "SRR",
+    "marketCap": 1177000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stealth Minerals Ltd",
+    "symbol": "SML",
+    "marketCap": 1492000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sterling Resources Ltd",
+    "symbol": "SLG",
+    "marketCap": 286296000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stina Resources Ltd",
+    "symbol": "SQA",
+    "marketCap": 3221000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stone Resources Ltd",
+    "symbol": "SRH",
+    "marketCap": 8970000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Storm Resources Ltd",
+    "symbol": "SRX",
+    "marketCap": 71378000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Strait Gold Corp",
+    "symbol": "SRD",
+    "marketCap": 6224000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Strata Minerals Inc",
+    "symbol": "SMP",
+    "marketCap": 6420000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stratabound Minerals Corp",
+    "symbol": "SB",
+    "marketCap": 2520000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Strategic Metals Ltd",
+    "symbol": "SMD",
+    "marketCap": 112830000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Strategic Resources Inc",
+    "symbol": "STI",
+    "marketCap": 1975000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stratton Resources Inc",
+    "symbol": "SI",
+    "marketCap": 12727000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Strike Gold Corp",
+    "symbol": "SRK",
+    "marketCap": 5717000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Strike Minerals Inc",
+    "symbol": "STK",
+    "marketCap": 5385000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Strikepoint Gold Inc",
+    "symbol": "SKP",
+    "marketCap": 6162000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Strongbow Exploration Inc",
+    "symbol": "SBW",
+    "marketCap": 11094000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Stroud Resources Ltd",
+    "symbol": "SDR",
+    "marketCap": 11724000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sultan Minerals Inc",
+    "symbol": "SUL",
+    "marketCap": 6561000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sunridge Gold Corp",
+    "symbol": "SGC",
+    "marketCap": 40871000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Sunset Cove Mining Inc",
+    "symbol": "SSM",
+    "marketCap": 6962000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sunward Resources Ltd",
+    "symbol": "SWD",
+    "marketCap": 213054000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Suparna Gold Corp",
+    "symbol": "SUG",
+    "marketCap": 20498000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Superior Mining Internationa",
+    "symbol": "SUI",
+    "marketCap": 4006000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Supreme Resources Ltd",
+    "symbol": "SPR",
+    "marketCap": 1117000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Sutter Gold Mining Inc",
+    "symbol": "SGM",
+    "marketCap": 18061000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Swift Resources Inc",
+    "symbol": "SWR",
+    "marketCap": 671000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tad Mineral Exploration Inc",
+    "symbol": "TJ",
+    "marketCap": 2282000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Taipan Resources Inc *",
+    "symbol": "TPN",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tajiri Resources Corp",
+    "symbol": "TAJ",
+    "marketCap": 1666000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Takara Resources Inc",
+    "symbol": "TKK",
+    "marketCap": 4032000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Taku Gold Corp",
+    "symbol": "TAK",
+    "marketCap": 4346000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Tanqueray Exploration Ltd",
+    "symbol": "TQY",
+    "marketCap": 479000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tanzania Minerals Corp",
+    "symbol": "TZM",
+    "marketCap": 16736000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tapango Resources Ltd",
+    "symbol": "TPA/H",
+    "marketCap": 6369000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Taranis Resources Inc",
+    "symbol": "TRO",
+    "marketCap": 3065000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tarsis Resources Ltd",
+    "symbol": "TCC",
+    "marketCap": 6477000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tasca Resources Ltd",
+    "symbol": "TAC",
+    "marketCap": 1994000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tasman Metals Ltd",
+    "symbol": "TSM",
+    "marketCap": 101563000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tawsho Mining Inc",
+    "symbol": "TAW",
+    "marketCap": 4409000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tearlach Resources Ltd",
+    "symbol": "TEA",
+    "marketCap": 1423000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Temex Resources Corp",
+    "symbol": "TME",
+    "marketCap": 19831000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Teras Resources Inc",
+    "symbol": "TRA",
+    "marketCap": 29514000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Terra Firma Resources Inc",
+    "symbol": "TFR",
+    "marketCap": 916000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Terra Nova Minerals Inc",
+    "symbol": "TGC",
+    "marketCap": 1145000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Terraco Gold Corp",
+    "symbol": "TEN",
+    "marketCap": 27667000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Terrax Minerals Inc",
+    "symbol": "TXR",
+    "marketCap": 2580000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Terreno Resources Corp",
+    "symbol": "TNO",
+    "marketCap": 4396000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Teryl Resources Corp",
+    "symbol": "TRC",
+    "marketCap": 3653000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Teslin River Resources Corp",
+    "symbol": "TLR",
+    "marketCap": 3890000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Teuton Resources",
+    "symbol": "TUO",
+    "marketCap": 16431000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Themac Resources Group Ltd",
+    "symbol": "MAC",
+    "marketCap": 40113000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Thor Exploration Ltd",
+    "symbol": "THX",
+    "marketCap": 5528000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Threegold Resources Inc",
+    "symbol": "THG",
+    "marketCap": 14416000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Thunder Mountain Gold Inc",
+    "symbol": "THM",
+    "marketCap": 1774000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Tiger Intl Resources Inc",
+    "symbol": "TGR",
+    "marketCap": 2310000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tigray Resources Inc",
+    "symbol": "TIG",
+    "marketCap": 44064000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tigris Uranium Corp",
+    "symbol": "TU",
+    "marketCap": 11307000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Tiller Resources Ltd",
+    "symbol": "TIR",
+    "marketCap": 1510000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Timberline Resources Corp *",
+    "symbol": "TBR",
+    "marketCap": 24445000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tinka Resources Ltd",
+    "symbol": "TK",
+    "marketCap": 20973000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tintina Mines Ltd",
+    "symbol": "TTS",
+    "marketCap": 2865000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tintina Resources Inc",
+    "symbol": "TAU",
+    "marketCap": 58245000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tirex Resources Ltd",
+    "symbol": "TXX",
+    "marketCap": 33452000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Titan Uranium Inc *",
+    "symbol": "TUE",
+    "marketCap": 233162000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Tmt Resources",
+    "symbol": "TMT/H",
+    "marketCap": 267000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tnr Gold Corp",
+    "symbol": "TNR",
+    "marketCap": 9254000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Tolima Gold Inc",
+    "symbol": "TOM",
+    "marketCap": 38947000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Torch River Resources Ltd",
+    "symbol": "TCR",
+    "marketCap": 1353000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Toro Resources Corp",
+    "symbol": "TRK",
+    "marketCap": 3222000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tosca Mining Corp",
+    "symbol": "TSQ",
+    "marketCap": 4526000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Touchdown Resources Inc",
+    "symbol": "TDW",
+    "marketCap": 1420000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Touchstone Exploration Inc",
+    "symbol": "TAB",
+    "marketCap": 37056000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tower Resources Ltd",
+    "symbol": "TWR",
+    "marketCap": 6322000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Transition Metals Corp",
+    "symbol": "XTM",
+    "marketCap": 7726000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Trelawney Mining And Explora",
+    "symbol": "TRR",
+    "marketCap": 436101000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tres-or Resources Ltd",
+    "symbol": "TRS",
+    "marketCap": 4582000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tri Origin Exploration Ltd",
+    "symbol": "TOE",
+    "marketCap": 3108000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tribute Resources Inc",
+    "symbol": "TRB",
+    "marketCap": 6551000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Trigen Resources Inc",
+    "symbol": "TRG/H",
+    "marketCap": 1312000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Trijet Mining Corp",
+    "symbol": "TJT",
+    "marketCap": 1061000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Trillium North Minerals Ltd",
+    "symbol": "TNM",
+    "marketCap": 2443000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Trio Gold Corp",
+    "symbol": "TGK",
+    "marketCap": 1639000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Trioil Resources Ltd-a",
+    "symbol": "TOL",
+    "marketCap": 67798000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tristar Gold Inc",
+    "symbol": "TSG",
+    "marketCap": 22897000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Troymet Exploration Corp",
+    "symbol": "TYE",
+    "marketCap": 4240000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Trueclaim Exploration Inc",
+    "symbol": "TRM",
+    "marketCap": 6078000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tsodilo Resources Ltd",
+    "symbol": "TSD",
+    "marketCap": 16553000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ttm Resources Inc",
+    "symbol": "TTQ",
+    "marketCap": 5471000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tumi Resources Ltd",
+    "symbol": "TM",
+    "marketCap": 3329000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Tyhee Gold Corp",
+    "symbol": "TDC",
+    "marketCap": 22710000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Tyner Resources Ltd",
+    "symbol": "TIP/H",
+    "marketCap": 11404000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Typhoon Exploration Inc-a",
+    "symbol": "TYP",
+    "marketCap": 6699000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Uc Resources Ltd",
+    "symbol": "UC",
+    "marketCap": 7425000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ucore Rare Metals Inc",
+    "symbol": "UCU",
+    "marketCap": 51493000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Ultra Lithium Inc",
+    "symbol": "ULI",
+    "marketCap": 2924000,
+    "subsector": "lithium",
+    "primaryMetal": "lithium"
+  },
+  {
+    "name": "Ultra Uranium Corp",
+    "symbol": "ULU",
+    "marketCap": 1343000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "United Dixie Resources Inc *",
+    "symbol": "UDR",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "United Uranium Corp",
+    "symbol": "UUC",
+    "marketCap": 1128000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Upper Canada Gold Corp",
+    "symbol": "UCC",
+    "marketCap": 2362000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Uracan Resources Ltd",
+    "symbol": "URC",
+    "marketCap": 7701000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Uragold Bay Resources Inc",
+    "symbol": "UBR",
+    "marketCap": 2968000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Uranium North Resources Corp",
+    "symbol": "UNR",
+    "marketCap": 9591000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Uranium Valley Mines Ltd",
+    "symbol": "VZZ",
+    "marketCap": 1631000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Urastar Gold Corp",
+    "symbol": "URS",
+    "marketCap": 5456000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Uravan Minerals Inc",
+    "symbol": "UVN",
+    "marketCap": 3198000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Valgold Resources Ltd",
+    "symbol": "VAL",
+    "marketCap": 5175000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vangold Resources Ltd",
+    "symbol": "VAN",
+    "marketCap": 1857000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vanstar Mining Resources Inc",
+    "symbol": "VSR",
+    "marketCap": 1474000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vantex Resources Ltd",
+    "symbol": "VAX",
+    "marketCap": 7059000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vast Exploration Inc",
+    "symbol": "VST",
+    "marketCap": 10469000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vendetta Mining Corp",
+    "symbol": "VTT",
+    "marketCap": 8910000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vendome Resources Corp",
+    "symbol": "VDR",
+    "marketCap": 5154000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Verde Potash Plc",
+    "symbol": "NPK",
+    "marketCap": 179520000,
+    "subsector": "potash",
+    "primaryMetal": "potash"
+  },
+  {
+    "name": "Victoria Gold Corp",
+    "symbol": "VIT",
+    "marketCap": 101006000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Victory Resources Corp",
+    "symbol": "VR",
+    "marketCap": 20457000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Viking Gold Exploration Inc",
+    "symbol": "VGC",
+    "marketCap": 10094000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Vior Exploration Inc",
+    "symbol": "VIO",
+    "marketCap": 5312000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Viper Gold Ltd",
+    "symbol": "VPR",
+    "marketCap": 802000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Virgin Metals Inc",
+    "symbol": "VGM",
+    "marketCap": 6914000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Virginia Energy Resources In",
+    "symbol": "VAE",
+    "marketCap": 15079000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Visible Gold Mines Inc",
+    "symbol": "VGD",
+    "marketCap": 7510000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Volcanic Metals Corp",
+    "symbol": "VOL",
+    "marketCap": 1433000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vulcan Minerals Inc",
+    "symbol": "VUL",
+    "marketCap": 7073000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Vvc Exploration Corp",
+    "symbol": "VVC",
+    "marketCap": 6602000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "War Eagle Mining Co. Inc *",
+    "symbol": "WAR",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Waseco Resources Inc",
+    "symbol": "WRI",
+    "marketCap": 1875000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Waterloo Resources Ltd",
+    "symbol": "WAT",
+    "marketCap": 3401000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Waymar Resources Ltd",
+    "symbol": "WYM",
+    "marketCap": 14920000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wcb Resources Ltd",
+    "symbol": "WCB",
+    "marketCap": 13150000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wealth Minerals Ltd",
+    "symbol": "WML",
+    "marketCap": 7542000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wesgold Minerals Inc",
+    "symbol": "WSG",
+    "marketCap": 7144000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "West African Iron Ore Corp",
+    "symbol": "WAI",
+    "marketCap": 20973000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "West Cirque Resources Ltd",
+    "symbol": "WCQ",
+    "marketCap": 4741000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "West Kirkland Mining Inc",
+    "symbol": "WKM",
+    "marketCap": 19471000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Westcan Uranium Corp",
+    "symbol": "WCU",
+    "marketCap": 1111000,
+    "subsector": "uranium",
+    "primaryMetal": "uranium"
+  },
+  {
+    "name": "Western Pacific Resources",
+    "symbol": "WRP",
+    "marketCap": 7649000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Westernzagros Resources Ltd",
+    "symbol": "WZR",
+    "marketCap": 200904000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Westminster Resources Ltd",
+    "symbol": "WMR",
+    "marketCap": 7679000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Westridge Resources Inc",
+    "symbol": "WST",
+    "marketCap": 7534000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Weststar Resources Corp",
+    "symbol": "WER",
+    "marketCap": 6437000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Whetstone Minerals Ltd",
+    "symbol": "WMI",
+    "marketCap": 9380000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Whistler Gold Exploration In",
+    "symbol": "WGX/H",
+    "marketCap": 530000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "White Bear Resources Inc",
+    "symbol": "WBR",
+    "marketCap": 2010000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "White Pine Resources Inc",
+    "symbol": "WPR",
+    "marketCap": 4706000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "White Tiger Mining Corp",
+    "symbol": "WTC",
+    "marketCap": 2660000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wild Stream Exploration Inc",
+    "symbol": "WSX",
+    "marketCap": 474987000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wildcat Exploration Ltd",
+    "symbol": "WEL",
+    "marketCap": 3509000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Williams Creek Gold Ltd",
+    "symbol": "WCX",
+    "marketCap": 31198000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Wilton Resources Inc",
+    "symbol": "WIL",
+    "marketCap": 20471000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Win-eldrich Mines Ltd",
+    "symbol": "WEX",
+    "marketCap": 2640000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Windarra Minerals Ltd",
+    "symbol": "WRA",
+    "marketCap": 3134000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Windstorm Resources Inc",
+    "symbol": "WSR",
+    "marketCap": 1432000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wolverine Minerals Corp",
+    "symbol": "WLV",
+    "marketCap": 6587000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Woulfe Mining Corp",
+    "symbol": "WOF",
+    "marketCap": 43890000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Wpc Resources Inc",
+    "symbol": "WPQ",
+    "marketCap": 2384000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "X-terra Resources Corp",
+    "symbol": "XT",
+    "marketCap": 3325000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Yale Resources Ltd",
+    "symbol": "YLL",
+    "marketCap": 2813000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Yangarra Resources Ltd",
+    "symbol": "YGR",
+    "marketCap": 52156000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Yankee Hat Minerals Ltd",
+    "symbol": "KHT",
+    "marketCap": 506000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Yellowhead Mining Inc",
+    "symbol": "YMI",
+    "marketCap": 36829000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Yellowjacket Resources Ltd *",
+    "symbol": "YJK",
+    "marketCap": null,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Yoho Resources Inc",
+    "symbol": "YO",
+    "marketCap": 117752000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Z-gold Exploration Inc",
+    "symbol": "ZGG",
+    "marketCap": 819000,
+    "subsector": "gold",
+    "primaryMetal": "gold"
+  },
+  {
+    "name": "Zena Mining Corp",
+    "symbol": "ZCC",
+    "marketCap": 7607000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Zinccorp Resources Inc",
+    "symbol": "ZN",
+    "marketCap": 709000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Zinco Mining Corp",
+    "symbol": "ZIM",
+    "marketCap": 6137000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Zodiac Exploration Inc",
+    "symbol": "ZEX",
+    "marketCap": 74995000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Zone Resources Inc",
+    "symbol": "ZNR",
+    "marketCap": 4874000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  },
+  {
+    "name": "Zonte Metals Inc",
+    "symbol": "ZON",
+    "marketCap": 3947000,
+    "subsector": "mining",
+    "primaryMetal": "other"
+  }
+]

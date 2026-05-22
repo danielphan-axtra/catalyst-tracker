@@ -1,0 +1,36 @@
+{
+  "companyKey": "fp-nickel",
+  "symbols": [
+    "FPX"
+  ],
+  "matchNames": [
+    "fpx nickel"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "FPX Nickel Baptiste & Decar NI 43-101 resources",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "measuredIndicated": {
+      "resourceTonnesMt": 2100,
+      "containedCuEqLb": 0
+    },
+    "resourceTonnesMt": 2100
+  },
+  "rows": [
+    {
+      "deposit": "Baptiste awaruite",
+      "category": "resources",
+      "classification": "M&I Ni",
+      "containedMetal": 1.9,
+      "containedUnit": "Blb Ni",
+      "notes": "Nickel project; EV metrics use nickel lb if configured"
+    }
+  ],
+  "disclaimers": [
+    "Explorer–developer; nickel not copper."
+  ]
+}

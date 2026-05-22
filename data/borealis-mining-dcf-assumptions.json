@@ -1,0 +1,61 @@
+{
+  "source": "Borealis Mining modeled assumptions (internal working model for catalyst tracker).",
+  "assets": [
+    {
+      "name": "Borealis Heap Leach Operations",
+      "type": "production",
+      "jurisdiction": "United States",
+      "payableGoldProductionKozByYear": {
+        "Year1": 62,
+        "Year2": 68,
+        "Year3": 74,
+        "Year4": 79,
+        "Year5": 83
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 1480,
+        "Year2": 1450,
+        "Year3": 1425,
+        "Year4": 1405,
+        "Year5": 1390
+      },
+      "capexUsdMByYear": {
+        "Year1": 42,
+        "Year2": 28,
+        "Year3": 24,
+        "Year4": 20,
+        "Year5": 20
+      },
+      "mineLifeEndYear": null,
+      "notes": "Primary operating profile with moderate throughput expansion and lower unit costs through optimization."
+    },
+    {
+      "name": "Satellite Zones Expansion",
+      "type": "development",
+      "jurisdiction": "United States",
+      "payableGoldProductionKozByYear": {
+        "Year1": 0,
+        "Year2": 6,
+        "Year3": 12,
+        "Year4": 18,
+        "Year5": 25
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 0,
+        "Year2": 1520,
+        "Year3": 1490,
+        "Year4": 1460,
+        "Year5": 1435
+      },
+      "capexUsdMByYear": {
+        "Year1": 12,
+        "Year2": 10,
+        "Year3": 8,
+        "Year4": 6,
+        "Year5": 5
+      },
+      "mineLifeEndYear": null,
+      "notes": "Modeled ramp from nearby zones feeding the existing processing route."
+    }
+  ]
+}

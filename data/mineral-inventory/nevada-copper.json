@@ -1,0 +1,37 @@
+{
+  "companyKey": "nevada-copper",
+  "symbols": [
+    "NCU"
+  ],
+  "matchNames": [
+    "nevada copper"
+  ],
+  "asOfDate": "2023-12-31",
+  "source": "Nevada Copper Pumpkin Hollow technical reports",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedCuLb": 2500000000
+    },
+    "measuredIndicated": {
+      "containedCuLb": 4200000000
+    },
+    "containedCuEqLb": 2500000000
+  },
+  "rows": [
+    {
+      "deposit": "Pumpkin Hollow",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 2.5,
+      "containedUnit": "Blb Cu"
+    }
+  ],
+  "disclaimers": [
+    "Developer with staged underground/open-pit plan."
+  ]
+}

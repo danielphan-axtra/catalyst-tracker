@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Accent colors used only in stock charts and gantt charts */
+  --accent-purple: #7961a9;
+  --accent-pink: #d199c4;
+  --accent-teal: #56c4cf;
+  --foreground: #171717;
+  --background: #ffffff;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Gantt bar entrance: grow from left to right */
+@keyframes gantt-bar-in {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+/* Gantt overrides for theme */
+.gantt .bar {
+  fill: var(--accent-teal);
+}
+.gantt .bar-progress {
+  fill: var(--accent-purple);
+}

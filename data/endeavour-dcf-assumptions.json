@@ -1,0 +1,134 @@
+{
+  "source": "Endeavour FY-2026 guidance (mine-level production, AISC, and sustaining+non-sustaining mine capital) supplemented with Hounde 2022 site-visit production outlook target (~250koz/year over +10 years) for FY-2027-FY-2030; Assafou project start timing and capital estimate from investor presentation (first gold H2-2028, capital estimate ~$734M).",
+  "assets": [
+    {
+      "name": "Assafo-Dibibango",
+      "type": "development",
+      "jurisdiction": "Côte d'Ivoire",
+      "payableGoldProductionKozByYear": {
+        "Year1": 0,
+        "Year2": 0,
+        "Year3": 114,
+        "Year4": 143,
+        "Year5": 139,
+        "Year6": 126,
+        "Year7": 118,
+        "Year8": 104,
+        "Year9": 95,
+        "Year10": 88,
+        "Year11": 76,
+        "Year12": 61,
+        "Year13": 43,
+        "Year14": 28
+      },
+      "mineLifeEndYear": 14,
+      "aiscUsdPerOz": 985,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 120,
+        "Year2": 320,
+        "Year3": 294,
+        "Year4": 20,
+        "Year5": 20,
+        "Sustaining_Total": 312
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Open-pit heap-leach operation. Production schedule shifted so first production begins in 2028 (Year3 with startYear=2026), consistent with investor presentation first-gold timing (H2-2028). Capex profile is front-loaded to reflect construction: Year1-Year3 totals ~$734M (investor presentation capital estimate), then lower post-start capex in Year4-Year5; LOM sustaining capex reference remains ~$312M."
+    },
+    {
+      "name": "Hounde",
+      "type": "production",
+      "jurisdiction": "Burkina Faso",
+      "payableGoldProductionKozByYear": {
+        "Year1": 238,
+        "Year2": 250,
+        "Year3": 250,
+        "Year4": 250,
+        "Year5": 250
+      },
+      "aiscUsdPerOz": 1900,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Sustaining_Total": 550
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "FY-2026 production and AISC guidance midpoints used for Year1. FY-2027-FY-2030 production set to the 2022 site-visit target (~250koz/yr over +10 years). Capex uses FY-2026 sustaining + non-sustaining mine capital guidance ($50M + $60M) spread evenly across the modeled years via Sustaining_Total."
+    },
+    {
+      "name": "Ity",
+      "type": "production",
+      "jurisdiction": "Côte d'Ivoire",
+      "payableGoldProductionKozByYear": {
+        "Year1": 308,
+        "Year2": 308,
+        "Year3": 308,
+        "Year4": 308,
+        "Year5": 308
+      },
+      "aiscUsdPerOz": 1400,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Sustaining_Total": 425
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "FY-2026 production and AISC guidance midpoints used; FY-2027-FY-2030 held flat (simplified). Capex uses FY-2026 sustaining + non-sustaining mine capital guidance ($40M + $45M) spread evenly across the modeled years via Sustaining_Total."
+    },
+    {
+      "name": "Mana",
+      "type": "production",
+      "jurisdiction": "Burkina Faso",
+      "payableGoldProductionKozByYear": {
+        "Year1": 168,
+        "Year2": 168,
+        "Year3": 168,
+        "Year4": 168,
+        "Year5": 168
+      },
+      "aiscUsdPerOz": 2125,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Sustaining_Total": 350
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "FY-2026 production and AISC guidance midpoints used; FY-2027-FY-2030 held flat (simplified). Capex uses FY-2026 sustaining + non-sustaining mine capital guidance ($60M + $10M) spread evenly across the modeled years via Sustaining_Total."
+    },
+    {
+      "name": "Sabodala-Massawa",
+      "type": "production",
+      "jurisdiction": "Senegal",
+      "payableGoldProductionKozByYear": {
+        "Year1": 283,
+        "Year2": 283,
+        "Year3": 283,
+        "Year4": 283,
+        "Year5": 283
+      },
+      "aiscUsdPerOz": 1450,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Sustaining_Total": 400
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "FY-2026 production and AISC guidance midpoints used; FY-2027-FY-2030 held flat (simplified). Capex uses FY-2026 sustaining + non-sustaining mine capital guidance ($50M + $30M) spread evenly across the modeled years via Sustaining_Total."
+    },
+    {
+      "name": "Lafigue",
+      "type": "production",
+      "jurisdiction": "Côte d'Ivoire",
+      "payableGoldProductionKozByYear": {
+        "Year1": 183,
+        "Year2": 183,
+        "Year3": 183,
+        "Year4": 183,
+        "Year5": 183
+      },
+      "aiscUsdPerOz": 1700,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Sustaining_Total": 600
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "FY-2026 production and AISC guidance midpoints used; FY-2027-FY-2030 held flat (simplified). Capex uses FY-2026 sustaining + non-sustaining mine capital guidance ($30M + $90M) spread evenly across the modeled years via Sustaining_Total."
+    }
+  ]
+}

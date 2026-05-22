@@ -1,0 +1,56 @@
+{
+  "companyKey": "anglogold-ashanti",
+  "symbols": [
+    "AU"
+  ],
+  "matchNames": [
+    "anglogold"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "AngloGold Ashanti Mineral Resource & Reserve Report 2024",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 27.6,
+      "attributableMoz": 27.6
+    },
+    "measuredIndicated": {
+      "containedMoz": 54.2,
+      "attributableMoz": 54.2
+    },
+    "inferred": {
+      "containedMoz": 18.4,
+      "attributableMoz": 18.4
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Global",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 27.6,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Global",
+      "category": "resources",
+      "classification": "M&I (incl. reserves)",
+      "containedMetal": 54.2,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "Global",
+      "category": "resources",
+      "classification": "Inferred",
+      "containedMetal": 18.4,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Post-merger with Augusta / former Agnico assets per AGA 2024 report."
+  ]
+}

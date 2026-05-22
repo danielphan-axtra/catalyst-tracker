@@ -1,0 +1,49 @@
+{
+  "companyKey": "endeavour",
+  "symbols": [
+    "EDV"
+  ],
+  "matchNames": [
+    "endeavour"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Endeavour Mining 2024 Mineral Reserves & Resources",
+  "commodityFocus": "gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedMoz": 16.5,
+      "attributableMoz": 16.5
+    },
+    "measuredIndicated": {
+      "containedMoz": 22,
+      "attributableMoz": 22
+    },
+    "inferred": {
+      "containedMoz": 6.5,
+      "attributableMoz": 6.5
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Houndé / Ity / Sabodala-Massawa",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 16.5,
+      "containedUnit": "Moz Au"
+    },
+    {
+      "deposit": "West Africa portfolio",
+      "category": "resources",
+      "classification": "M&I",
+      "containedMetal": 22,
+      "containedUnit": "Moz Au"
+    }
+  ],
+  "disclaimers": [
+    "Consolidated West African producer totals rounded."
+  ]
+}

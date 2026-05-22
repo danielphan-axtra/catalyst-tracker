@@ -1,0 +1,45 @@
+{
+  "companyKey": "lundin-mining",
+  "symbols": [
+    "LUN",
+    "LUNTO"
+  ],
+  "matchNames": [
+    "lundin mining"
+  ],
+  "asOfDate": "2024-12-31",
+  "source": "Lundin Mining Mineral Reserves & Resources (Dec 2024)",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true
+  },
+  "summary": {
+    "reserves": {
+      "containedCuLb": 3100000000
+    },
+    "measuredIndicated": {
+      "containedCuLb": 4800000000
+    },
+    "containedCuEqLb": 3100000000
+  },
+  "rows": [
+    {
+      "deposit": "Candelaria / Chapada / Eagle / Neves-Corvo",
+      "category": "reserves",
+      "classification": "P&P",
+      "containedMetal": 3.1,
+      "containedUnit": "Blb Cu"
+    },
+    {
+      "deposit": "Global",
+      "category": "resources",
+      "classification": "M&I",
+      "containedMetal": 4.8,
+      "containedUnit": "Blb Cu"
+    }
+  ],
+  "disclaimers": [
+    "Copper-equivalent summary for EV metrics."
+  ]
+}

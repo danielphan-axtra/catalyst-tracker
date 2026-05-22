@@ -1,0 +1,143 @@
+{
+  "source": "AngloGold Ashanti investor presentation archive (2025) and events calendar pages used to build mine-level 5-year profile estimates. Where only consolidated guidance is disclosed, mine-level Year2-Year5 values are estimated from operating context and are explicitly non-flat.",
+  "assets": [
+    {
+      "name": "Geita",
+      "type": "production",
+      "jurisdiction": "Tanzania",
+      "payableGoldProductionKozByYear": {
+        "Year1": 500,
+        "Year2": 510,
+        "Year3": 495,
+        "Year4": 505,
+        "Year5": 490
+      },
+      "aiscUsdPerOz": 1450,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 180,
+        "Year2": 175,
+        "Year3": 170,
+        "Year4": 165,
+        "Year5": 165
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Large cornerstone asset; non-flat profile reflects normal grade/sequence shifts around steady-state output."
+    },
+    {
+      "name": "Obuasi",
+      "type": "production",
+      "jurisdiction": "Ghana",
+      "payableGoldProductionKozByYear": {
+        "Year1": 310,
+        "Year2": 335,
+        "Year3": 350,
+        "Year4": 340,
+        "Year5": 330
+      },
+      "aiscUsdPerOz": 1300,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 145,
+        "Year2": 140,
+        "Year3": 130,
+        "Year4": 125,
+        "Year5": 120
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Ramp/optimization style profile used (not flat) based on site-visit and operating commentary cadence."
+    },
+    {
+      "name": "Siguiri",
+      "type": "production",
+      "jurisdiction": "Guinea",
+      "payableGoldProductionKozByYear": {
+        "Year1": 270,
+        "Year2": 275,
+        "Year3": 285,
+        "Year4": 280,
+        "Year5": 270
+      },
+      "aiscUsdPerOz": 1550,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 95,
+        "Year2": 92,
+        "Year3": 90,
+        "Year4": 88,
+        "Year5": 85
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Non-flat profile around mature operation base case."
+    },
+    {
+      "name": "Tropicana",
+      "type": "production",
+      "jurisdiction": "Australia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 225,
+        "Year2": 230,
+        "Year3": 220,
+        "Year4": 215,
+        "Year5": 210
+      },
+      "aiscUsdPerOz": 1525,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 85,
+        "Year2": 84,
+        "Year3": 82,
+        "Year4": 80,
+        "Year5": 78
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Represents AngloGold attributable production trend estimate for planning purposes."
+    },
+    {
+      "name": "Sunrise Dam",
+      "type": "production",
+      "jurisdiction": "Australia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 190,
+        "Year2": 198,
+        "Year3": 205,
+        "Year4": 198,
+        "Year5": 192
+      },
+      "aiscUsdPerOz": 1650,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 90,
+        "Year2": 88,
+        "Year3": 87,
+        "Year4": 84,
+        "Year5": 82
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Non-flat underground/open pit sequencing pattern."
+    },
+    {
+      "name": "Iduapriem",
+      "type": "production",
+      "jurisdiction": "Ghana",
+      "payableGoldProductionKozByYear": {
+        "Year1": 260,
+        "Year2": 250,
+        "Year3": 240,
+        "Year4": 230,
+        "Year5": 220
+      },
+      "aiscUsdPerOz": 1650,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 70,
+        "Year2": 68,
+        "Year3": 66,
+        "Year4": 64,
+        "Year5": 62
+      },
+      "sustainingCapexUsdMByYear": null,
+      "notes": "Declining production trend assumption used for mature pit sequence."
+    }
+  ]
+}

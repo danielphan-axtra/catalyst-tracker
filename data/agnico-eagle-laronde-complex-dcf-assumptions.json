@@ -1,0 +1,53 @@
+{
+  "source": "Agnico Eagle NI 43-101 Technical Report, LaRonde Complex (effective Dec 31, 2022; dated Mar 24, 2023): https://s205.q4cdn.com/243646470/files/doc_downloads/LarondeComplex/LaRonde_43-101_Tech_Rep_March_24_2023_SEDAR_FINAL.pdf",
+  "assets": [
+    {
+      "name": "LaRonde Mine (complex component)",
+      "type": "production",
+      "jurisdiction": "Quebec, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 214.319,
+        "Year2": 217.492,
+        "Year3": 234.068,
+        "Year4": 230.592,
+        "Year5": 241.814
+      },
+      "aiscUsdPerOz": 1275,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 100.15,
+        "Year2": 97,
+        "Year3": 84.31,
+        "Year4": 73.38,
+        "Year5": 68.23
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 14,
+      "notes": "Production values use recovered gold ounces from the 2023 LOM production table for 2023-2027, converted to koz. CAPEX values are taken from the LaRonde subtotal in C$M for 2023-2027 and converted at C$1.30/US$1.00. AISC is currently a placeholder pending mine-level AISC extraction from Agnico disclosures."
+    },
+    {
+      "name": "LZ5 Mine (complex component)",
+      "type": "production",
+      "jurisdiction": "Quebec, Canada",
+      "payableGoldProductionKozByYear": {
+        "Year1": 71.421,
+        "Year2": 72.881,
+        "Year3": 81.403,
+        "Year4": 94.907,
+        "Year5": 90.287
+      },
+      "aiscUsdPerOz": 1275,
+      "aiscUsdPerOzByYear": null,
+      "capexUsdMByYear": {
+        "Year1": 27.46,
+        "Year2": 35.08,
+        "Year3": 24.15,
+        "Year4": 14.31,
+        "Year5": 16.23
+      },
+      "sustainingCapexUsdMByYear": null,
+      "mineLifeEndYear": 10,
+      "notes": "Production values use recovered gold ounces from the 2023 LOM production table for 2023-2027, converted to koz. CAPEX values are taken from the LZ5 subtotal in C$M for 2023-2027 and converted at C$1.30/US$1.00. AISC is currently a placeholder pending mine-level AISC extraction from Agnico disclosures."
+    }
+  ]
+}

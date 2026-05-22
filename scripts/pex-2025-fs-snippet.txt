@@ -1,0 +1,23 @@
+﻿node.exe : Warning: TT: undefined function: 21
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning: TT: undefined function: 21:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+--- cash ---
+ ompany) as at December 31, 2025 and 2024, and its financial performance and its cash flows for the years then ended in accordance with IFRS Accounting Standards as issued by the International Accounting Standards Board (IFRS Accounting Standards).  What we have audited  The Company ΓÇÖ s consolidated financial statements comprise:  ΓÇó   the consolidated statements of financial position as at December 31, 2025 and 2024;  ΓÇó   the consolidated statements of loss and comprehensive l
+
+--- operating activities ---
+  December 31, 2025   December 31, 2024  $   $  Cash flows provided by (used in) operating activities  Loss for the year   (5,854,613)   (3,308,881)  Items not affecting cash:  Amortization   9,358   61,693  Finance lease interest   62   2,710  Share-based payments   805,335   5,458  Interest received   (11,330)   (25,669)  Write-off of resource property   116,518   61,000  Flow-through premium recovery   (219,164)   (151,125)  Changes in non-cash working capital:  Other recei
+
+--- investing ---
+ liabilities   (63,212)   (1,991)  (5,186,609)   (3,483,088)  Cash flows used in investing activities  Resource property acquisition costs   (40,000)   (23,306)  Acquisition of equipment and furniture   -   (4,110)  Reclamation bond   7,000   (13,500)  Interest received   11,330   25,669  (21,670)   (15,247)  Cash flows provided by financing activities  Proceeds from share issuances   7,716,335   3,468,000  Share issuance costs   (563,374)   (220,080)  Proceeds from option exe
+
+--- december 31, 2025 ---
+ loration-Stage Company)  Consolidated Financial Statements  For the Years ended December 31, 2025 and 2024  (Expressed in Canadian dollars)
+PricewaterhouseCoopers LLP PwC Place, 250 Howe Street, Suite 1400 Vancouver, British Columbia, Canada V6C 3S7 T.: +1 604 806 7000, F.: +1 604 806 7806 Fax to mail: ca_vancouver_main_fax@pwc.com  ΓÇ£PwCΓÇ¥ refers to PricewaterhouseCoopers LLP, an Ontario limited liability partnership.  Independent auditor ΓÇÖ s report  To the Shareholders of Pac
+
+--- december 31, 2024 ---
+ l part of these consolidated financial statements  7  Note  December 31,  2025  December 31, 2024  $   $  ASSETS  Current assets  Cash   2,194,173   12,095  Amounts receivable   4,276   45,375  Prepaids   59,452   48,790  2,257,901   106,260  Equipment and furniture   2,718   8,167  Resource properties   3   4,325,625   4,324,143  Reclamation bonds   68,642   78,142  Right-of-use assets   10   -   3,909  6,654,886   4,520,621  LIABILITIES  Current liabilities  Trade payables 
