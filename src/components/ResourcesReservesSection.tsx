@@ -15,15 +15,15 @@ export function ResourcesReservesSection({ inventory }: { inventory: MineralInve
   const reporting = getResourceReportingLabels(inventory);
 
   return (
-    <div className="rounded-xl border border-neutral-100 bg-white p-4 shadow-sm">
+    <div className="rounded-xl border border-neutral-100 bg-white p-4">
       <div className="flex flex-wrap items-start justify-between gap-2">
-        <h2 className="text-lg font-semibold text-neutral-900">Mineral resources & reserves</h2>
+        <h2 className="text-sm font-semibold uppercase tracking-widest text-neutral-500">Mineral resources & reserves</h2>
         <p className="text-xs text-neutral-500">As of {inventory.asOfDate}</p>
       </div>
       <p className="mt-1 text-xs text-neutral-600">
         Source:{" "}
         {inventory.sourceUrl ? (
-          <a href={inventory.sourceUrl} className="text-blue-700 hover:underline" target="_blank" rel="noreferrer">
+          <a href={inventory.sourceUrl} className="text-accent-teal hover:underline" target="_blank" rel="noreferrer">
             {inventory.source}
           </a>
         ) : (
@@ -156,7 +156,7 @@ export function ResourcesReservesSection({ inventory }: { inventory: MineralInve
       <div className="mt-4 overflow-x-auto">
         <table className="w-full min-w-[640px] text-left text-sm">
           <thead>
-            <tr className="border-b border-neutral-200 text-xs font-medium uppercase tracking-wide text-neutral-500">
+            <tr className="border-b border-neutral-100 text-xs font-medium uppercase tracking-wide text-neutral-500">
               <th className="py-2 pr-3">Deposit</th>
               <th className="py-2 pr-3">Category</th>
               <th className="py-2 pr-3">Classification</th>
@@ -169,15 +169,15 @@ export function ResourcesReservesSection({ inventory }: { inventory: MineralInve
             {inventory.rows.map((row, i) => (
               <tr key={`${row.deposit}-${row.classification}-${i}`} className="border-b border-neutral-50">
                 <td className="py-2 pr-3 font-medium text-neutral-900">{row.deposit}</td>
-                <td className="py-2 pr-3 capitalize text-neutral-700">{row.category}</td>
-                <td className="py-2 pr-3 text-neutral-700">{row.classification}</td>
-                <td className="py-2 pr-3 text-right tabular-nums text-neutral-800">
+                <td className="py-2 pr-3 capitalize text-neutral-600">{row.category}</td>
+                <td className="py-2 pr-3 text-neutral-600">{row.classification}</td>
+                <td className="py-2 pr-3 text-right tabular-nums font-mono text-neutral-900">
                   {row.tonnesKt != null ? `${formatNumber(row.tonnesKt, 0)} kt` : "—"}
                 </td>
-                <td className="py-2 pr-3 text-right tabular-nums text-neutral-800">
+                <td className="py-2 pr-3 text-right tabular-nums font-mono text-neutral-900">
                   {row.grade != null && row.gradeUnit ? `${row.grade} ${row.gradeUnit}` : "—"}
                 </td>
-                <td className="py-2 text-right tabular-nums text-neutral-800">
+                <td className="py-2 text-right tabular-nums font-mono text-neutral-900">
                   {formatContained(row.attributableContained ?? row.containedMetal, row.containedUnit)}
                   {row.attributablePct != null && row.attributableContained != null && (
                     <span className="block text-xs text-neutral-500">{row.attributablePct}% attr.</span>
@@ -205,7 +205,7 @@ function SummaryCard({ title, lines }: { title: string; lines: (string | null)[]
   return (
     <div className="rounded-lg bg-neutral-50 px-3 py-2">
       <div className="text-xs font-medium uppercase tracking-wide text-neutral-500">{title}</div>
-      <ul className="mt-1 space-y-0.5 text-sm text-neutral-800">
+      <ul className="mt-1 space-y-0.5 text-sm text-neutral-900">
         {visible.map((line) => (
           <li key={line}>{line}</li>
         ))}
