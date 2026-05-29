@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import {
   loadAssumptionsFromRepoFile,
-  type DcfAssumptionsFile,
+  type EndeavourAssumptionsFile as DcfAssumptionsFile,
 } from "@/lib/endeavour-dcf";
 
 export type GenericDcfConfig = {
