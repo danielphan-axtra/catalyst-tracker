@@ -204,6 +204,9 @@ export default async function CompaniesPage({
     "PEX.V": "BC copper-gold (Kliyul, RDP) · cash runway & catalysts",
     CURA: "US cannabis MSO · cash flow & runway",
     "ONDO.L": "LeakBot insurtech (LSE) · cash flow & runway",
+    "ATM.L": "Namibia tin producer (Uis) · production, EV/lb Sn & runway",
+    "CLA.AX": "Philippines MCB Cu-Au (DFS) · feasibility NAV, EV/lb & runway",
+    "AGAG.V": "El Quevar silver (Argentina) · EV/oz Ag, runway & catalysts",
   };
 
   const featuredOrder = new Map<string, number>(

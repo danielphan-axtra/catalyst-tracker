@@ -1,0 +1,48 @@
+{
+  "source": "Argenta Silver exploration spend (CAD): post C$23M financing Jan 2026; 25,000 m drill program and technical studies.",
+  "currency": "CAD",
+  "startYear": 2024,
+  "chartYears": 5,
+  "years": [
+    {
+      "calendarYear": 2024,
+      "label": "FY2024A",
+      "revenueUsdM": 0,
+      "ocfUsdM": -1.2,
+      "capexUsdM": -3.5,
+      "financingUsdM": 5.5
+    },
+    {
+      "calendarYear": 2025,
+      "label": "FY2025A",
+      "revenueUsdM": 0,
+      "ocfUsdM": -4.5,
+      "capexUsdM": -8.0,
+      "financingUsdM": 12.0
+    },
+    {
+      "calendarYear": 2026,
+      "label": "FY2026E",
+      "revenueUsdM": 0,
+      "ocfUsdM": -6.0,
+      "capexUsdM": -14.0,
+      "financingUsdM": 23.0
+    },
+    {
+      "calendarYear": 2027,
+      "label": "FY2027E",
+      "revenueUsdM": 0,
+      "ocfUsdM": -5.0,
+      "capexUsdM": -10.0,
+      "financingUsdM": 0
+    },
+    {
+      "calendarYear": 2028,
+      "label": "FY2028E",
+      "revenueUsdM": 0,
+      "ocfUsdM": -3.5,
+      "capexUsdM": -6.0,
+      "financingUsdM": 0
+    }
+  ]
+}

@@ -175,6 +175,22 @@ export function computeEvPerMetalMetrics(params: {
 
   const reserveCuLb = s.reserves?.containedCuLb ?? s.containedCuEqLb ?? 0;
   const miCuLb = s.measuredIndicated?.containedCuLb ?? reserveCuLb;
+  if (inventory.commodityFocus === "copper-gold" && miCuLb > 0 && !reserveCuLb) {
+    const perUnit = computeEvPerUnitUsd(evUsd, miCuLb);
+    const isNonCompliant = inventory.resourceReporting?.disclosureNote?.toLowerCase().includes("non-jorc")
+      || inventory.resourceReporting?.disclosureNote?.toLowerCase().includes("non-code");
+    return {
+      spotCopperUsdPerLb,
+      evPerReserveOzLabel: isNonCompliant ? "EV / lb Cu (hist. non-JORC)" : "EV / lb Cu (M&I)",
+      evPerReserveOzValue: formatEvPerUnitUsd(perUnit, "lb Cu"),
+      evPerResourceOzLabel: "EV / lb Cu (same basis)",
+      evPerResourceOzValue: formatEvPerUnitUsd(perUnit, "lb Cu"),
+      evPerReserveUsdPerUnit: perUnit,
+      evPerResourceUsdPerUnit: perUnit,
+      reserveMetalNote: `${(miCuLb / 1e9).toFixed(2)} Blb Cu basis (no reserves declared)`,
+      resourceMetalNote: inventory.resourceReporting?.disclosureNote,
+    };
+  }
   if (inventory.commodityFocus === "copper-gold" && reserveCuLb > 0) {
     const reservePerUnit = computeEvPerUnitUsd(evUsd, reserveCuLb);
     const resourcePerUnit = computeEvPerUnitUsd(evUsd, miCuLb);
@@ -191,7 +207,57 @@ export function computeEvPerMetalMetrics(params: {
     };
   }
 
-  if (inventory.commodityFocus === "gold") {
+  const reserveSnLb = s.reserves?.containedSnLb ?? 0;
+  const miSnLb = s.measuredIndicated?.containedSnLb ?? s.containedSnLb ?? 0;
+  if (inventory.commodityFocus === "tin" && miSnLb > 0) {
+    const reservePerUnit = computeEvPerUnitUsd(evUsd, reserveSnLb > 0 ? reserveSnLb : miSnLb);
+    const resourcePerUnit = computeEvPerUnitUsd(evUsd, miSnLb);
+    const reserveT = s.reserves?.containedSnT ?? 0;
+    const miT = s.measuredIndicated?.containedSnT ?? s.containedSnT ?? 0;
+    return {
+      evPerReserveOzLabel: reserveSnLb > 0 ? "EV / lb Sn (reserves)" : "EV / lb Sn (M&I proxy)",
+      evPerReserveOzValue: formatEvPerUnitUsd(reservePerUnit, "lb Sn"),
+      evPerResourceOzLabel: "EV / lb Sn (M&I)",
+      evPerResourceOzValue: formatEvPerUnitUsd(resourcePerUnit, "lb Sn"),
+      evPerReserveUsdPerUnit: reservePerUnit,
+      evPerResourceUsdPerUnit: resourcePerUnit,
+      reserveMetalNote: reserveT > 0 ? `${(reserveT / 1000).toFixed(0)} kt Sn in reserves` : undefined,
+      resourceMetalNote: miT > 0 ? `${(miT / 1000).toFixed(0)} kt Sn in M&I` : undefined,
+    };
+  }
+
+  const et = inventory.explorationTarget;
+  if (et && et.containedCuMtMin > 0 && et.containedCuMtMax > 0) {
+    const cuMtMid = (et.containedCuMtMin + et.containedCuMtMax) / 2;
+    const cuLbMid = cuMtMid * 1_000_000 * METRIC_TONNES_TO_LB;
+    const agMozMid =
+      et.containedAgMozMin != null && et.containedAgMozMax != null
+        ? (et.containedAgMozMin + et.containedAgMozMax) / 2
+        : null;
+    const cuPerUnit = computeEvPerUnitUsd(evUsd, cuLbMid);
+    const agPerUnit =
+      agMozMid != null ? computeEvPerUnitUsd(evUsd, agMozMid * 1_000_000) : null;
+    return {
+      spotCopperUsdPerLb,
+      spotSilverUsdPerOz,
+      evPerReserveOzLabel: "EV / lb Cu (ET mid)",
+      evPerReserveOzValue: formatEvPerUnitUsd(cuPerUnit, "lb Cu"),
+      evPerResourceOzLabel: agPerUnit != null ? "EV / oz Ag (ET mid)" : "EV / oz (ET)",
+      evPerResourceOzValue:
+        agPerUnit != null ? formatEvPerUnitUsd(agPerUnit, "oz Ag") : formatEvPerUnitUsd(cuPerUnit, "lb Cu"),
+      evPerReserveUsdPerUnit: cuPerUnit,
+      evPerResourceUsdPerUnit: agPerUnit ?? cuPerUnit,
+      reserveMetalNote: `${cuMtMid.toFixed(1)} Mt Cu contained (ET midpoint; ${et.containedCuMtMin}–${et.containedCuMtMax} Mt range)`,
+      resourceMetalNote:
+        agMozMid != null
+          ? `${agMozMid.toFixed(0)} Moz Ag contained (ET midpoint)`
+          : "Exploration target only — not a mineral resource",
+    };
+  }
+
+  if (inventory.commodityFocus === "silver" || inventory.commodityFocus === "gold") {
+    const metal = inventory.commodityFocus === "silver" ? "Ag" : "Au";
+    const spotOz = inventory.commodityFocus === "silver" ? (params.spotSilverUsdPerOz ?? 32) : spotGoldUsdPerOz;
     const reserveOz = inventory.summary.reserves?.attributableMoz ?? inventory.summary.reserves?.containedMoz;
     const resourceOz =
       inventory.summary.measuredIndicated?.attributableMoz ??
@@ -202,18 +268,29 @@ export function computeEvPerMetalMetrics(params: {
     const reservePerUnit = computeEvPerUnitUsd(evUsd, reserveOzUnits);
     const resourcePerUnit = computeEvPerUnitUsd(evUsd, resourceOzUnits);
     const miExclReserves = inventory.resourceReporting?.measuredIndicatedIncludesReserves === false;
+    const noReserves = !reserveOz || reserveOz <= 0;
     return {
-      spotGoldUsdPerOz,
-      evPerReserveOzLabel: "EV / reserve oz (spot)",
-      evPerReserveOzValue: formatEvPerUnitUsd(reservePerUnit, "oz Au"),
-      evPerResourceOzLabel: miExclReserves ? "EV / M&I oz (excl. reserves)" : "EV / M&I oz (incl. reserves)",
-      evPerResourceOzValue: formatEvPerUnitUsd(resourcePerUnit, "oz Au"),
+      spotGoldUsdPerOz: spotOz,
+      spotSilverUsdPerOz: inventory.commodityFocus === "silver" ? spotOz : params.spotSilverUsdPerOz,
+      evPerReserveOzLabel: noReserves
+        ? "EV / M&I oz Ag (no reserves)"
+        : `EV / reserve oz (spot)`,
+      evPerReserveOzValue: formatEvPerUnitUsd(
+        noReserves ? resourcePerUnit : reservePerUnit,
+        `oz ${metal}`,
+      ),
+      evPerResourceOzLabel: miExclReserves ? `EV / M&I oz (excl. reserves)` : `EV / M&I oz (incl. reserves)`,
+      evPerResourceOzValue: formatEvPerUnitUsd(resourcePerUnit, `oz ${metal}`),
       evPerReserveUsdPerUnit: reservePerUnit,
       evPerResourceUsdPerUnit: resourcePerUnit,
       reserveOuncesUsed: reserveOz,
       resourceOuncesUsed: resourceOz,
-      reserveMetalNote: reserveOz ? "Attributable P&P reserves" : undefined,
-      resourceMetalNote: resourceOz ? "Attributable M&I (incl. reserves)" : undefined,
+      reserveMetalNote: reserveOz
+        ? `Attributable P&P reserves (${metal})`
+        : noReserves
+          ? "No reserves declared — M&I resource only"
+          : undefined,
+      resourceMetalNote: resourceOz ? `M&I resource (${metal})` : undefined,
     };
   }
 

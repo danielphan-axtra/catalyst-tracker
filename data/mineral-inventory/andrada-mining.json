@@ -1,0 +1,88 @@
+{
+  "companyKey": "andrada-mining",
+  "symbols": ["ATM.L", "ATM", "ATMT", "ATMTF"],
+  "matchNames": ["andrada"],
+  "asOfDate": "2025-02-28",
+  "source": "Andrada Mining V1/V2 pegmatite MRE update (Feb 2025); licence-wide resource per Mar 2026 investor deck",
+  "sourceUrl": "https://andradamining.com/wp-content/uploads/2025/02/Uis-V1V2-Mineral-Resource-Update.pdf",
+  "commodityFocus": "tin",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true,
+    "disclosureNote": "V1/V2 MRE is JORC (2012). Andrada reports polymetallic Sn–Ta–Li; tin used for EV/lb. No formal ore reserve declared separately in this update."
+  },
+  "summary": {
+    "resourceTonnesMt": 77.51,
+    "containedSnT": 118000,
+    "containedSnLb": 260145160,
+    "reserves": {
+      "containedSnT": 85000,
+      "containedSnLb": 187392700
+    },
+    "measuredIndicated": {
+      "containedSnT": 118000,
+      "containedSnLb": 260145160
+    },
+    "inferred": {
+      "containedSnT": 45000,
+      "containedSnLb": 99208000
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Uis V1/V2 pegmatite",
+      "category": "resources",
+      "classification": "M&I (total MRE)",
+      "tonnesKt": 77510,
+      "grade": 0.15,
+      "gradeUnit": "% Sn",
+      "containedMetal": 118000,
+      "containedUnit": "t Sn"
+    },
+    {
+      "deposit": "Uis V1/V2 pegmatite",
+      "category": "resources",
+      "classification": "Measured",
+      "tonnesKt": 27300,
+      "grade": 0.15,
+      "gradeUnit": "% Sn",
+      "containedMetal": 41000,
+      "containedUnit": "t Sn"
+    },
+    {
+      "deposit": "Uis V1/V2 pegmatite",
+      "category": "resources",
+      "classification": "Indicated",
+      "tonnesKt": 17500,
+      "grade": 0.15,
+      "gradeUnit": "% Sn",
+      "containedMetal": 26000,
+      "containedUnit": "t Sn"
+    },
+    {
+      "deposit": "Uis licence (regional)",
+      "category": "resources",
+      "classification": "Inferred / targets",
+      "tonnesKt": 135000,
+      "grade": 0.12,
+      "gradeUnit": "% Sn (avg)",
+      "containedMetal": 162000,
+      "containedUnit": "t Sn (target)",
+      "notes": "135 Mt JORC resource target per Mar 2026 deck (200 Mt exploration target)"
+    },
+    {
+      "deposit": "Uis V1/V2",
+      "category": "resources",
+      "classification": "Li₂O (M&I)",
+      "tonnesKt": 77510,
+      "grade": 0.79,
+      "gradeUnit": "% Li₂O",
+      "containedMetal": 610000,
+      "containedUnit": "t Li₂O"
+    }
+  ],
+  "disclaimers": [
+    "Reserve tonnes are modeled mineable inventory for EV/lb only — refer to Andrada JORC tables for official classifications.",
+    "Licence-wide 135 Mt figure is company-reported aggregate resource, not all in V1/V2 MRE."
+  ]
+}

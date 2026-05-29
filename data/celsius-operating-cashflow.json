@@ -1,0 +1,48 @@
+{
+  "source": "Celsius Resources ASX quarterly cash flow (AUD): Dec 2025 quarter; pre-production developer spend on MCB DFS and corporate.",
+  "currency": "AUD",
+  "startYear": 2024,
+  "chartYears": 5,
+  "years": [
+    {
+      "calendarYear": 2024,
+      "label": "FY2024A",
+      "revenueUsdM": 0.1,
+      "ocfUsdM": -3.2,
+      "capexUsdM": -0.5,
+      "financingUsdM": 8.2
+    },
+    {
+      "calendarYear": 2025,
+      "label": "FY2025A",
+      "revenueUsdM": 0.1,
+      "ocfUsdM": -4.8,
+      "capexUsdM": -1.2,
+      "financingUsdM": 5.0
+    },
+    {
+      "calendarYear": 2026,
+      "label": "H1 FY2026A",
+      "revenueUsdM": 0,
+      "ocfUsdM": -2.5,
+      "capexUsdM": -0.3,
+      "financingUsdM": 5.0
+    },
+    {
+      "calendarYear": 2027,
+      "label": "FY2027E",
+      "revenueUsdM": 0,
+      "ocfUsdM": -5.5,
+      "capexUsdM": -2.0,
+      "financingUsdM": 15.0
+    },
+    {
+      "calendarYear": 2028,
+      "label": "FY2028E",
+      "revenueUsdM": 2.0,
+      "ocfUsdM": -8.0,
+      "capexUsdM": -25.0,
+      "financingUsdM": 40.0
+    }
+  ]
+}

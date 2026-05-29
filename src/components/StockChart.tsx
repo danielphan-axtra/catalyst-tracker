@@ -247,7 +247,7 @@ export function StockChart({
             </ComposedChart>
           </ResponsiveContainer>
         ) : (
-          <div className="flex h-full items-center justify-center rounded border border-white/[0.05] bg-white/[0.02] text-sm text-ink-muted">
+          <div className="flex h-full items-center justify-center rounded border border-black/5 bg-black/[0.02] text-sm text-black/50">
             No price history for this range.
           </div>
         )}

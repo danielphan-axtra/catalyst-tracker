@@ -1,0 +1,48 @@
+{
+  "source": "Andrada Mining consolidated cash flows (GBP, year ended 28 Feb): FY2025 from annual report; FY2026–28 modeled from operating turnaround and jig/lithium capex.",
+  "currency": "GBP",
+  "startYear": 2024,
+  "chartYears": 5,
+  "years": [
+    {
+      "calendarYear": 2024,
+      "label": "FY2024A",
+      "revenueUsdM": 12.4,
+      "ocfUsdM": -3.7,
+      "capexUsdM": -14.9,
+      "financingUsdM": 25.2
+    },
+    {
+      "calendarYear": 2025,
+      "label": "FY2025A",
+      "revenueUsdM": 14.8,
+      "ocfUsdM": -4.0,
+      "capexUsdM": -12.9,
+      "financingUsdM": 4.3
+    },
+    {
+      "calendarYear": 2026,
+      "label": "FY2026A",
+      "revenueUsdM": 18.5,
+      "ocfUsdM": 2.1,
+      "capexUsdM": -8.5,
+      "financingUsdM": 1.2
+    },
+    {
+      "calendarYear": 2027,
+      "label": "FY2027E",
+      "revenueUsdM": 24.0,
+      "ocfUsdM": 4.8,
+      "capexUsdM": -10.0,
+      "financingUsdM": 0
+    },
+    {
+      "calendarYear": 2028,
+      "label": "FY2028E",
+      "revenueUsdM": 28.5,
+      "ocfUsdM": 6.2,
+      "capexUsdM": -7.5,
+      "financingUsdM": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "companyKey": "arc-minerals",
+  "symbols": ["ARCM", "ARCM.L"],
+  "matchNames": ["arc minerals", "arc mineral"],
+  "asOfDate": "2026-05-27",
+  "source": "Arc Minerals RNS & subsidiary disclosures (Kalaba historical); Kabompo West exploration only",
+  "sourceUrl": "https://www.arcminerals.com/",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": false,
+    "disclosureNote": "No JORC/NI 43-101 reserves or resources on Kabompo West. Kalaba oxide inventory is historical non-code-compliant (Zamsort ~66% Arc)."
+  },
+  "summary": {
+    "measuredIndicated": {
+      "tonnesKt": 10949,
+      "containedCuLb": 226900000
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Kalaba (Zamsort, NW Zambia)",
+      "category": "resources",
+      "classification": "Historical oxide (non-JORC)",
+      "tonnesKt": 16590,
+      "grade": 0.94,
+      "gradeUnit": "% CuEq",
+      "containedMetal": 0.156,
+      "containedUnit": "Mt CuEq (100%)",
+      "attributablePct": 66,
+      "attributableContained": 0.103,
+      "notes": "16.59 Mt @ 0.94% CuEq per historical work (Equinox/Anglo era); ~66% Arc via Zamsort"
+    },
+    {
+      "deposit": "Kabompo West (Handa / Domes region)",
+      "category": "resources",
+      "classification": "Exploration",
+      "notes": "~870 km² licences; widespread Cu mineralization, no published MRE after Anglo JV exit (Oct 2025)"
+    },
+    {
+      "deposit": "Virgo (Botswana, KCB)",
+      "category": "resources",
+      "classification": "Exploration",
+      "notes": "PL135/162; geophysics + H2 2026 drilling planned — no resource"
+    },
+    {
+      "deposit": "Chingola (acquisition pending)",
+      "category": "resources",
+      "classification": "Exploration",
+      "notes": "Licence 38113-HQ-LEL; earn-in milestones tied to future JORC Cu resource (500 kt+ Cu)"
+    }
+  ],
+  "disclaimers": [
+    "Arc Minerals (LSE: ARCM) — no mineral reserves declared.",
+    "Kabompo West: exploration-stage; May 2026 Zambia settlement removed litigation overhang only.",
+    "EV/lb Cu uses 66%-attributable contained Cu from Kalaba historical oxide only — not Kabompo scale.",
+    "Kalaba tonnes/grade are non-code-compliant and should not be treated as NI 43-101 resources."
+  ]
+}

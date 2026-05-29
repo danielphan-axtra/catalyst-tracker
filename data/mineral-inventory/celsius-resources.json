@@ -1,0 +1,90 @@
+{
+  "companyKey": "celsius-resources",
+  "symbols": ["CLA", "CLA.AX", "CLA.L"],
+  "matchNames": ["celsius"],
+  "asOfDate": "2025-12-12",
+  "source": "Celsius Resources MCB maiden ore reserve (Dec 2025) and DFS mineral inventory (Jan 2026)",
+  "sourceUrl": "https://celsiusresources.com/",
+  "commodityFocus": "copper-gold",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": true,
+    "inferredReportedSeparately": true,
+    "disclosureNote": "Celsius holds 40% working interest in MCB (MMCI); reserve tonnes are 100% project basis per JORC tables."
+  },
+  "summary": {
+    "resourceTonnesMt": 343,
+    "resourceCuEqPct": 0.84,
+    "reserves": {
+      "tonnesKt": 130200,
+      "containedCuLb": 1887155200,
+      "containedMoz": 0.891
+    },
+    "measuredIndicated": {
+      "tonnesKt": 343000,
+      "containedCuLb": 4200000000,
+      "containedMoz": 2.5
+    },
+    "inferred": {
+      "tonnesKt": 85000,
+      "containedCuLb": 900000000
+    },
+    "containedCuLb": 4200000000,
+    "containedAuOz": 2500000
+  },
+  "rows": [
+    {
+      "deposit": "MCB underground",
+      "category": "reserves",
+      "classification": "P&P (gross)",
+      "tonnesKt": 130200,
+      "grade": 0.66,
+      "gradeUnit": "% Cu",
+      "containedMetal": 856,
+      "containedUnit": "kt Cu",
+      "attributablePct": 40,
+      "attributableContained": 342,
+      "notes": "130.2 Mt @ 0.66% Cu, 0.21 g/t Au; 891 koz Au"
+    },
+    {
+      "deposit": "MCB underground",
+      "category": "reserves",
+      "classification": "Contained Au",
+      "containedMetal": 891,
+      "containedUnit": "koz Au",
+      "attributablePct": 40,
+      "attributableContained": 356
+    },
+    {
+      "deposit": "MCB project",
+      "category": "resources",
+      "classification": "JORC M&I",
+      "tonnesKt": 343000,
+      "grade": 0.84,
+      "gradeUnit": "% CuEq",
+      "containedMetal": 343,
+      "containedUnit": "Mt",
+      "notes": "DFS mineral inventory supporting 35-year mine life"
+    },
+    {
+      "deposit": "Sagay",
+      "category": "resources",
+      "classification": "JORC",
+      "tonnesKt": 312000,
+      "grade": 0.35,
+      "gradeUnit": "% CuEq",
+      "containedMetal": 312,
+      "containedUnit": "Mt",
+      "notes": "Regional pipeline — not in DFS mine plan"
+    },
+    {
+      "deposit": "Botilao",
+      "category": "resources",
+      "classification": "Exploration target",
+      "notes": "Early-stage copper-gold; Philippines portfolio"
+    }
+  ],
+  "disclaimers": [
+    "EV/lb uses 100% project contained copper in reserves unless noted; apply 40% WI for Celsius economic interest.",
+    "MMCI governance dispute with local partners may affect development timing (see company ASX releases)."
+  ]
+}

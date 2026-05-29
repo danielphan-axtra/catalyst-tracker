@@ -147,6 +147,40 @@ const SYMBOL_DCF_MAP: Array<{ keys: string[]; names?: string[]; config: GenericD
       costSeriesLabel: "AISC",
     },
   },
+  {
+    keys: ["ATM", "ATMT"],
+    names: ["andrada"],
+    config: {
+      assumptionsFileName: "andrada-mining-dcf-assumptions.json",
+      companyName: "Andrada Mining",
+      initialGoldPriceUsdPerOz: 14.97,
+      commodityName: "Tin",
+      commodityPriceUnit: "USD/lb",
+      productionUnitLabel: "t",
+      productionValueSuffix: " t",
+      costUnitLabel: "$/lb",
+      costSeriesLabel: "Cash cost",
+    },
+  },
+  {
+    keys: ["CLA"],
+    names: ["celsius"],
+    config: {
+      assumptionsFileName: "celsius-resources-mcb-dcf-assumptions.json",
+      companyName: "Celsius Resources",
+      feasibilityStudy: true,
+      startYear: 2026,
+      initialGoldPriceUsdPerOz: 4.3,
+      discountRatePct: 8,
+      chartYears: 10,
+      commodityName: "Copper",
+      commodityPriceUnit: "USD/lb",
+      productionUnitLabel: "Klb",
+      productionValueSuffix: " klb",
+      costUnitLabel: "$/lb",
+      costSeriesLabel: "C1 cash cost",
+    },
+  },
 ];
 
 const NON_MINING_SYMBOLS = new Set([

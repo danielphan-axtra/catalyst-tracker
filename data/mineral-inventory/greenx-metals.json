@@ -1,0 +1,57 @@
+{
+  "companyKey": "greenx-metals",
+  "symbols": ["GRX", "GRX.AX", "GRX.L"],
+  "matchNames": ["greenx", "greenx metals"],
+  "asOfDate": "2026-05-01",
+  "source": "GreenX ASX release — Tannenberg JORC 2012 Exploration Target (May 2026)",
+  "sourceUrl": "https://greenxmetals.com/projects/tannenberg-copper-project/",
+  "commodityFocus": "copper-gold",
+  "explorationTarget": {
+    "tonnesMtMin": 144,
+    "tonnesMtMax": 279,
+    "cuPctMin": 0.9,
+    "cuPctMax": 1.4,
+    "agGtMin": 15,
+    "agGtMax": 21,
+    "containedCuMtMin": 1.3,
+    "containedCuMtMax": 3.9,
+    "containedAgMozMin": 69,
+    "containedAgMozMax": 188
+  },
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": false,
+    "disclosureNote": "No mineral reserves or mineral resources declared. Tannenberg figure is a JORC 2012 Exploration Target only (conceptual). Eleonore North and legacy ARC Greenland assets are excluded from metal inventory."
+  },
+  "summary": {
+    "resourceTonnesMt": 211.5,
+    "resourceCuPct": 1.15,
+    "resourceAgGt": 18,
+    "containedCuLb": 5732000000,
+    "containedAgOz": 128700000
+  },
+  "rows": [
+    {
+      "deposit": "Tannenberg (Hessen, Germany)",
+      "category": "resources",
+      "classification": "Exploration target (JORC 2012)",
+      "tonnesKt": 211500,
+      "grade": 1.15,
+      "gradeUnit": "% Cu (mid); 18 g/t Ag (mid)",
+      "containedMetal": 2.6,
+      "containedUnit": "Mt Cu (mid of 1.3–3.9 Mt range)",
+      "notes": "144–279 Mt @ 0.9–1.4% Cu and 15–21 g/t Ag; 69–188 Moz Ag. Insufficient exploration for a Mineral Resource."
+    },
+    {
+      "deposit": "Eleonore North (Greenland)",
+      "category": "resources",
+      "classification": "Exploration",
+      "notes": "Au / W / Sb targets (Noa, Margeries); no resource or ET in tracker"
+    }
+  ],
+  "disclaimers": [
+    "Exploration Target is conceptual under JORC 2012 — not a Mineral Resource or Reserve.",
+    "EV/lb Cu and EV/oz Ag use midpoint contained metal from the ET range vs group EV (~A$277M mkt cap).",
+    "Initial drill program targeted late 2026; MRE may follow if drilling succeeds."
+  ]
+}

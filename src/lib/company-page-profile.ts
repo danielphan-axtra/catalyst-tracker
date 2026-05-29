@@ -1,6 +1,7 @@
 import { getMiningCompanyProfile } from "@/lib/mining-company-config";
 import { hasCashRunwaySection } from "@/lib/cash-runway-registry";
 import { matchOperatingCompany } from "@/lib/operating-company-registry";
+import { isArgentaSilverCompany } from "@/lib/cash-runway";
 
 export { isCuraleafCompany, isOndoInsurtechCompany, isOperatingCompany } from "@/lib/operating-company-registry";
 
@@ -37,14 +38,15 @@ export function getCompanyPageProfile(
 
   const mining = getMiningCompanyProfile(symbol, name, industry);
   const showMiningDcf = mining.showProducingDcf || mining.showFeasibilityDcf;
+  const argenta = isArgentaSilverCompany(symbol, name);
 
   return {
     showEndeavourDcf: mining.showEndeavourDcf,
     showAgnicoDcf: mining.showAgnicoDcf,
     showMiningDcf,
     showFeasibilityDcf: mining.showFeasibilityDcf,
-    showOperatingCashFlow: false,
-    operatingCashFlowFileName: null,
+    showOperatingCashFlow: argenta,
+    operatingCashFlowFileName: argenta ? "argenta-operating-cashflow.json" : null,
     showCashRunway: hasCashRunwaySection(symbol, name, industry, balanceCash),
     hideMiningValuationMetrics: false,
   };

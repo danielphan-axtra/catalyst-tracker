@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import { CatalystsTable } from "./CatalystsTable";
 import { CatalystsGantt } from "./CatalystsGantt";
 import type { Catalyst } from "@prisma/client";
+import { filterUpcomingCatalysts } from "@/lib/catalyst-engine";
 
 type ViewMode = "table" | "gantt";
 
@@ -18,9 +19,9 @@ export function CatalystsSection({
 }) {
   const [view, setView] = useState<ViewMode>("table");
 
-  // Ensure catalysts are ordered from soonest to latest for both table and Gantt
   const ordered = useMemo(() => {
-    return [...catalysts].sort((a, b) => {
+    const upcoming = filterUpcomingCatalysts(catalysts);
+    return [...upcoming].sort((a, b) => {
       const aStart = a.dateStart ?? a.dateEnd;
       const bStart = b.dateStart ?? b.dateEnd;
       if (!aStart && !bStart) return 0;
@@ -56,7 +57,7 @@ export function CatalystsSection({
         </div>
       </div>
       {ordered.length === 0 ? (
-        <p className="mt-6 text-neutral-500">No upcoming catalysts listed.</p>
+        <p className="mt-6 text-neutral-500">No upcoming catalysts with future expected dates.</p>
       ) : view === "table" ? (
         <CatalystsTable
           catalysts={ordered}

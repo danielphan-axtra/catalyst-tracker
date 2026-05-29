@@ -1,0 +1,60 @@
+{
+  "companyKey": "argenta-silver",
+  "symbols": ["AGAG", "AGAG.V", "AGAGF"],
+  "matchNames": ["argenta", "argenta silver", "argenta resources"],
+  "asOfDate": "2024-12-31",
+  "source": "Argenta Silver El Quevar Yaxtché MRE (2024); NI 43-101 technical report",
+  "sourceUrl": "https://argentasilver.com/",
+  "commodityFocus": "silver",
+  "resourceReporting": {
+    "measuredIndicatedIncludesReserves": false,
+    "inferredReportedSeparately": true,
+    "disclosureNote": "No mineral reserves declared; project in advanced exploration. M&I and inferred are separate JORC/NI 43-101 categories."
+  },
+  "summary": {
+    "measuredIndicated": {
+      "tonnesKt": 2930,
+      "gradeGt": 482,
+      "containedMoz": 45.3,
+      "attributableMoz": 45.3
+    },
+    "inferred": {
+      "tonnesKt": 310,
+      "gradeGt": 417,
+      "containedMoz": 4.1,
+      "attributableMoz": 4.1
+    }
+  },
+  "rows": [
+    {
+      "deposit": "Yaxtché (El Quevar)",
+      "category": "resources",
+      "classification": "Indicated",
+      "tonnesKt": 2930,
+      "grade": 482,
+      "gradeUnit": "g/t Ag",
+      "containedMetal": 45.3,
+      "containedUnit": "Moz Ag"
+    },
+    {
+      "deposit": "Yaxtché (El Quevar)",
+      "category": "resources",
+      "classification": "Inferred",
+      "tonnesKt": 310,
+      "grade": 417,
+      "gradeUnit": "g/t Ag",
+      "containedMetal": 4.1,
+      "containedUnit": "Moz Ag"
+    },
+    {
+      "deposit": "El Quevar district",
+      "category": "resources",
+      "classification": "Exploration targets",
+      "notes": "Mani-Copan, Argentina, Andrea, Quevar North/South — <3% of 57,000 ha systematically explored"
+    }
+  ],
+  "disclaimers": [
+    "Argenta Silver Corp. (TSXV: AGAG) — formerly Butte Energy; 100% El Quevar via 2024 acquisition.",
+    "49.4 Moz Ag total M&I + inferred; open at depth and along strike."
+  ]
+}

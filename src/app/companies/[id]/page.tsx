@@ -72,7 +72,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ id: st
     try {
       spotQuotes = await fetchCommoditySpotQuotes();
     } catch {
-      spotQuotes = { goldUsdPerOz: 2500, copperUsdPerLb: 4.3 };
+      spotQuotes = { goldUsdPerOz: 2500, copperUsdPerLb: 4.3, tinUsdPerLb: 14.97, silverUsdPerOz: 32 };
     }
   }
 
@@ -120,6 +120,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ id: st
         inventory: mineralInventory,
         spotGoldUsdPerOz: quotes.goldUsdPerOz,
         spotCopperUsdPerLb: quotes.copperUsdPerLb,
+        spotSilverUsdPerOz: quotes.silverUsdPerOz,
       });
     } catch {
       evPerMetal = null;

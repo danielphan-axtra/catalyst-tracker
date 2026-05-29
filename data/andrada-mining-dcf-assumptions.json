@@ -1,0 +1,62 @@
+{
+  "source": "Andrada Mining Uis tin operations — modeled from FY2026 production (1,036 t contained Sn), investor deck ramp targets, and annual report cost structure.",
+  "assets": [
+    {
+      "name": "Uis tin & tantalum operations",
+      "type": "production",
+      "jurisdiction": "Namibia",
+      "revenueUsdPerUnit": 14.97,
+      "payableGoldProductionKozByYear": {
+        "Year1": 1036,
+        "Year2": 1400,
+        "Year3": 1800,
+        "Year4": 2200,
+        "Year5": 2500
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 11.8,
+        "Year2": 11.2,
+        "Year3": 10.8,
+        "Year4": 10.5,
+        "Year5": 10.2
+      },
+      "capexUsdMByYear": {
+        "Year1": 8,
+        "Year2": 10,
+        "Year3": 8,
+        "Year4": 6,
+        "Year5": 5
+      },
+      "mineLifeEndYear": null,
+      "notes": "Production in contained tin (tonnes). Revenue and AISC in USD/lb Sn (LME-style). FY2026 actual ~1,036 t; ramp toward 2.5× output over 36 months."
+    },
+    {
+      "name": "Uis lithium integration (petalite)",
+      "type": "development",
+      "jurisdiction": "Namibia",
+      "payableGoldProductionKozByYear": {
+        "Year1": 0,
+        "Year2": 0,
+        "Year3": 0,
+        "Year4": 15000,
+        "Year5": 35000
+      },
+      "aiscUsdPerOzByYear": {
+        "Year1": 0,
+        "Year2": 0,
+        "Year3": 0,
+        "Year4": 420,
+        "Year5": 380
+      },
+      "capexUsdMByYear": {
+        "Year1": 2,
+        "Year2": 6,
+        "Year3": 18,
+        "Year4": 12,
+        "Year5": 8
+      },
+      "mineLifeEndYear": null,
+      "notes": "Petalite concentrate (t) — pre-feasibility stage; modeled staged ramp post-feasibility (50 ktpa target in company materials)."
+    }
+  ]
+}

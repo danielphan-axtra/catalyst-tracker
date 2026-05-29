@@ -23,6 +23,21 @@ export type MineralResourceReporting = {
   disclosureNote?: string;
 };
 
+/** JORC/NI 43-101 exploration target (conceptual — not a mineral resource). */
+export type ExplorationTargetSummary = {
+  tonnesMtMin: number;
+  tonnesMtMax: number;
+  cuPctMin: number;
+  cuPctMax: number;
+  agGtMin?: number;
+  agGtMax?: number;
+  /** Contained copper in Mt (metal), issuer-stated range. */
+  containedCuMtMin: number;
+  containedCuMtMax: number;
+  containedAgMozMin?: number;
+  containedAgMozMax?: number;
+};
+
 export type MineralInventoryFile = {
   companyKey: string;
   symbols?: string[];
@@ -30,27 +45,11 @@ export type MineralInventoryFile = {
   asOfDate: string;
   source: string;
   sourceUrl?: string;
-  commodityFocus: "gold" | "copper-gold";
+  commodityFocus: "gold" | "copper-gold" | "tin" | "silver";
   resourceReporting?: MineralResourceReporting;
+  /** Conceptual ET when no MRE/reserves exist (e.g. GreenX Tannenberg May 2026). */
+  explorationTarget?: ExplorationTargetSummary;
   summary: {
-    reserves?: {
-      tonnesKt?: number;
-      gradeGt?: number;
-      containedMoz?: number;
-      attributableMoz?: number;
-    };
-    measuredIndicated?: {
-      tonnesKt?: number;
-      gradeGt?: number;
-      containedMoz?: number;
-      attributableMoz?: number;
-    };
-    inferred?: {
-      tonnesKt?: number;
-      gradeGt?: number;
-      containedMoz?: number;
-      attributableMoz?: number;
-    };
     /** Copper-gold explorers: contained CuEq lb at resource price deck */
     containedCuEqLb?: number;
     containedCuLb?: number;
@@ -61,6 +60,35 @@ export type MineralInventoryFile = {
     resourceCuPct?: number;
     resourceAuGt?: number;
     resourceAgGt?: number;
+    /** Tin: contained metal in metric tonnes and lb (for EV/lb). */
+    containedSnT?: number;
+    containedSnLb?: number;
+    reserves?: {
+      tonnesKt?: number;
+      gradeGt?: number;
+      containedMoz?: number;
+      attributableMoz?: number;
+      containedSnT?: number;
+      containedSnLb?: number;
+      containedCuLb?: number;
+    };
+    measuredIndicated?: {
+      tonnesKt?: number;
+      gradeGt?: number;
+      containedMoz?: number;
+      attributableMoz?: number;
+      containedSnT?: number;
+      containedSnLb?: number;
+      containedCuLb?: number;
+    };
+    inferred?: {
+      tonnesKt?: number;
+      gradeGt?: number;
+      containedMoz?: number;
+      attributableMoz?: number;
+      containedSnT?: number;
+      containedSnLb?: number;
+    };
   };
   rows: MineralRow[];
   disclaimers?: string[];

@@ -5,6 +5,8 @@ import { useSession } from "next-auth/react";
 import { formatCatalystTiming } from "@/lib/format";
 import type { Catalyst } from "@prisma/client";
 import { CatalystImpactInsightView } from "@/components/CatalystImpactInsight";
+import { resolveCatalystView } from "@/lib/catalyst-engine";
+import { CatalystDetailsPanel } from "@/components/CatalystDetailsPanel";
 
 export function CatalystsTable({
   catalysts,
@@ -30,35 +32,41 @@ export function CatalystsTable({
         <thead>
           <tr className="text-left text-sm text-black/60">
             <th className="pb-3 font-semibold">Title</th>
-            <th className="pb-3 font-semibold">Description</th>
-            <th className="pb-3 font-semibold">Timing</th>
+            <th className="pb-3 font-semibold">Summary</th>
+            <th className="pb-3 font-semibold">Expected timing</th>
             <th className="pb-3 font-semibold">Impact</th>
           </tr>
         </thead>
         <tbody className="divide-y divide-black/5">
-          {catalysts.map((c) => (
-            <tr key={c.id} className="text-sm">
-              <td className="py-4 pr-4 font-medium text-black align-top">{c.title}</td>
-              <td className="py-4 pr-4 text-black/80 align-top">{c.description}</td>
-              <td className="py-4 pr-4 text-black/80 whitespace-nowrap align-top">
-                {formatCatalystTiming(c.dateStart, c.dateEnd)}
-              </td>
-              <td className="py-4 align-top">
-                {c.importance ? (
-                  <ImportanceCell
-                    text={c.importance}
-                    title={c.title}
-                    description={c.description}
-                    companyName={companyName}
-                    companySymbol={companySymbol}
-                    hasPaidAccess={hasPaidAccess}
-                  />
-                ) : (
-                  <span className="text-black/40">—</span>
-                )}
-              </td>
-            </tr>
-          ))}
+          {catalysts.map((c) => {
+            const view = resolveCatalystView(c);
+            return (
+              <tr key={c.id} className="text-sm align-top">
+                <td className="py-4 pr-4 font-medium text-black">{c.title}</td>
+                <td className="py-4 pr-4 text-black/80">
+                  <div>{view.summary}</div>
+                  <CatalystDetailsPanel analysis={view.analysis} />
+                </td>
+                <td className="py-4 pr-4 whitespace-nowrap text-black/80">
+                  {formatCatalystTiming(c.dateStart, c.dateEnd)}
+                </td>
+                <td className="py-4">
+                  {c.importance ? (
+                    <ImportanceCell
+                      text={c.importance}
+                      title={c.title}
+                      description={c.description}
+                      companyName={companyName}
+                      companySymbol={companySymbol}
+                      hasPaidAccess={hasPaidAccess}
+                    />
+                  ) : (
+                    <span className="text-black/40">—</span>
+                  )}
+                </td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </div>
@@ -93,7 +101,7 @@ function ImportanceCell({
   }
   return (
     <div className="relative inline-block">
-      <span className="select-none blur-md bg-black/20 rounded px-2 py-1">
+      <span className="select-none rounded bg-black/20 px-2 py-1 blur-md">
         {text.slice(0, 30)}…
       </span>
       <Link

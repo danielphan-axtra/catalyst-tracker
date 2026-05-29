@@ -73,6 +73,11 @@ export type CashRunwayBuildInput = {
   minimumLiquidityCadM?: number;
   snapshots: CashSnapshot[];
   financingEvent?: CashRunwayFinancingEvent | null;
+  /**
+   * When true, anchor cash already includes financingEvent proceeds — do not add net proceeds again.
+   * Auto-detected when financing date ≤ latest published snapshot date.
+   */
+  financingIncludedInAnchor?: boolean;
   methodology: string[];
   /** When true, runway matches positive FCF on cash flow chart (no financing window). */
   selfFunding?: boolean;
@@ -155,12 +160,38 @@ function resolveForwardAnchor(
       : (latestSnapshot?.cashCadM ?? input.currentCashCadM);
 
   const forecastStart = maxIsoDate(today, latestPublishedIso);
-  const forecastStartCash = rollForwardCash(
-    publishedCash,
-    latestPublishedIso,
-    forecastStart,
-    monthlyChangeM,
-  );
+  const fin = input.financingEvent;
+  const financingIncludedInAnchor =
+    input.financingIncludedInAnchor ??
+    (fin != null && parseTs(fin.date) <= parseTs(latestPublishedIso));
+
+  let forecastStartCash: number;
+  if (
+    fin &&
+    !financingIncludedInAnchor &&
+    parseTs(fin.date) > parseTs(latestPublishedIso) &&
+    parseTs(fin.date) <= parseTs(forecastStart)
+  ) {
+    const cashAtFinancing = rollForwardCash(
+      publishedCash,
+      latestPublishedIso,
+      fin.date,
+      monthlyChangeM,
+    );
+    forecastStartCash = rollForwardCash(
+      cashAtFinancing + fin.netCadM,
+      fin.date,
+      forecastStart,
+      monthlyChangeM,
+    );
+  } else {
+    forecastStartCash = rollForwardCash(
+      publishedCash,
+      latestPublishedIso,
+      forecastStart,
+      monthlyChangeM,
+    );
+  }
 
   return { forecastStart, forecastStartCash };
 }
@@ -350,6 +381,42 @@ export function isPacificRidgeCompany(symbol: string, name: string): boolean {
   const s = symbol.toUpperCase().replace(/\./g, "");
   const n = name.toLowerCase();
   return s === "PEX" || s === "PEXV" || n.includes("pacific ridge");
+}
+
+export function isAndradaMiningCompany(symbol: string, name: string): boolean {
+  const s = symbol.toUpperCase().replace(/\./g, "");
+  const n = name.toLowerCase();
+  return s === "ATML" || s === "ATM" || s === "ATMT" || s === "ATMTF" || n.includes("andrada");
+}
+
+export function isCelsiusResourcesCompany(symbol: string, name: string): boolean {
+  const s = symbol.toUpperCase().replace(/\.(AX|L)$/i, "");
+  const n = name.toLowerCase();
+  return s === "CLA" || n.includes("celsius");
+}
+
+export function isArgentaSilverCompany(symbol: string, name: string): boolean {
+  const s = symbol.toUpperCase().replace(/\.(V|F)$/i, "");
+  const n = name.toLowerCase();
+  return s === "AGAG" || s === "AGAGF" || n.includes("argenta");
+}
+
+export function isAmarcResourcesCompany(symbol: string, name: string): boolean {
+  const s = symbol.toUpperCase().replace(/\.V$/i, "");
+  const n = name.toLowerCase();
+  return s === "AHR" || n.includes("amarc");
+}
+
+export function isArcMineralsCompany(symbol: string, name: string): boolean {
+  const s = symbol.toUpperCase().replace(/\.L$/i, "");
+  const n = name.toLowerCase();
+  return s === "ARCM" || n.includes("arc mineral");
+}
+
+export function isGreenxMetalsCompany(symbol: string, name: string): boolean {
+  const s = symbol.toUpperCase().replace(/\.AX$/i, "");
+  const n = name.toLowerCase();
+  return s === "GRX" || n.includes("greenx");
 }
 
 /** @deprecated Use hasCashRunwaySection from cash-runway-registry */

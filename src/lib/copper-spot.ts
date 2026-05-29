@@ -37,15 +37,51 @@ export async function fetchGoldSpotUsdPerOz(): Promise<number> {
 export type CommoditySpotQuotes = {
   goldUsdPerOz: number;
   copperUsdPerLb: number;
+  tinUsdPerLb: number;
+  silverUsdPerOz: number;
 };
 
 /** Fetch gold and copper spot proxies in one round trip. */
+export async function fetchTinSpotUsdPerLb(): Promise<number> {
+  try {
+    const res = await fetch("https://query1.finance.yahoo.com/v8/finance/chart/SN=F?range=1d&interval=1d", {
+      next: { revalidate: 900 },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const close = data?.chart?.result?.[0]?.meta?.regularMarketPrice;
+    const value = Number(close);
+    if (Number.isFinite(value) && value > 0) return value;
+    throw new Error("Invalid tin spot response");
+  } catch {
+    return 14.97;
+  }
+}
+
+export async function fetchSilverSpotUsdPerOz(): Promise<number> {
+  try {
+    const res = await fetch("https://query1.finance.yahoo.com/v8/finance/chart/SI=F?range=1d&interval=1d", {
+      next: { revalidate: 900 },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const close = data?.chart?.result?.[0]?.meta?.regularMarketPrice;
+    const value = Number(close);
+    if (Number.isFinite(value) && value > 0) return value;
+    throw new Error("Invalid silver spot response");
+  } catch {
+    return 32;
+  }
+}
+
 export async function fetchCommoditySpotQuotes(): Promise<CommoditySpotQuotes> {
-  const [goldUsdPerOz, copperUsdPerLb] = await Promise.all([
+  const [goldUsdPerOz, copperUsdPerLb, tinUsdPerLb, silverUsdPerOz] = await Promise.all([
     fetchGoldSpotUsdPerOz(),
     fetchCopperSpotUsdPerLb(),
+    fetchTinSpotUsdPerLb(),
+    fetchSilverSpotUsdPerOz(),
   ]);
-  return { goldUsdPerOz, copperUsdPerLb };
+  return { goldUsdPerOz, copperUsdPerLb, tinUsdPerLb, silverUsdPerOz };
 }
 
 function commodityNameLower(commodityName?: string | null): string {
@@ -59,6 +95,10 @@ export function isCopperCommodity(commodityName?: string | null): boolean {
 export function isGoldCommodity(commodityName?: string | null): boolean {
   const n = commodityNameLower(commodityName);
   return n.length === 0 || n === "gold" || n.includes("gold");
+}
+
+export function isTinCommodity(commodityName?: string | null): boolean {
+  return commodityNameLower(commodityName).includes("tin");
 }
 
 /**
@@ -76,6 +116,7 @@ export function resolveSpotCommodityPriceUsd(params: {
     params;
 
   if (isCopperCommodity(commodityName)) return quotes.copperUsdPerLb;
+  if (isTinCommodity(commodityName)) return quotes.tinUsdPerLb;
   if (isGoldCommodity(commodityName)) return quotes.goldUsdPerOz;
 
   const unit = (commodityPriceUnit ?? "").toLowerCase();

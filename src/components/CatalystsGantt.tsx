@@ -7,6 +7,8 @@ import { format, startOfDay } from "date-fns";
 import { formatCatalystTiming, formatDateRange } from "@/lib/format";
 import type { Catalyst } from "@prisma/client";
 import { CatalystImpactInsightView } from "@/components/CatalystImpactInsight";
+import { resolveCatalystView } from "@/lib/catalyst-engine";
+import { CatalystDetailsPanel } from "@/components/CatalystDetailsPanel";
 import {
   formatTimeAxisTick,
   getEvenTimeAxisTicks,
@@ -50,12 +52,14 @@ export function CatalystsGantt({
     return catalysts
       .filter((c) => c.dateStart || c.dateEnd)
       .map((c, i) => {
-        const start = c.dateStart ? new Date(c.dateStart) : (c.dateEnd ? new Date(c.dateEnd) : today);
-        const end = c.dateEnd ? new Date(c.dateEnd) : new Date(start.getTime() + 7 * MS_PER_DAY);
+        const rawStart = c.dateStart ? new Date(c.dateStart) : (c.dateEnd ? new Date(c.dateEnd) : today);
+        const end = c.dateEnd ? new Date(c.dateEnd) : new Date(rawStart.getTime() + 7 * MS_PER_DAY);
+        const start = rawStart.getTime() < today.getTime() ? today : rawStart;
         const startStr = format(start, "yyyy-MM-dd");
         const endStr = format(end, "yyyy-MM-dd");
         return {
           id: c.id,
+          catalyst: c,
           name: c.title,
           description: c.description,
           importance: c.importance,
@@ -63,8 +67,8 @@ export function CatalystsGantt({
           dateEnd: c.dateEnd,
           start: startStr,
           end: endStr,
-          timingLabel: formatCatalystTiming(start, end),
-          progress: start.getTime() < today.getTime() ? 100 : 0,
+          timingLabel: formatCatalystTiming(c.dateStart ?? start, end),
+          progress: 0,
           custom_class: `catalyst-${i % 3}`,
         };
       });
@@ -223,9 +227,10 @@ export function CatalystsGantt({
                     ) : null}
                   </div>
                 )}
-                {!task.description && !task.importance && (
-                  <p className="text-black/50">No additional details.</p>
-                )}
+                <CatalystDetailsPanel
+                  analysis={resolveCatalystView(task.catalyst).analysis}
+                  forceOpen
+                />
               </div>
             </div>
           </div>

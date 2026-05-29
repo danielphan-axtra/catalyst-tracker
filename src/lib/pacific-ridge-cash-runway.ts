@@ -17,14 +17,19 @@ const SEP_2025_FINANCING = {
   label: "Brokered private placement (Sep 2025, aggregate gross)",
 };
 
-export function buildPacificRidgeCashRunwayModel(): CashRunwayModel {
+export function buildPacificRidgeCashRunwayModel(balanceCashCad?: number | null): CashRunwayModel {
   const monthlyBurnM = MONTHLY_BURN_CADM / 1e6;
+  const publishedCashCadM =
+    balanceCashCad != null && balanceCashCad > 0
+      ? balanceCashCad / 1_000_000
+      : CASH_DEC_31_2025_CADM;
 
   return buildCashRunwayModel({
     companyDisplayName: "Pacific Ridge Exploration",
-    currentCashCadM: CASH_DEC_31_2025_CADM,
+    currentCashCadM: publishedCashCadM,
     currentCashAsOf: "2025-12-31",
     monthlyNetCashChangeCadM: -monthlyBurnM,
+    financingIncludedInAnchor: true,
     monthlyBurnNote:
       "FY2025 cash used in operating + investing activities, divided by 12 (excludes prior equity financing).",
     snapshots: [
@@ -44,7 +49,7 @@ export function buildPacificRidgeCashRunwayModel(): CashRunwayModel {
       {
         asOf: "2025-12-31",
         label: "Dec '25",
-        cashCadM: CASH_DEC_31_2025_CADM,
+        cashCadM: publishedCashCadM,
         kind: "actual",
         note: "Latest year-end cash (anchor for forward path)",
       },
